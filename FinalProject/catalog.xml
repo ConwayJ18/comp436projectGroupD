@@ -475,7 +475,7 @@
 <item id="011">
         <name>The Day Heel</name>
         <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
-        <type>shoes</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Bright Red</color>
         </colors>
@@ -554,11 +554,11 @@
             <price>190</price>
             <sku>849557-006</sku>
             <gender>Women</gender>
-            <pattern></pattern>
-            <occasion>sports</occasion>
+            <pattern>Nets</pattern>
+            <occasion>Sports</occasion>
             <materials>
                 <material>
-                  fabric
+                  Fabric
                 </material>
                 <material>
                   Rubber
@@ -586,12 +586,12 @@
               L
             </size>
         </sizes>
-        <brand>Urban Outfitter</brand>
+        <brand>Riot Society</brand>
         <price>34</price>
         <sku>44395119</sku>
         <gender>Men</gender>
-        <pattern>embroidered bottle</pattern>
-        <occasion>casual</occasion>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
         <materials>
             <material>
               Cotton
@@ -603,7 +603,7 @@
 <item id="014">
     <name>Bow belted dress</name>
     <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
-    <type></type>
+    <type>Dress</type>
     <colors>
         <color type="primary">mustard</color>
     </colors>
@@ -623,8 +623,8 @@
     <price>49.99</price>
     <sku>11047696</sku>
     <gender>Women</gender>
-    <pattern></pattern>
-    <occasion>casual</occasion>
+    <pattern>Solid</pattern>
+    <occasion>Casual</occasion>
     <materials>
         <material>
           Fabric
@@ -653,11 +653,11 @@
         <price>39.90</price>
         <sku>0049/205</sku>
         <gender>Women</gender>
-        <pattern></pattern>
-        <occasion>formal</occasion>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
         <materials>
             <material>
-              wool
+              Wool
             </material>
         </materials>
     </item>
