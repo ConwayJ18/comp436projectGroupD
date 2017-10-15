@@ -460,21 +460,21 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-			Wool, 
+			Wool,
             </material>
             <material>
-			Poly,  
+			Poly,
             </material>
 			<material>
-			Elastane 
+			Elastane
             </material>
         </materials>
     </item>
 
 
-    <item id="011">
+<item id="011">
         <name>The Day Heel</name>
-        <photo><img src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg?w=1200&h=1200&q=65&dpr=1"/></photo>
+        <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg?w=1200&h=1200&q=65&dpr=1"/></photo>
         <type>shoes</type>
         <colors>
             <color type="primary">Bright Red</color>
@@ -533,9 +533,9 @@
         </materials>
         </item>
 
-        <item id="012">
+     <item id="012">
             <name>Nike Air Vapormax Flyknit</name>
-            <photo><img width="150" height="150" src="https://store.nike.com/us/en_us/pd/air-vapormax-flyknit-womens-running-shoe/pid-11585109/pgid-11813302"/></photo>
+            <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/849557_006_A_PREM/air-vapormax-flyknit-womens-running-shoe.jpg"/></photo>
             <type>Shoes</type>
             <colors>
                 <color type="primary">Black</color>
@@ -570,7 +570,7 @@
 
     <item id="013">
         <name>Riot Society Embroidered 40 Tee</name>
-        <photo><img width="150" height="150" src="https://www.urbanoutfitters.com/shop/riot-society-embroidered-40-tee?category=graphic-tees-for-men&color=010"/></photo>
+        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b?$xlarge$&hei=900&fit=constrain"/></photo>
         <type>T-shirt</type>
         <colors>
             <color type="primary">white</color>
@@ -602,7 +602,7 @@
 
 <item id="014">
     <name><Bow belted dress/name>
-    <photo><img width="150" height="150" src="https://shop.mango.com/us/women/dresses-short/bow-belted-dress_11047696.html?c=15&n=1&s=nuevo"/></photo>
+    <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
     <type></type>
     <colors>
         <color type="primary">mustard</color>
@@ -633,11 +633,9 @@
 </item>
 
 
-
-
     <item id="015">
         <name>Fedora Hat with ribbon</name>d
-        <photo><img width="150" height="150" src="https://www.zara.com/us/en/fedora-hat-with-ribbon-p00049205.html?v1=4920094&v2=733915"/></photo>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
         <type>Accessories</type>
         <colors>
             <color type="primary">Ecru</color>
@@ -666,7 +664,7 @@
 </catalog>
 
 
-
+<!--
 
 
     <item id="XXX">
@@ -704,4 +702,4 @@
             </material>
         </materials>
     </item>
-</catalog>
+</catalog> -->
