@@ -474,7 +474,7 @@
 
 <item id="011">
         <name>The Day Heel</name>
-        <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg?w=1200&h=1200&q=65&dpr=1"/></photo>
+        <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
         <type>shoes</type>
         <colors>
             <color type="primary">Bright Red</color>
@@ -570,7 +570,7 @@
 
     <item id="013">
         <name>Riot Society Embroidered 40 Tee</name>
-        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b?$xlarge$&hei=900&fit=constrain"/></photo>
+        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
         <type>T-shirt</type>
         <colors>
             <color type="primary">white</color>
