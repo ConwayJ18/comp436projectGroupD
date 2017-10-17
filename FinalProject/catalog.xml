@@ -661,6 +661,142 @@
             </material>
         </materials>
     </item>
+	<item id="0016"> 
+        <name>Lightweight Bomber</name>
+        <photo>
+        <img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/980/334/cn13980334.jpg"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Burgundy</color>
+            <color type="secondary">Burgundy</color>
+        </colors>
+        <sizes>
+            <size> XS</size>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>148.00</price>
+        <sku>796212</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>100% Polyester </material>
+            <material>Machine wash</material>
+        </materials>
+    </item>
+        <item id="0017"> 
+        <name>Bradstreet Leather Chukka Boot</name>
+        <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
+        <type>Boot</type>
+        <colors>
+            <color type="primary">Brown Full-Grain</color>
+            <color type="secondary">Black Nubuck</color>
+        </colors>
+        <sizes>
+            <size>7.0</size>
+            <size>7.5</size>
+            <size>8.0</size>
+            <size>8.5</size>
+            <size>9.0</size>
+            <size>9.5</size>
+            <size>10.0</size>
+            <size>10.5</size>
+        </sizes>
+        <brand>Timberland</brand>
+        <price>120.00</price>
+        <sku>Style A146Q001</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Premium Full-Grain Leather Uppers/</material>
+            <material>Padded Collars</material>
+        </materials>
+    </item>
+    <item id="018"> 
+        <name>Black Leather Ankle Boot</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
+        <type>Boot</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>6</size>
+            <size>7</size>
+            <size>8</size>
+            <size>9</size>
+            <size>10</size>
+            <size>11</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>69.90</price>
+        <sku>5602/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Essentials</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+  <item id="019"> 
+        <name>Pique Puffer Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Navy Blue</color>
+            <color type="secondary">Grey Marl</color>
+        </colors>
+        <sizes>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>79.90</price>
+        <sku>1608/419</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Padded</material>
+            <material></material>
+        </materials>
+    </item>
+     <item id="020" > 
+        <name>Hooded Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>109.00</price>
+        <sku>4341/388</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Removable Hood</material>
+            <material>Long Sleeves With Snap Button Cuffs And Elastic Wais</material>
+        </materials>
+    </item> 
 </catalog>
 
 
