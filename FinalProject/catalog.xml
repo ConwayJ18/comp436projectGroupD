@@ -747,7 +747,7 @@
             <material></material>
         </materials>
     </item>
-  <item id="019" categories="Clothing">
+  <item id="019" category="Clothing">
         <name>Pique Puffer Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
         <type>Jacket</type>
@@ -774,7 +774,7 @@
         </materials>
     </item>
 
-     <item id="020" categories="Clothing" >
+     <item id="020" category="Clothing" >
         <name>Hooded Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
         <type>Jacket</type>
