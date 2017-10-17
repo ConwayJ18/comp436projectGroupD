@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="interface.xsl"?>
 <catalog>
-    <item id="001">
+    <item id="001" category="Clothing">
         <name>Easy-Iron Slim-Fit Shirt</name>
         <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
         <type>Shirt</type>
@@ -43,7 +43,8 @@
             </material>
         </materials>
     </item>
-    <item id="002">
+
+    <item id="002" category="Clothing">
         <name>AEO Extreme Flex Classic Flat Front Short</name>
         <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
         <type>Short</type>
@@ -115,10 +116,11 @@
             </material>
         </materials>
     </item>
-    <item id="003">
+
+    <item id="003" category="Shoes">
         <name>Converse Chuck Taylor All Star Slip Low Top</name>
         <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
-        <type>Shoe</type>
+        <type>Comfort</type>
         <colors>
             <color type="primary">Gray</color>
             <color type="secondary">White</color>
@@ -158,10 +160,10 @@
             </material>
         </materials>
     </item>
-	<item id="004">
+	<item id="004" category="Clothing">
         <name>Afterparty Men's Crew Sock</name>
         <photo><img width="150" height="150" src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
-        <type>Sock</type>
+        <type>Socks</type>
         <colors>
             <color type="primary">Purple</color>
             <color type="secondary">Black</color>
@@ -183,7 +185,7 @@
             </material>
         </materials>
     </item>
-	<item id="005">
+	<item id="005" category="Clothing">
         <name>AEO Plaid Oxford Shirt</name>
         <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
         <type>Shirt</type>
@@ -227,7 +229,7 @@
         </materials>
     </item>
 
-	<item id="006">
+	<item id="006" category= "Clothing">
         <name>Long-Sleeve Tie-Neck Top</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
         <type>Blouse</type>
@@ -261,7 +263,7 @@
         </materials>
     </item>
 
-	 <item id="007">
+	 <item id="007" category="Clothing">
         <name>Herringbone Bow-Neck Jacket</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
         <type>JACKETS</type>
@@ -317,7 +319,7 @@
         </materials>
     </item>
 
-	<item id="008">
+	<item id="008" category="Clothing">
         <name>DONEGAL TWEED OPEN-FRONT COAT</name>
         <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
         <type>Coat</type>
@@ -364,7 +366,7 @@
         </materials>
     </item>
 
-	<item id="009">
+	<item id="009" category="Clothing">
         <name>KEYHOLE FIT-AND-FLARE DRESS</name>
         <photo><img width="150" height="150" src="https://cdna.lystit.com/photos/ralphlauren/136116906-sterling%20grey%20heather-3d189984-.jpeg"/></photo>
         <type>Dress</type>
@@ -415,7 +417,7 @@
         </materials>
     </item>
 
-    <item id="010">
+    <item id="010" category="Clothing">
         <name>Slim trouser with ruffle waist in wool flannel</name>
         <photo><img width="150" height="150" src="https://www.jcrew.com/s7-img-facade/G8589_WQ2306"/></photo>
         <type>Pants</type>
@@ -472,10 +474,10 @@
     </item>
 
 
-<item id="011">
+<item id="011" category="Shoes">
         <name>The Day Heel</name>
         <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
-        <type>Shoes</type>
+        <type>heels</type>
         <colors>
             <color type="primary">Bright Red</color>
         </colors>
@@ -533,10 +535,10 @@
         </materials>
         </item>
 
-     <item id="012">
+     <item id="012" category="Shoes">
             <name>Nike Air Vapormax Flyknit</name>
             <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/849557_006_A_PREM/air-vapormax-flyknit-womens-running-shoe.jpg"/></photo>
-            <type>Shoes</type>
+            <type>Sneakers</type>
             <colors>
                 <color type="primary">Black</color>
                 <color type="secondary">Dark Grey</color>
@@ -568,7 +570,7 @@
 
 
 
-    <item id="013">
+    <item id="013" category="Clothing">
         <name>Riot Society Embroidered 40 Tee</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
         <type>T-shirt</type>
@@ -600,7 +602,7 @@
     </item>
 
 
-<item id="014">
+<item id="014" category="Clothing">
     <name>Bow belted dress</name>
     <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
     <type>Dress</type>
@@ -633,10 +635,10 @@
 </item>
 
 
-    <item id="015">
+    <item id="015" category="Accessories">
         <name>Fedora Hat with ribbon</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
-        <type>Accessories</type>
+        <type>Hats</type>
         <colors>
             <color type="primary">Ecru</color>
         </colors>
@@ -661,7 +663,7 @@
             </material>
         </materials>
     </item>
-	<item id="0016"> 
+	<item id="0016" category="Clothing">
         <name>Lightweight Bomber</name>
         <photo>
         <img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/980/334/cn13980334.jpg"/></photo>
@@ -689,10 +691,10 @@
             <material>Machine wash</material>
         </materials>
     </item>
-        <item id="0017"> 
+        <item id="0017" category="Shoes">
         <name>Bradstreet Leather Chukka Boot</name>
         <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
-        <type>Boot</type>
+        <type>Boots</type>
         <colors>
             <color type="primary">Brown Full-Grain</color>
             <color type="secondary">Black Nubuck</color>
@@ -718,7 +720,7 @@
             <material>Padded Collars</material>
         </materials>
     </item>
-    <item id="018"> 
+    <item id="018" category="Shoes">
         <name>Black Leather Ankle Boot</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
         <type>Boot</type>
@@ -745,7 +747,7 @@
             <material></material>
         </materials>
     </item>
-  <item id="019"> 
+  <item id="019" categories="Clothing">
         <name>Pique Puffer Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
         <type>Jacket</type>
@@ -771,7 +773,8 @@
             <material></material>
         </materials>
     </item>
-     <item id="020" > 
+
+     <item id="020" categories="Clothing" >
         <name>Hooded Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
         <type>Jacket</type>
@@ -796,7 +799,7 @@
             <material>Removable Hood</material>
             <material>Long Sleeves With Snap Button Cuffs And Elastic Wais</material>
         </materials>
-    </item> 
+    </item>
 </catalog>
 
 
