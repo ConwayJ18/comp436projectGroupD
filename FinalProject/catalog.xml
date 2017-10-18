@@ -524,7 +524,7 @@
         </sizes>
         <brand>Everlane</brand>
         <price>145</price>
-        <!-- <sku>53-5964</sku> -->
+        <sku>53-5964</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
@@ -568,14 +568,12 @@
             </materials>
         </item>
 
-
-
     <item id="013" category="Clothing">
         <name>Riot Society Embroidered 40 Tee</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
         <type>T-shirt</type>
         <colors>
-            <color type="primary">white</color>
+            <color type="primary">White</color>
         </colors>
         <sizes>
             <size>
@@ -607,7 +605,7 @@
     <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
     <type>Dress</type>
     <colors>
-        <color type="primary">mustard</color>
+        <color type="primary">Mustard</color>
     </colors>
     <sizes>
         <size>
@@ -649,7 +647,6 @@
             <size>
               M
             </size>
-
         </sizes>
         <brand>Zara</brand>
         <price>39.90</price>
@@ -711,7 +708,7 @@
         </sizes>
         <brand>Timberland</brand>
         <price>120.00</price>
-        <sku>Style A146Q001</sku>
+        <sku>A146Q001</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>

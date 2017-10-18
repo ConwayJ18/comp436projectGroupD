@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    
+
 <xsl:template match="/">
 <html>
     <head></head>
     <body>
         <h2>Fashion Catalog Search</h2>
 		 <table border="1">
-            <thead bgcolor="#9acd32">
+            <thead bgcolor="#ffcc99">
                 <th>Item Name</th>
                 <th>Photo</th>
                 <th>Clothing Type</th>
@@ -22,7 +22,7 @@
                 <th>Material</th>
             </thead>
 			<tbody>
-			
+
         <xsl:apply-templates/>
 		</tbody>
 		</table>
@@ -35,7 +35,7 @@
 		            <td><xsl:value-of select="name"/></td>
                     <td><xsl:copy-of select="photo/node()"/></td>
                     <td><xsl:value-of select="type"/></td>
-                    
+
 					<td><xsl:for-each select="colors/color">
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
@@ -62,7 +62,7 @@
                     <td><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
 					</xsl:for-each></td>
-                </tr>  
+                </tr>
 </xsl:template >
 
 
