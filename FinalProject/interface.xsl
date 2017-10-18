@@ -7,9 +7,9 @@
     <body>
         <h2>Fashion Catalog Search</h2>
         <table border="1">
-          <tr bgcolor="#ffcc99">
+          <tr bgcolor="#ffcc99" height="55px">
             <!-- <tr bgcolor="#9acd32"> -->
-                
+
                 <th>Photo</th>
 				<th>Item Name</th>
                 <th>Clothing Type</th>
@@ -25,7 +25,7 @@
             </tr>
             <xsl:for-each select="catalog/item">
                 <tr>
-                    
+
                     <td><xsl:copy-of select="photo/node()"/></td>
 					<td><xsl:value-of select="name"/></td>
                     <td><xsl:value-of select="type"/></td>
