@@ -7,7 +7,7 @@
     <body>
         <h2>Fashion Catalog Search</h2>
         <table border="1">
-            <tr bgcolor="#9acd32">
+            <tr bgcolor="#eaeff7">
 
                 <th>Photo</th>
 				<th>Item Name</th>
@@ -39,7 +39,7 @@
 						<xsl:value-of select="."/>/
 						</xsl:for-each>
 					</td>-->
-					<xsl:for-each select="sizes">
+					<td><xsl:value-of select="sizes"/></td>
                     <td><xsl:value-of select="brand"/></td>
                     <td><xsl:value-of select="price"/></td>
                     <td><xsl:value-of select="sku"/></td>
