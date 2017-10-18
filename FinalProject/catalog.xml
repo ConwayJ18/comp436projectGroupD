@@ -8,10 +8,8 @@
         <colors>
             <color type="primary">White</color>
         </colors>
-        <sizes>
-            <size>
-                XS-XXL
-            </size>
+        <sizes>           
+             XS-XXL      
         </sizes>
         <brand>Burton</brand>
         <price>14.99</price>
@@ -37,7 +35,7 @@
             <color type="primary">Red</color>
         </colors>
         <sizes>
-    26-48
+             26-48
         </sizes>
         <brand>American Eagle</brand>
         <price>29.99</price>
@@ -64,24 +62,8 @@
             <color type="secondary">White</color>
         </colors>
         <sizes>
-            <size>
-              M3/W5
-            </size>
-            <size>
-              M3/W5.5
-            </size>
-            <size>
-              M4/W6
-            </size>
-            <size>
-              M6/W8
-            </size>
-            <size>
-              M8.5/W10.5
-            </size>
-            <size>
-              M10/W12
-            </size>
+		     M3/W5,M3/W5.5,M4/W6,
+			 M6/W8,M8.5/W10.5,M10/W12           
         </sizes>
         <brand>Converse</brand>
         <price>44.97</price>
@@ -107,9 +89,9 @@
             <color type="secondary">Black</color>
         </colors>
         <sizes>
-            <size>
+         
               One Size
-            </size>
+            
         </sizes>
         <brand>Pair of Thieves</brand>
         <price>10.00</price>
@@ -184,7 +166,7 @@
         </colors>
         <sizes>
 
-      0-16
+             0-16
         </sizes>
         <brand>Banana Republic</brand>
         <price>117.99</price>
@@ -325,13 +307,8 @@
                 <color type="secondary">Dark Grey</color>
             </colors>
             <sizes>
-                <size>
-                  7.5
-                </size>
-                <size>
-                  9.5
-                </size>
-
+			    7.5,9.5
+            
             </sizes>
             <brand>Nike</brand>
             <price>190</price>
@@ -357,16 +334,8 @@
             <color type="primary">White</color>
         </colors>
         <sizes>
-            <size>
-              S
-            </size>
-            <size>
-              M
-            </size>
-            <size>
-              L
-            </size>
-        </sizes>
+           S, M, L
+         </sizes>
         <brand>Riot Society</brand>
         <price>34</price>
         <sku>44395119</sku>
@@ -389,16 +358,7 @@
         <color type="primary">Mustard</color>
     </colors>
     <sizes>
-        <size>
-          4
-        </size>
-        <size>
-          6
-        </size>
-        <size>
-          8
-        </size>
-
+      4-8
     </sizes>
     <brand>Mango</brand>
     <price>49.99</price>
@@ -422,12 +382,7 @@
             <color type="primary">Ecru</color>
         </colors>
         <sizes>
-            <size>
-              S
-            </size>
-            <size>
-              M
-            </size>
+          S, M
         </sizes>
         <brand>Zara</brand>
         <price>39.90</price>

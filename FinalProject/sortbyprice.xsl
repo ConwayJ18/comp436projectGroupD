@@ -34,11 +34,12 @@
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
-                    <td>
+                   <!-- <td>
 						<xsl:for-each select="sizes/size">
 						<xsl:value-of select="."/>/
 						</xsl:for-each>
-					</td>
+					</td>-->
+					<xsl:for-each select="sizes">
                     <td><xsl:value-of select="brand"/></td>
                     <td><xsl:value-of select="price"/></td>
                     <td><xsl:value-of select="sku"/></td>
