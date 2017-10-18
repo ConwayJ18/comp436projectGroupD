@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="template_choose.xsl"?>
+<catalog>
+    <item id="001" category="Clothing">
+        <name>Easy-Iron Slim-Fit Shirt</name>
+        <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">White</color>
+        </colors>
+        <sizes>
+            <size>
+                XS
+            </size>
+            <size>
+                S
+            </size>
+            <size>
+                M
+            </size>
+            <size>
+                L
+            </size>
+            <size>
+                XL
+            </size>
+            <size>
+                XXL
+            </size>
+        </sizes>
+        <brand>Burton</brand>
+        <price>14.99</price>
+        <sku>53-5964</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+                Polyester,
+            </material>
+            <material>
+                Cotton
+            </material>
+        </materials>
+    </item>
+
+    <item id="002" category="Clothing">
+        <name>AEO Extreme Flex Classic Flat Front Short</name>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Short</type>
+        <colors>
+            <color type="primary">Red</color>
+        </colors>
+        <sizes>
+            <size>
+              26
+            </size>
+            <size>
+              28
+            </size>
+            <size>
+              29
+            </size>
+            <size>
+              30
+            </size>
+            <size>
+              31
+            </size>
+            <size>
+              32
+            </size>
+            <size>
+              33
+            </size>
+            <size>
+              34
+            </size>
+            <size>
+              35
+            </size>
+            <size>
+              36
+            </size>
+            <size>
+              38
+            </size>
+            <size>
+              40
+            </size>
+            <size>
+              42
+            </size>
+            <size>
+              44
+            </size>
+            <size>
+              46
+            </size>
+            <size>
+              48
+            </size>
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.99</price>
+        <sku>4133-6374-685</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton,
+            </material>
+            <material>
+              Spandex
+            </material>
+        </materials>
+    </item>
+
+    <item id="003" category="Shoes">
+        <name>Converse Chuck Taylor All Star Slip Low Top</name>
+        <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
+        <type>Comfort</type>
+        <colors>
+            <color type="primary">Gray</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+            <size>
+              M3/W5
+            </size>
+            <size>
+              M3/W5.5
+            </size>
+            <size>
+              M4/W6
+            </size>
+            <size>
+              M6/W8
+            </size>
+            <size>
+              M8.5/W10.5
+            </size>
+            <size>
+              M10/W12
+            </size>
+        </sizes>
+        <brand>Converse</brand>
+        <price>44.97</price>
+        <sku>1X841-077</sku>
+        <gender>Unisex</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton,
+            </material>
+            <material>
+              Rubber
+            </material>
+        </materials>
+    </item>
+	<item id="004" category="Clothing">
+        <name>Afterparty Men's Crew Sock</name>
+        <photo><img width="150" height="150" src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
+        <type>Socks</type>
+        <colors>
+            <color type="primary">Purple</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+            <size>
+              One Size
+            </size>
+        </sizes>
+        <brand>Pair of Thieves</brand>
+        <price>10</price>
+        <sku>Afterparty</sku>
+        <gender>Men</gender>
+        <pattern>Stripe</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+	<item id="005" category="Clothing">
+        <name>AEO Plaid Oxford Shirt</name>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">White</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            <size>
+              XS
+            </size>
+            <size>
+              S
+            </size>
+            <size>
+              M
+            </size>
+            <size>
+              M Tall
+            </size>
+            <size>
+              L
+            </size>
+            <size>
+              XL
+            </size>
+            <size>
+              XXL
+            </size>
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.96</price>
+        <sku>0153-9873-100</sku>
+        <gender>Men</gender>
+        <pattern>Plaid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+
+	<item id="006" category= "Clothing">
+        <name>Long-Sleeve Tie-Neck Top</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
+        <type>Blouse</type>
+        <colors>
+            <color type="primary">Soft Pink</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			XS
+            </size>
+			S
+            <size>
+			M
+            </size>
+			L
+            <size>
+			XL
+            </size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>59.00</price>
+        <sku>#797639</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			Polyester
+            </material>
+        </materials>
+    </item>
+
+	 <item id="007" category="Clothing">
+        <name>Herringbone Bow-Neck Jacket</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
+        <type>JACKETS</type>
+        <colors>
+            <color type="primary">Black&amp;white</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			0
+            </size>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+            <size>
+			14
+            </size>
+            <size>
+			16
+            </size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>117.99</price>
+        <sku>#874213</sku>
+        <gender>Women</gender>
+        <pattern>Herringbone</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Polyester,
+            </material>
+			<material>
+			Other
+            </material>
+        </materials>
+    </item>
+
+	<item id="008" category="Clothing">
+        <name>DONEGAL TWEED OPEN-FRONT COAT</name>
+        <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
+        <type>Coat</type>
+        <colors>
+            <color type="primary">BROWN</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+           <size>
+			0
+            </size>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>798.00</price>
+        <sku>137173826</sku>
+        <gender>Women</gender>
+        <pattern>TWEED</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Leather
+            </material>
+        </materials>
+    </item>
+
+	<item id="009" category="Clothing">
+        <name>KEYHOLE FIT-AND-FLARE DRESS</name>
+        <photo><img width="150" height="150" src="https://cdna.lystit.com/photos/ralphlauren/136116906-sterling%20grey%20heather-3d189984-.jpeg"/></photo>
+        <type>Dress</type>
+        <colors>
+            <color type="primary">STERLING GREY HEATHER</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+			<size>
+			14
+            </size>
+			<size>
+			16
+            </size>
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>135.00</price>
+        <sku>136116906</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Polyester,
+            </material>
+			Viscose,
+            <material>
+			Elastane
+            </material>
+        </materials>
+    </item>
+
+    <item id="010" category="Clothing">
+        <name>Slim trouser with ruffle waist in wool flannel</name>
+        <photo><img width="150" height="150" src="https://www.jcrew.com/s7-img-facade/G8589_WQ2306"/></photo>
+        <type>Pants</type>
+        <colors>
+            <color type="primary">hthr grey</color>
+            <color type="secondary">hthr beet</color>
+        </colors>
+        <sizes>
+			<size>
+			0
+            </size>
+           <size>
+			2
+            </size>
+            <size>
+			4
+            </size>
+            <size>
+			6
+            </size>
+            <size>
+			8
+            </size>
+            <size>
+			10
+            </size>
+			<size>
+			12
+            </size>
+			<size>
+			14
+            </size>
+			<size>
+			16
+            </size>
+        </sizes>
+        <brand>J.crew</brand>
+        <price>128.00</price>
+        <sku>G8589</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Poly,
+            </material>
+			<material>
+			Elastane
+            </material>
+        </materials>
+    </item>
+
+
+<item id="011" category="Shoes">
+        <name>The Day Heel</name>
+        <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
+        <type>heels</type>
+        <colors>
+            <color type="primary">Bright Red</color>
+        </colors>
+        <sizes>
+            <size>
+                5
+            </size>
+            <size>
+                5.5
+            </size>
+            <size>
+                6
+            </size>
+            <size>
+                6.5
+            </size>
+            <size>
+                7
+            </size>
+            <size>
+                7.5
+            </size>
+            <size>
+                8
+            </size>
+            <size>
+                8.5
+            </size>
+            <size>
+                9
+            </size>
+            <size>
+                9.5
+            </size>
+            <size>
+                10
+            </size>
+            <size>
+                10.5
+            </size>
+            <size>
+                11
+            </size>
+        </sizes>
+        <brand>Everlane</brand>
+        <price>145</price>
+        <!-- <sku>53-5964</sku> -->
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+                Italian leather
+            </material>
+        </materials>
+        </item>
+
+     <item id="012" category="Shoes">
+            <name>Nike Air Vapormax Flyknit</name>
+            <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/849557_006_A_PREM/air-vapormax-flyknit-womens-running-shoe.jpg"/></photo>
+            <type>Sneakers</type>
+            <colors>
+                <color type="primary">Black</color>
+                <color type="secondary">Dark Grey</color>
+            </colors>
+            <sizes>
+                <size>
+                  7.5
+                </size>
+                <size>
+                  9.5
+                </size>
+
+            </sizes>
+            <brand>Nike</brand>
+            <price>190</price>
+            <sku>849557-006</sku>
+            <gender>Women</gender>
+            <pattern>Nets</pattern>
+            <occasion>Sports</occasion>
+            <materials>
+                <material>
+                  Fabric
+                </material>
+                <material>
+                  Rubber
+                </material>
+            </materials>
+        </item>
+
+
+
+    <item id="013" category="Clothing">
+        <name>Riot Society Embroidered 40 Tee</name>
+        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
+        <type>T-shirt</type>
+        <colors>
+            <color type="primary">white</color>
+        </colors>
+        <sizes>
+            <size>
+              S
+            </size>
+            <size>
+              M
+            </size>
+            <size>
+              L
+            </size>
+        </sizes>
+        <brand>Riot Society</brand>
+        <price>34</price>
+        <sku>44395119</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+
+
+<item id="014" category="Clothing">
+    <name>Bow belted dress</name>
+    <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
+    <type>Dress</type>
+    <colors>
+        <color type="primary">mustard</color>
+    </colors>
+    <sizes>
+        <size>
+          4
+        </size>
+        <size>
+          6
+        </size>
+        <size>
+          8
+        </size>
+
+    </sizes>
+    <brand>Mango</brand>
+    <price>49.99</price>
+    <sku>11047696</sku>
+    <gender>Women</gender>
+    <pattern>Solid</pattern>
+    <occasion>Casual</occasion>
+    <materials>
+        <material>
+          Fabric
+        </material>
+    </materials>
+</item>
+
+
+    <item id="015" category="Accessories">
+        <name>Fedora Hat with ribbon</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
+        <type>Hats</type>
+        <colors>
+            <color type="primary">Ecru</color>
+        </colors>
+        <sizes>
+            <size>
+              S
+            </size>
+            <size>
+              M
+            </size>
+
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.90</price>
+        <sku>0049/205</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+              Wool
+            </material>
+        </materials>
+    </item>
+	<item id="0016" category="Clothing">
+        <name>Lightweight Bomber</name>
+        <photo>
+        <img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/980/334/cn13980334.jpg"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Burgundy</color>
+            <color type="secondary">Burgundy</color>
+        </colors>
+        <sizes>
+            <size> XS</size>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>148.00</price>
+        <sku>796212</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>100% Polyester </material>
+            <material>Machine wash</material>
+        </materials>
+    </item>
+        <item id="0017" category="Shoes">
+        <name>Bradstreet Leather Chukka Boot</name>
+        <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
+        <type>Boots</type>
+        <colors>
+            <color type="primary">Brown Full-Grain</color>
+            <color type="secondary">Black Nubuck</color>
+        </colors>
+        <sizes>
+            <size>7.0</size>
+            <size>7.5</size>
+            <size>8.0</size>
+            <size>8.5</size>
+            <size>9.0</size>
+            <size>9.5</size>
+            <size>10.0</size>
+            <size>10.5</size>
+        </sizes>
+        <brand>Timberland</brand>
+        <price>120.00</price>
+        <sku>Style A146Q001</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Premium Full-Grain Leather Uppers/</material>
+            <material>Padded Collars</material>
+        </materials>
+    </item>
+    <item id="018" category="Shoes">
+        <name>Black Leather Ankle Boot</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
+        <type>Boot</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>6</size>
+            <size>7</size>
+            <size>8</size>
+            <size>9</size>
+            <size>10</size>
+            <size>11</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>69.90</price>
+        <sku>5602/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Essentials</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+  <item id="019" category="Clothing">
+        <name>Pique Puffer Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Navy Blue</color>
+            <color type="secondary">Grey Marl</color>
+        </colors>
+        <sizes>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>79.90</price>
+        <sku>1608/419</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Padded</material>
+            <material></material>
+        </materials>
+    </item>
+
+     <item id="020" category="Clothing" >
+        <name>Hooded Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
+        <type>Jacket</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            <size>S</size>
+            <size>M</size>
+            <size>L</size>
+            <size>XL</size>
+            <size>XXL</size>
+        </sizes>
+        <brand>Zara</brand>
+        <price>109.00</price>
+        <sku>4341/388</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Removable Hood</material>
+            <material>Long Sleeves With Snap Button Cuffs And Elastic Wais</material>
+        </materials>
+    </item>
+</catalog>
+
+
+<!--
+
+
+    <item id="XXX">
+        <name></name>
+        <photo><img width="150" height="150" src=""/></photo>
+        <type></type>
+        <colors>
+            <color type="primary"></color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+            <size>
+            </size>
+        </sizes>
+        <brand></brand>
+        <price></price>
+        <sku></sku>
+        <gender></gender>
+        <pattern></pattern>
+        <occasion></occasion>
+        <materials>
+            <material>
+            </material>
+            <material>
+            </material>
+        </materials>
+    </item>
+</catalog> -->
