@@ -1,0 +1,38 @@
+<!-- because we might use the xsd,-->
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="note">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="to" type="xs:string"/>
+      <xs:element name="from" type="xs:string"/>
+      <xs:element name="heading" type="xs:string"/>
+      <xs:element name="body" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
+
+<!-- The purpose of an XML Schema is to define the legal building blocks of an XML document:
+
+the elements and attributes that can appear in a document
+the number of (and order of) child elements
+data types for elements and attributes
+default and fixed values for elements and attributes >
+
+<!-- 
+<?xml version="1.0"?>
+<xs:schema>
+...
+...
+</xs:schema>
+-->
+
+<!-- 
+<xs:element name="xxx" type="yyy"/>
+-->
+
+<!-- <xs:attribute name="xxx" type="yyy"/>
+-->
