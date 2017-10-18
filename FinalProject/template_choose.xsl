@@ -53,8 +53,11 @@
 					<xsl:when test = "gender = 'Women'">
 					<td bgcolor="#F781F3"><xsl:value-of select="gender"/></td>
 					</xsl:when>
-					<xsl:otherwise>
+					<xsl:when test = "gender = 'Men'">
 					<td bgcolor="#2E64FE"><xsl:value-of select="gender"/></td>
+					</xsl:when>
+					<xsl:otherwise>
+					<td bgcolor="#81F79F"><xsl:value-of select="gender"/></td>
 					</xsl:otherwise>
 					</xsl:choose>
                     <td ><xsl:value-of select="pattern"/></td>
