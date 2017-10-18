@@ -41,15 +41,17 @@
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
-
+<!--
           <td align="Middle">
 						<xsl:for-each select="sizes/size">
 						<xsl:value-of select="."/>/
 						</xsl:for-each>
-					</td>
+					</td> -->
+                    <td align="Middle"><xsl:value-of select="sizes"/></td>
                     <td align="Middle"><xsl:value-of select="brand"/></td>
                     <td align="Middle"><xsl:value-of select="price"/></td>
                     <td align="Middle"><xsl:value-of select="sku"/></td>
+
 
 					<xsl:choose>
 					<xsl:when test = "gender = 'Women'">

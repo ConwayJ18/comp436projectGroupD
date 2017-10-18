@@ -9,24 +9,7 @@
             <color type="primary">White</color>
         </colors>
         <sizes>
-            <size>
-                XS
-            </size>
-            <size>
-                S
-            </size>
-            <size>
-                M
-            </size>
-            <size>
-                L
-            </size>
-            <size>
-                XL
-            </size>
-            <size>
-                XXL
-            </size>
+                XS-XXL
         </sizes>
         <brand>Burton</brand>
         <price>14.99</price>
@@ -52,54 +35,9 @@
             <color type="primary">Red</color>
         </colors>
         <sizes>
-            <size>
-              26
-            </size>
-            <size>
-              28
-            </size>
-            <size>
-              29
-            </size>
-            <size>
-              30
-            </size>
-            <size>
-              31
-            </size>
-            <size>
-              32
-            </size>
-            <size>
-              33
-            </size>
-            <size>
-              34
-            </size>
-            <size>
-              35
-            </size>
-            <size>
-              36
-            </size>
-            <size>
-              38
-            </size>
-            <size>
-              40
-            </size>
-            <size>
-              42
-            </size>
-            <size>
-              44
-            </size>
-            <size>
-              46
-            </size>
-            <size>
-              48
-            </size>
+
+              26-48
+
         </sizes>
         <brand>American Eagle</brand>
         <price>29.99</price>
@@ -169,9 +107,7 @@
             <color type="secondary">Black</color>
         </colors>
         <sizes>
-            <size>
               One Size
-            </size>
         </sizes>
         <brand>Pair of Thieves</brand>
         <price>10</price>
@@ -194,27 +130,7 @@
             <color type="secondary">Blue</color>
         </colors>
         <sizes>
-            <size>
-              XS
-            </size>
-            <size>
-              S
-            </size>
-            <size>
-              M
-            </size>
-            <size>
-              M Tall
-            </size>
-            <size>
-              L
-            </size>
-            <size>
-              XL
-            </size>
-            <size>
-              XXL
-            </size>
+              XS-XXL
         </sizes>
         <brand>American Eagle</brand>
         <price>29.96</price>
@@ -238,17 +154,7 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-            <size>
-			XS
-            </size>
-			S
-            <size>
-			M
-            </size>
-			L
-            <size>
-			XL
-            </size>
+          XS-XL
         </sizes>
         <brand>Banana Republic</brand>
         <price>59.00</price>
@@ -272,33 +178,7 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-            <size>
-			0
-            </size>
-            <size>
-			2
-            </size>
-            <size>
-			4
-            </size>
-            <size>
-			6
-            </size>
-            <size>
-			8
-            </size>
-            <size>
-			10
-            </size>
-			<size>
-			12
-            </size>
-            <size>
-			14
-            </size>
-            <size>
-			16
-            </size>
+			0-16
         </sizes>
         <brand>Banana Republic</brand>
         <price>117.99</price>
@@ -328,27 +208,7 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-           <size>
-			0
-            </size>
-            <size>
-			2
-            </size>
-            <size>
-			4
-            </size>
-            <size>
-			6
-            </size>
-            <size>
-			8
-            </size>
-            <size>
-			10
-            </size>
-			<size>
-			12
-            </size>
+			0-12
         </sizes>
         <brand>Ralph Lauren</brand>
         <price>798.00</price>
@@ -375,30 +235,7 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-            <size>
-			2
-            </size>
-            <size>
-			4
-            </size>
-            <size>
-			6
-            </size>
-            <size>
-			8
-            </size>
-            <size>
-			10
-            </size>
-			<size>
-			12
-            </size>
-			<size>
-			14
-            </size>
-			<size>
-			16
-            </size>
+			   02-16
         </sizes>
         <brand>Ralph Lauren</brand>
         <price>135.00</price>
@@ -426,33 +263,8 @@
             <color type="secondary">hthr beet</color>
         </colors>
         <sizes>
-			<size>
-			0
-            </size>
-           <size>
-			2
-            </size>
-            <size>
-			4
-            </size>
-            <size>
-			6
-            </size>
-            <size>
-			8
-            </size>
-            <size>
-			10
-            </size>
-			<size>
-			12
-            </size>
-			<size>
-			14
-            </size>
-			<size>
-			16
-            </size>
+		    	0-16
+
         </sizes>
         <brand>J.crew</brand>
         <price>128.00</price>
@@ -482,45 +294,7 @@
             <color type="primary">Bright Red</color>
         </colors>
         <sizes>
-            <size>
-                5
-            </size>
-            <size>
-                5.5
-            </size>
-            <size>
-                6
-            </size>
-            <size>
-                6.5
-            </size>
-            <size>
-                7
-            </size>
-            <size>
-                7.5
-            </size>
-            <size>
-                8
-            </size>
-            <size>
-                8.5
-            </size>
-            <size>
-                9
-            </size>
-            <size>
-                9.5
-            </size>
-            <size>
-                10
-            </size>
-            <size>
-                10.5
-            </size>
-            <size>
-                11
-            </size>
+            5-11
         </sizes>
         <brand>Everlane</brand>
         <price>145</price>
@@ -578,15 +352,7 @@
             <color type="primary">white</color>
         </colors>
         <sizes>
-            <size>
-              S
-            </size>
-            <size>
-              M
-            </size>
-            <size>
-              L
-            </size>
+              S-L
         </sizes>
         <brand>Riot Society</brand>
         <price>34</price>
@@ -610,16 +376,7 @@
         <color type="primary">mustard</color>
     </colors>
     <sizes>
-        <size>
-          4
-        </size>
-        <size>
-          6
-        </size>
-        <size>
-          8
-        </size>
-
+          4-8
     </sizes>
     <brand>Mango</brand>
     <price>49.99</price>
@@ -673,12 +430,7 @@
             <color type="secondary">Burgundy</color>
         </colors>
         <sizes>
-            <size> XS</size>
-            <size>S</size>
-            <size>M</size>
-            <size>L</size>
-            <size>XL</size>
-            <size>XXL</size>
+            <size> XS-XXL</size>
         </sizes>
         <brand>Banana Republic</brand>
         <price>148.00</price>
@@ -700,18 +452,11 @@
             <color type="secondary">Black Nubuck</color>
         </colors>
         <sizes>
-            <size>7.0</size>
-            <size>7.5</size>
-            <size>8.0</size>
-            <size>8.5</size>
-            <size>9.0</size>
-            <size>9.5</size>
-            <size>10.0</size>
-            <size>10.5</size>
+            7.0-10.5
         </sizes>
         <brand>Timberland</brand>
         <price>120.00</price>
-        <sku>Style A146Q001</sku>
+        <sku>A146Q001</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
@@ -729,12 +474,7 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-            <size>6</size>
-            <size>7</size>
-            <size>8</size>
-            <size>9</size>
-            <size>10</size>
-            <size>11</size>
+            <size>6-11</size>
         </sizes>
         <brand>Zara</brand>
         <price>69.90</price>
@@ -756,11 +496,7 @@
             <color type="secondary">Grey Marl</color>
         </colors>
         <sizes>
-            <size>S</size>
-            <size>M</size>
-            <size>L</size>
-            <size>XL</size>
-            <size>XXL</size>
+            S-XXL
         </sizes>
         <brand>Zara</brand>
         <price>79.90</price>
@@ -783,11 +519,7 @@
             <color type="secondary">Brown</color>
         </colors>
         <sizes>
-            <size>S</size>
-            <size>M</size>
-            <size>L</size>
-            <size>XL</size>
-            <size>XXL</size>
+          S-XXL
         </sizes>
         <brand>Zara</brand>
         <price>109.00</price>

@@ -7,11 +7,11 @@
     <body>
         <h2>Fashion Catalog Search</h2>
         <table border="1">
-          <tr bgcolor="#ffcc99" height="55px">
+          <tr bgcolor="#eaeff7" height="55px">
             <!-- <tr bgcolor="#9acd32"> -->
 
                 <th>Photo</th>
-				<th>Item Name</th>
+				        <th>Item Name</th>
                 <th>Clothing Type</th>
                 <th>Color</th>
                 <th>Sizes</th>
@@ -27,26 +27,28 @@
                 <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>
-					<td><xsl:value-of select="name"/></td>
-                    <td><xsl:value-of select="type"/></td>
+					<td align="Middle"><xsl:value-of select="name"/></td>
+          <td align="Middle"><xsl:value-of select="type"/></td>
 
 					<td align="Middle">
             <xsl:for-each select="colors/color">
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
-            <td align="Middle">
+            <!-- <td align="Middle">
 						<xsl:for-each select="sizes/size">
 						<xsl:value-of select="."/>/
 						</xsl:for-each>
-					</td>
-                    <td><xsl:value-of select="brand"/></td>
-                    <td><xsl:value-of select="price"/></td>
-                    <td><xsl:value-of select="sku"/></td>
-                    <td><xsl:value-of select="gender"/></td>
-                    <td><xsl:value-of select="pattern"/></td>
-                    <td><xsl:value-of select="occasion"/></td>
-                    <td><xsl:for-each select="materials/material">
+					</td> -->
+
+                    <td align="Middle"><xsl:value-of select="sizes"/></td>
+                    <td align="Middle"><xsl:value-of select="brand"/></td>
+                    <td align="Middle"><xsl:value-of select="price"/></td>
+                    <td align="Middle"><xsl:value-of select="sku"/></td>
+                    <td align="Middle"><xsl:value-of select="gender"/></td>
+                    <td align="Middle"><xsl:value-of select="pattern"/></td>
+                    <td align="Middle"><xsl:value-of select="occasion"/></td>
+                    <td align="Middle"><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
 					</xsl:for-each></td>
                 </tr>
