@@ -8,8 +8,8 @@
         <colors>
             <color type="primary">White</color>
         </colors>
-        <sizes>           
-             XS-XXL      
+        <sizes>
+             XS-XXL
         </sizes>
         <brand>Burton</brand>
         <price>14.99</price>
@@ -62,7 +62,7 @@
             <color type="secondary">White</color>
         </colors>
         <sizes>
-		     M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12           
+		     M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12
         </sizes>
         <brand>Converse</brand>
         <price>44.97</price>
@@ -88,9 +88,9 @@
             <color type="secondary">Black</color>
         </colors>
         <sizes>
-         
+
               One Size
-            
+
         </sizes>
         <brand>Pair of Thieves</brand>
         <price>10.00</price>
@@ -307,7 +307,7 @@
             </colors>
             <sizes>
 			    7.5,9.5
-            
+
             </sizes>
             <brand>Nike</brand>
             <price>190</price>
