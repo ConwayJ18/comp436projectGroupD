@@ -15,7 +15,7 @@
                 <th>Color</th>
                 <th>Sizes</th>
                 <th>Brand</th>
-                <th>Price</th>
+                <th>Price($)</th>
                 <th>Product Number</th>
                 <th>Gender</th>
                 <th>Pattern</th>
@@ -49,7 +49,7 @@
 					</xsl:for-each></td>
                 </tr>
             </xsl:for-each>
-          
+
         </table>
     </body>
 </html>

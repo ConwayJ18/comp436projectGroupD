@@ -7,14 +7,14 @@
     <body>
         <h2>Fashion Catalog Search</h2>
 		 <table border="1">
-            <thead bgcolor="#ffcc99">
+            <thead bgcolor="#eaeff7">
                 <th>Item Name</th>
                 <th>Photo</th>
                 <th>Clothing Type</th>
                 <th>Color</th>
                 <th>Sizes</th>
                 <th>Brand</th>
-                <th>Price</th>
+                <th>Price($)</th>
                 <th>Product Number</th>
                 <th>Gender</th>
                 <th>Pattern</th>
@@ -51,13 +51,13 @@
 
 					<xsl:choose>
 					<xsl:when test = "gender = 'Women'">
-					<td bgcolor="#F781F3"><xsl:value-of select="gender"/></td>
+					<td bgcolor="#f29ee7"><xsl:value-of select="gender"/></td>
 					</xsl:when>
 					<xsl:when test = "gender = 'Men'">
-					<td bgcolor="#2E64FE"><xsl:value-of select="gender"/></td>
+					<td bgcolor="#a5befa"><xsl:value-of select="gender"/></td>
 					</xsl:when>
 					<xsl:otherwise>
-					<td bgcolor="#81F79F"><xsl:value-of select="gender"/></td>
+					<td bgcolor="#faf4a5"><xsl:value-of select="gender"/></td>
 					</xsl:otherwise>
 					</xsl:choose>
                     <td ><xsl:value-of select="pattern"/></td>
