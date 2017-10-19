@@ -24,7 +24,7 @@
                 <th>Material</th>
             </tr>
             <xsl:for-each select="catalog/item">
-                <tr>
+        <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>
 					<td align="Middle"><xsl:value-of select="name"/></td>
@@ -50,8 +50,9 @@
                     <td align="Middle"><xsl:value-of select="occasion"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
-					</xsl:for-each></td>
-                </tr>
+					</xsl:for-each>
+        </td>
+      </tr>
             </xsl:for-each>
 
         </table>
