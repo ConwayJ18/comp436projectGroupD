@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style00000.xsl"?>
+<ancient_sites>
+  <site>
+
+    <name Language="english">The Forbidden City</name>
+    <location>4 Jingshan Front St, DongCheng, Beijing, China </location>
+    <country>China</country>
+    <type>Imperial Palace, Art museum</type>
+
+    <history>
+      <dynasty>Ming to the end of the Qing</dynasty>
+      <year>1420-1912</year>
+    </history>
+
+    <architect>Kuai Xiang</architect>
+    <images>
+      <img width="500" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg"/>
+    </images>
+
+    <note>
+      The Forbidden City is a rectangle, with 961 metres (3,153 ft) from north to south and 753 metres (2,470 ft) from east to west. It consists of 980 surviving buildings with 8,886 bays of rooms. A common myth states that there are 9,999 rooms including antechambers, based on oral tradition, and it is not supported by survey evidence.[36] The Forbidden City was designed to be the centre of the ancient, walled city of Beijing. It is enclosed in a larger, walled area called the Imperial City. The Imperial City is, in turn, enclosed by the Inner City; to its south lies the Outer City.
+    </note>
+
+  </site>
+</ancient_sites>
