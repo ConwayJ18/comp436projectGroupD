@@ -27,6 +27,28 @@
     <note>
       The Forbidden City is a rectangle, with 961 metres (3,153 ft) from north to south and 753 metres (2,470 ft) from east to west. It consists of 980 surviving buildings with 8,886 bays of rooms. A common myth states that there are 9,999 rooms including antechambers, based on oral tradition, and it is not supported by survey evidence. The Forbidden City was designed to be the centre of the ancient, walled city of Beijing. It is enclosed in a larger, walled area called the Imperial City. The Imperial City is, in turn, enclosed by the Inner City; to its south lies the Outer City.
     </note>
-
   </site>
+
+  <site>
+    <name language="english">Stonehenge</name>
+    <location>Wiltshire</location>
+    <country>England</country>
+    <description>
+        Stonehenge is a prehistoric monument in Wiltshire, England, 2 miles (3 km) west of Amesbury and 8 miles (13 km) north of Salisbury. It consists of a ring of standing stones, with each standing stone around 13 ft (4.1 metres) high, 6 ft 11 in (2.1 metres) wide and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds.
+    </description>
+    <type>Monument</type>
+    <history>
+      <dynasty>Old Kingdom</dynasty>
+      <year era="BC">3000 to 2000</year>
+    </history>
+      <images>
+       <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/
+    </images>
+    <links>
+        <overview type="general" url="https://en.wikipedia.org/wiki/Stonehenge">wikipedia</overview>
+    </links>
+
+      <note>One of the most famous landmarks in the UK, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882 when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.
+      </note>
+
 </ancient_sites>

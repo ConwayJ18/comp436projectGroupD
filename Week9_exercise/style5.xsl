@@ -34,7 +34,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <td>
     <xsl:value-of select="year"/>
     <xsl:text>&#160;</xsl:text>
-    <!-- <xsl:value-of select="year/@era"/> -->
+    <xsl:value-of select="year/@era"/>
   </td>
   <td>
     <xsl:value-of select="./dynasty"/>
