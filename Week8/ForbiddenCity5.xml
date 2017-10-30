@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style4.xsl"?>
+<ancient_sites>
+  <site>
+    <name language="english">The Forbidden City</name>
+    <location>4 Jingshan Front St, DongCheng, Beijing, China </location>
+    <country>China</country>
+    <description>
+      The Forbidden City was the Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty—the years 1420 to 1912. It is in the center of Beijing, China, and now houses the Palace Museum. It served as the home of emperors and their households as well as the ceremonial and political center of Chinese government for almost 500 years.
+      Constructed from 1406 to 1420, the complex consists of 980 buildings and covers 72 ha (over 180 acres).The palace complex exemplifies traditional Chinese palatial architecture,and has influenced cultural and architectural developments in East Asia and elsewhere. The Forbidden City was declared a World Heritage Site in 1987,[4] and is listed by UNESCO as the largest collection of preserved ancient wooden structures in the world.
+      Since 1925 the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artefacts were built upon the imperial collections of the Ming and Qing dynasties. Part of the museum's former collection is now in the National Palace Museum in Taipei. Both museums descend from the same institution, but were split after the Chinese Civil War. Since 2012, the Forbidden City has seen an average of 15 million visitors annually, and had 16 millions visitors in 2016.
+    </description>
+    <type>Imperial Palace, Art museum</type>
+    <history>
+      <dynasty>Ming to the end of the Qing</dynasty>
+      <year>1420 to 1912</year>
+    </history>
+
+    <architect>Kuai Xiang</architect>
+    <images>
+      <img width="500" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg"/>
+    </images>
+    <links>
+
+        <overview type="general" url="https://en.wikipedia.org/wiki/Forbidden_City">wikipedia</overview>
+    </links>
+    <note>
+      The Forbidden City is a rectangle, with 961 metres (3,153 ft) from north to south and 753 metres (2,470 ft) from east to west. It consists of 980 surviving buildings with 8,886 bays of rooms. A common myth states that there are 9,999 rooms including antechambers, based on oral tradition, and it is not supported by survey evidence. The Forbidden City was designed to be the centre of the ancient, walled city of Beijing. It is enclosed in a larger, walled area called the Imperial City. The Imperial City is, in turn, enclosed by the Inner City; to its south lies the Outer City.
+    </note>
+
+  </site>
+</ancient_sites>
