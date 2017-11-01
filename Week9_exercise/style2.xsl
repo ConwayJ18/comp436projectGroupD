@@ -19,7 +19,7 @@
 <xsl:template match="site">
   <tr>
   <xsl:apply-templates select="name[@language='english']/">
-  </xsl:templates select"history"/>
+  </xsl:templates select="history"/>
   <tr>
 </xsl:template>
 
