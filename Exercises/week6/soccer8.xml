@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="soccer8.xsl"?>
+<catalogue>
+  <soccer>
+    <team>Real Madrid</team>
+    <coach>Zinedine Zidane</coach>
+    <country>Spain</country>
+    <city>Madrid</city>
+    <stadium>Santiago Bernabeu</stadium>
+    <founded>1902</founded>
+
+  </soccer>
+  <soccer>
+    <team>Chelsea</team>
+    <coach>Antonio Conte</coach>
+    <country>England</country>
+    <city>London</city>
+    <stadium>Stamford Bridge</stadium>
+    <founded>1905</founded>
+
+  </soccer>
+   <soccer>
+    <team>Paris Saint-Germain</team>
+    <coach>Unai Emery</coach>
+    <country>France</country>
+    <city>Paris</city>
+    <stadium>Parc des Princes</stadium>
+    <founded>1970</founded>
+
+  </soccer>
+</catalogue>
