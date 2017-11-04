@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites4.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english">Hanging Gardens of Babylon</name>
+		<location>ancient city of Babylon</location>
+		<country>Iraq</country>
+		<description>the gardens were built by king Nebuchadnezzar II to make his wife happy</description>
+		<culture>ancient Mesopotamia</culture>
+		<history>
+            <year era="BC">c.605</year>
+			<period>Hellenic</period>
+			
+		</history>
+		<images>..</images>
+		<notes>..</notes>
+	</site>
+	<site>
+		<name language="english">Stonehenge</name>
+		<location>Amesbury</location>
+		<country>England</country>
+		<description>is an ancient, spiritual landscape, the temple has been a place of pilgrimage across the millennia</description>
+		<culture>Bronze Age</culture>
+		<history>
+            <year era="BC">c.2500</year>
+			<period>Neolithic period</period>
+			
+		</history>
+		<images>..</images>
+		<notes>..</notes>
+	</site>
+</ancient_sites>
