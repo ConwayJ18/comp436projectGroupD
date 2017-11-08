@@ -26,6 +26,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Overview</th>
             <th>Images</th>
             <th>Example</th>
+            <th>Description</th>
           </tr>
         </thead>
         <tbody>
@@ -44,9 +45,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Year Built</th>
             <th>Dynasty</th>
             <th>Years Extant</th>
+            <th>Size</th>
             <th>Overview</th>
             <th>Images</th>
             <th>Example</th>
+            <th>Description</th>
           </tr>
         </thead>
         <tbody>
@@ -114,9 +117,16 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </td>
 </xsl:template>
 
-<xsl:template match="dimensions">
+<!-- <xsl:template match="dimensions">
   <td>
     approx. <xsl:value-of select="ceiling(./width * ./width)"/> m<sup>2</sup>
+  </td>
+</xsl:template> -->
+
+
+<xsl:template match="dimensions">
+  <td>
+   average. <xsl:value-of select="sum(./height)div count(./height)"/>
   </td>
 </xsl:template>
 
@@ -126,15 +136,31 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <xsl:attribute name="href">
         <xsl:value-of select="./@url"/>
       </xsl:attribute>
-      <xsl:value-of select="."/>
+      <xsl:value-of select="translate(., 'w', 'W')"/>
     </a>
   </td>
 </xsl:template>
 
 <xsl:template match="images">
-    <td><xsl:value-of select="count(./image)"/></td>
+    <!-- <td><xsl:value-of select="count(./image)"/></td> -->
+    <td><xsl:value-of select="image[@type='jpg'][position() = last()]"/></td>
   <td>
-    <xsl:value-of select="image[@type='jpg'][position() = last()]"/>
+    <img>
+    <xsl:attribute name="src">
+      <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
+    </xsl:attribute>
+  </img>
+  </td>
+</xsl:template>
+
+
+
+
+
+<xsl:template match="notes/note[@type='intro']">
+  <td>
+    <xsl:value-of select="substring(.,1,75)"/>
+    ...
   </td>
 </xsl:template>
 
