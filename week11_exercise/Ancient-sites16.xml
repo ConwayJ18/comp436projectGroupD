@@ -1,4 +1,4 @@
-?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="style15.xsl"?>
 <ancient_sites>
   <site>
@@ -27,12 +27,12 @@
 
     <architect>Kuai Xiang</architect>
     <images>
-
-        <image size="thumb" type="jpg">Forbidden City thumbnail</image>
-        <image size="large" type="jpg">Forbidden City large</image>
-        <image size="full" type="tif">Forbidden City full</image>
-      <!-- <img width="500" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg"/> -->
+        <image size="thumb" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City thumbnail</image>
+        <image size="large" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City large</image>
+        <image size="full" type="tif" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City full</image>
     </images>
+
+
     <links>
 
         <overview type="general" url="https://en.wikipedia.org/wiki/Forbidden_City">wikipedia</overview>
@@ -67,9 +67,10 @@
     </dimensions>
 
       <images>
-        <image size="thumb" type="jpg">Stonehenge thumbnail</image>
-        <image size="large" type="jpg">Stonehenge large</image>
-        <image size="full" type="tif">Stonehenge full</image>
+        <image size="thumb" type="jpg" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">Stonehenge thumbnail</image>
+        <image size="large" type="jpg"  src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">Stonehenge large</image>
+        <image size="full" type="tif" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1024px-Stonehenge2007_07_30.jpg">Stonehenge full</image>
+
        <!-- <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/ -->
     </images>
     <links>
