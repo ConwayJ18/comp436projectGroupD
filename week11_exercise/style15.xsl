@@ -117,11 +117,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </td>
 </xsl:template>
 
-
-<xsl:template match="dimensions">
+<!-- <xsl:template match="dimensions">
   <td>
     approx. <xsl:value-of select="ceiling(./width * ./width)"/> m<sup>2</sup>
   </td>
+</xsl:template> -->
+
+
+<xsl:template match="dimensions">
   <td>
    average. <xsl:value-of select="sum(./height)div count(./height)"/>
   </td>
@@ -139,11 +142,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="images">
-    <td><xsl:value-of select="count(./image)"/></td>
+    <!-- <td><xsl:value-of select="count(./image)"/></td> -->
+    <td><xsl:value-of select="image[@type='jpg'][position() = last()]"/></td>
   <td>
-    <xsl:value-of select="image[@type='jpg'][position() = last()]"/>
+    <img>
+    <xsl:attribute name="src">
+      <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
+    </xsl:attribute>
+  </img>
   </td>
 </xsl:template>
+
+
+
+
 
 <xsl:template match="notes/note[@type='intro']">
   <td>
