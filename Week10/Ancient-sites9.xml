@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="style8.xsl"?>
+<?xml-stylesheet type="text/xsl" href="style9.xsl"?>
 <ancient_sites>
   <site>
     <name language="english">The Forbidden City</name>
@@ -22,6 +22,7 @@
     <images>
 
         <image size="thumb" type="jpg">Forbidden City thumbnail</image>
+        <image size="medium" type="jpg">Forbidden medium</image>
         <image size="large" type="jpg">Forbidden City large</image>
         <image size="full" type="tif">Forbidden City full</image>
       <!-- <img width="500" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg"/> -->
@@ -51,6 +52,7 @@
     </history>
       <images>
         <image size="thumb" type="jpg">Stonehenge thumbnail</image>
+        <image size="medium" type="jpg">Stonehange medium image</image>
         <image size="large" type="jpg">Stonehenge large</image>
         <image size="full" type="tif">Stonehenge full</image>
        <!-- <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/ -->

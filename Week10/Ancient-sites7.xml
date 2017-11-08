@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="style11.xsl"?>
+<?xml-stylesheet type="text/xsl" href="style7.xsl"?>
 <ancient_sites>
   <site>
     <name language="english">The Forbidden City</name>
@@ -11,16 +11,9 @@
       Since 1925 the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artefacts were built upon the imperial collections of the Ming and Qing dynasties. Part of the museum's former collection is now in the National Palace Museum in Taipei. Both museums descend from the same institution, but were split after the Chinese Civil War. Since 2012, the Forbidden City has seen an average of 15 million visitors annually, and had 16 millions visitors in 2016.
     </description>
     <type>Imperial Palace, Art museum</type>
-    <dimensions>
-      <width type="original" unit="metre">961.00</width>
-      <height type="original" unit="metre">753.00</height>
-      <!-- <height type="current" unit="metre">138.75</height> -->
-    </dimensions>
     <history>
       <dynasty>Ming to the end of the Qing</dynasty>
-      <!-- <year>1420 to 1912</year> -->
-      <year range="start">1420</year>
-      <year range="end">1912</year>
+      <year>1420 to 1912</year>
     </history>
 
     <architect>Kuai Xiang</architect>
@@ -50,19 +43,8 @@
     <type>Monument</type>
     <history>
       <dynasty>Old Kingdom</dynasty>
-      <!-- <year era="BC">3000 to 2000</year> -->
-      <year range="start" era="BC">3000</year>
-      <year range="end" era="BC">2000</year>
+      <year era="BC">3000 to 2000</year>
     </history>
-
-
-    <dimensions>
-      <width type="average" unit="metre">2.1</width>
-      <height type="average" unit="metre">4.1</height>
-      <!-- <height type="current" unit="metre">138.75</height> -->
-    </dimensions>
-
-    
       <images>
         <image size="thumb" type="jpg">Stonehenge thumbnail</image>
         <image size="large" type="jpg">Stonehenge large</image>

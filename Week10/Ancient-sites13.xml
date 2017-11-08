@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="style13.xsl"?>
 <ancient_sites>
   <site>
@@ -12,9 +12,9 @@
     </description>
     <type>Imperial Palace, Art museum</type>
     <dimensions>
-      <width type="average" unit="metre">230.360</width>
-      <height type="original" unit="metre">140.59</height>
-      <height type="current" unit="metre">138.75</height>
+      <width type="original" unit="metre">961.00</width>
+      <height type="original" unit="metre">753.00</height>
+      <!-- <height type="current" unit="metre">138.75</height> -->
     </dimensions>
     <history>
       <dynasty>Ming to the end of the Qing</dynasty>
@@ -36,8 +36,8 @@
         <overview type="general" url="https://en.wikipedia.org/wiki/Forbidden_City">wikipedia</overview>
     </links>
     <notes>
-      <note type="intro">
-        The Forbidden City is a rectangle, with 961 metres (3,153 ft) from north to south and 753 metres (2,470 ft) from east to west. It consists of 980 surviving buildings with 8,886 bays of rooms. A common myth states that there are 9,999 rooms including antechambers, based on oral tradition, and it is not supported by survey evidence. The Forbidden City was designed to be the centre of the ancient, walled city of Beijing. It is enclosed in a larger, walled area called the Imperial City. The Imperial City is, in turn, enclosed by the Inner City; to its south lies the Outer City.
+       <note type="intro"
+      The Forbidden City is a rectangle, with 961 metres (3,153 ft) from north to south and 753 metres (2,470 ft) from east to west. It consists of 980 surviving buildings with 8,886 bays of rooms. A common myth states that there are 9,999 rooms including antechambers, based on oral tradition, and it is not supported by survey evidence. The Forbidden City was designed to be the centre of the ancient, walled city of Beijing. It is enclosed in a larger, walled area called the Imperial City. The Imperial City is, in turn, enclosed by the Inner City; to its south lies the Outer City.
     </note>
   </notes>
 
@@ -56,6 +56,13 @@
       <year range="start" era="BC">3000</year>
       <year range="end" era="BC">2000</year>
     </history>
+
+    <dimensions>
+      <width type="average" unit="metre">2.1</width>
+      <height type="average" unit="metre">4.1</height>
+      <!-- <height type="current" unit="metre">138.75</height> -->
+    </dimensions>
+
       <images>
         <image size="thumb" type="jpg">Stonehenge thumbnail</image>
         <image size="large" type="jpg">Stonehenge large</image>
@@ -67,11 +74,11 @@
         <overview type="general" url="https://en.wikipedia.org/wiki/Stonehenge">wikipedia</overview>
     </links>
 
-      <notes>
-        <note type="intro">
-        One of the most famous landmarks in the UK, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882 when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.
-        </note>
-      </notes>
+    <notes>
+       <note type="intro">
+      One of the most famous landmarks in the UK, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882 when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.
+      </note>
+    </notes>
   </site>
 
 

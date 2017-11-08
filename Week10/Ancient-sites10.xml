@@ -17,7 +17,11 @@
       <year range="start">1420</year>
       <year range="end">1912</year>
     </history>
-
+    <dimensions>
+      <width type="original" unit="metre">961.00</width>
+      <height type="original" unit="metre">753.00</height>
+      <!-- <height type="current" unit="metre">138.75</height> -->
+    </dimensions>
     <architect>Kuai Xiang</architect>
     <images>
 
@@ -49,6 +53,13 @@
       <year range="start" era="BC">3000</year>
       <year range="end" era="BC">2000</year>
     </history>
+
+    <dimensions>
+      <width type="average" unit="metre">2.1</width>
+      <height type="average" unit="metre">4.1</height>
+      <!-- <height type="current" unit="metre">138.75</height> -->
+    </dimensions>
+
       <images>
         <image size="thumb" type="jpg">Stonehenge thumbnail</image>
         <image size="large" type="jpg">Stonehenge large</image>

@@ -8,12 +8,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <meta charset="utf-8"></meta>
       <title>a catalogue of Ancient Sites</title>
        <!-- css styles -->
-       <link rel="stylesheet" type="text/css" href="styles.css"></link>
+       <link rel="stylesheet" type="text/css" href="styles8.css"></link>
      </head>
      <body>
-       <header>
-       <h1>Ancient Lives</h1>
-     </header>
       <table summary="a catalogue of ancient Chinese sites">
         <caption>Ancient Chinese Sites</caption>
         <thead>
@@ -22,10 +19,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Year Built </th>
             <th>Dynasty</th>
             <th>Years Extant</th>
-            <th>Size</th>
             <th>Overview</th>
             <th>Images</th>
-            <th>Example</th>
           </tr>
         </thead>
         <tbody>
@@ -46,7 +41,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Years Extant</th>
             <th>Overview</th>
             <th>Images</th>
-            <th>Example</th>
           </tr>
         </thead>
         <tbody>
@@ -65,17 +59,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <tr>
     <xsl:apply-templates select="name[@language='english']"/>
     <xsl:apply-templates select="history"/>
-    <xsl:choose>
-          <xsl:when test="dimensions">
-            <xsl:apply-templates select="dimensions"/>
-          </xsl:when>
-          <xsl:otherwise>
-            <td>
-              N/A
-            </td>
-          </xsl:otherwise>
-        </xsl:choose>
-
     <xsl:apply-templates select="links/overview[@type='general']"/>
     <xsl:apply-templates select="images"/>
   </tr>
@@ -114,12 +97,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </td>
 </xsl:template>
 
-<xsl:template match="dimensions">
-  <td>
-    <xsl:value-of select="format-number(./width * ./width, '0.#')"/> m<sup>2</sup>
-  </td>
-</xsl:template>
-
 <xsl:template match="links/overview[@type='general']">
   <td>
     <a>
@@ -132,7 +109,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="images">
-    <td><xsl:value-of select="count(./image)"/></td>
   <td>
     <xsl:value-of select="image[@type='jpg'][position() = last()]"/>
   </td>

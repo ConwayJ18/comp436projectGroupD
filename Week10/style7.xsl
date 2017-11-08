@@ -10,8 +10,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <xsl:apply-templates select="ancient_sites/site">
           <xsl:sort select="location" order="ascending" data-type="string" />
         </xsl:apply-templates>
-
       </table>
+        <h4>New ancient Sites</h4>
+            <table>
+              <xsl:apply-templates select="ancient_sites/site[./history/year &lt; 1571]">
+                <xsl:sort select="year" order="descending" data-type="number" />
+              </xsl:apply-templates>
+            </table>
     </body>
   </html>
 </xsl:template>
@@ -22,16 +27,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:apply-templates select="history"/>
     <xsl:apply-templates select="links/overview[@type='general']"/>
     <xsl:apply-templates select="images"/>
-    <xsl:apply-templates select="notes"/>
-
-    <xsl:choose>
-      <xsl:when test="dimensions">
-        <xsl:apple-templates select="dimensions"/>
-      </xsl:when>
-      <xsl:otherwise>
-        <td>N/A</td>
-      </xsl:otherwise>
-    </xsl:choose>
   </tr>
 </xsl:template>
 
@@ -43,24 +38,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="history">
   <td>
-    <!-- <xsl:value-of select="year"/>
+    <xsl:value-of select="year"/>
     <xsl:text>&#160;</xsl:text>
-    <xsl:value-of select="year/@era"/> -->
-<xsl:choose select="year">
-
-  <xsl:when test="year/@era">
-    <xsl:value-of select="year[@range='start'] - year[@range='end']/">
-  </xsl:when>
-<!-- <xsl:otherwise>
-  <xsl:value-of select="year[@range='start']+2017"/>
-  </xsl:otherwise> -->
-  <xsl:otherwise>
-    <xsl:value-of select="year[@range='end'] - year[@range='start']/">
-    </xsl:otherwise>
-</xsl:choose>
-
+    <xsl:value-of select="year/@era"/>
   </td>
-
   <td>
     <xsl:value-of select="./dynasty"/>
     <xsl:text>&#160;</xsl:text>
@@ -74,7 +55,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <xsl:attribute name="href">
         <xsl:value-of select="./@url"/>
       </xsl:attribute>
-      <xsl:value-of select="translate(., 'w','W')"/>
+      <xsl:value-of select="."/>
     </a>
   </td>
 </xsl:template>
@@ -84,19 +65,5 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:value-of select="image[@type='jpg'][position() = last()]"/>
   </td>
 </xsl:template>
-
-
-<xsl:template match="dimensions">
-  <td>
-    approx. <xsl:value-of select="ceiling(./width * ./width)"/> m<sup>2</sup>
-  </td>
-</xsl:template>
-
-</xsl:template match="notes/note[@type='intro']">
-  <td>
-   <xsl:value-of select="substring(.,1,75)/">
-   </td>
- </xsl:template>
-
 
 </xsl:stylesheet>
