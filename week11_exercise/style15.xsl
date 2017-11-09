@@ -81,6 +81,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <xsl:apply-templates select="links/overview[@type='general']"/>
     <xsl:apply-templates select="images"/>
+    <xsl:apply-templates select="notes/note[@type='intro']"/>
   </tr>
 </xsl:template>
 
