@@ -14,8 +14,8 @@
     <history>
       <dynasty>Ming to the end of the Qing</dynasty>
       <!-- <year>1420 to 1912</year> -->
-      <year range="start">1420</year>
-      <year range="end">1912</year>
+      <year range="start" era="CE">1420</year>
+      <year range="end" era="CE">1912</year>
     </history>
     <dimensions>
       <width type="original" unit="metre">961.00</width>
