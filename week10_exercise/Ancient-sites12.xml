@@ -24,15 +24,12 @@
     </history>
 
     <architect>Kuai Xiang</architect>
-    <images>
-
       <images>
           <image size="thumb" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City thumbnail</image>
           <image size="large" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City large</image>
           <image size="full" type="tif" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City full</image>
       </images>
       <!-- <img width="500" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg"/> -->
-    </images>
     <links>
 
         <overview type="general" url="https://en.wikipedia.org/wiki/Forbidden_City">wikipedia</overview>
@@ -75,7 +72,6 @@
 
 
     <links>
-
         <overview type="general" url="https://en.wikipedia.org/wiki/Stonehenge">wikipedia</overview>
     </links>
     <notes>
