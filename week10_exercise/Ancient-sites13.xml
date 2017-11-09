@@ -59,15 +59,14 @@
       <height type="average" unit="metre">4.1</height>
       <!-- <height type="current" unit="metre">138.75</height> -->
     </dimensions>
+    <images>
+      <image size="thumb" type="jpg" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">Stonehenge thumbnail</image>
+      <image size="large" type="jpg"  src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">Stonehenge large</image>
+      <image size="full" type="tif" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1024px-Stonehenge2007_07_30.jpg">Stonehenge full</image>
 
-      <images>
-        <image size="thumb" type="jpg">Stonehenge thumbnail</image>
-        <image size="large" type="jpg">Stonehenge large</image>
-        <image size="full" type="tif">Stonehenge full</image>
-       <!-- <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/ -->
-    </images>
+     <!-- <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/ -->
+  </images>
     <links>
-
         <overview type="general" url="https://en.wikipedia.org/wiki/Stonehenge">wikipedia</overview>
     </links>
 
@@ -77,6 +76,5 @@
       </note>
     </notes>
   </site>
-
 
 </ancient_sites>
