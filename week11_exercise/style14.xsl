@@ -21,7 +21,7 @@
             <th>Year Built </th>
             <th>Dynasty</th>
             <th>Years Extant</th>
-            <th>Size</th>
+            <th colspan="2">Size</th>
             <th>Overview</th>
             <th>Images</th>
             <th>Example</th>
@@ -31,7 +31,7 @@
         <tbody>
 
         <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" data-type="string" />
+          <xsl:sort select="location" order="ascending" />
         </xsl:apply-templates>
       </tbody>
 
@@ -44,7 +44,7 @@
             <th>Year Built</th>
             <th>Dynasty</th>
             <th>Years Extant</th>
-            <th>Size</th>
+            <th colspan="2">Size</th>
             <th>Overview</th>
             <th>Images</th>
             <th>Example</th>

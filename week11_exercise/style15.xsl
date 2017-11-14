@@ -32,7 +32,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <tbody>
 
         <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" data-type="string" />
+           <xsl:sort select="location" order="ascending" />
         </xsl:apply-templates>
       </tbody>
 
@@ -54,7 +54,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </thead>
         <tbody>
           <xsl:apply-templates select="ancient_sites/site[./history/year &lt; 1571]">
-            <xsl:sort select="year" order="descending" data-type="number" />
+            <xsl:sort select="year" data-type="number" order="descending" />
           </xsl:apply-templates>
         </tbody>
       </table>
