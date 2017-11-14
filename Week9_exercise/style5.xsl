@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <h3>Ancient Sites</h3>
       <table>
         <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" data-type="string" />
+          <xsl:sort select="location" order="ascending"  />
         </xsl:apply-templates>
       </table>
     </body>
