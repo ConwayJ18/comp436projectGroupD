@@ -56,7 +56,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="images">
   <td>
-    <xsl:value-of select="image[@type='jpg'][position() = last()]"/>
+    <xsl:value-of select="image[@type='jpg'][position() = 1]"/>
   </td>
 </xsl:template>
 
