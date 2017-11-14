@@ -8,7 +8,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <h3>Ancient Sites</h3>
       <table>
         <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" />
+          <xsl:sort select="location" order="ascending"  />
         </xsl:apply-templates>
       </table>
     </body>
@@ -19,7 +19,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <tr>
     <xsl:apply-templates select="name[@language='english']"/>
     <xsl:apply-templates select="history"/>
-    <xsl:apply-templates select="links/overview[@type='general']"/>
   </tr>
 </xsl:template>
 
@@ -33,22 +32,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <td>
     <xsl:value-of select="year"/>
     <xsl:text>&#160;</xsl:text>
-    <!-- <xsl:value-of select="year/@era"/> -->
+    <xsl:value-of select="year/@era"/>
   </td>
   <td>
     <xsl:value-of select="./dynasty"/>
     <xsl:text>&#160;dynasty</xsl:text>
-  </td>
-</xsl:template>
-
-<xsl:template match="links/overview[@type='general']">
-  <td>
-    <a>
-      <xsl:attribute name="href">
-        <xsl:value-of select="./@url"/>
-      </xsl:attribute>
-      <xsl:value-of select="."/>
-    </a>
   </td>
 </xsl:template>
 
