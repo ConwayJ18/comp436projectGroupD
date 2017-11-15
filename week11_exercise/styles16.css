@@ -2,7 +2,7 @@
 body {
   width: 900px;
   margin: auto;
-  background: url(background.jpg);
+  background: url(assets/images/background.jpg);
   font-size: 15px;
   font-family: "Times New Roman", Georgia, Serif;
 }
