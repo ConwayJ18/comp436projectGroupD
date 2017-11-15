@@ -14,8 +14,8 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
        <header>
        <h1>Ancient Lives</h1>
      </header>
-      <table summary="a catalogue of ancient Chinese sites">
-        <caption>BC/AD</caption>
+      <table summary="a catalogue of ancient sites">
+        <caption>Ancient sites</caption>
         <thead>
           <tr>
             <th>Site</th>
@@ -38,7 +38,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
       </table>
       <table summary="Historical sites">
-        <caption>ONLY AD</caption>
+        <caption>Ancient site of era AD</caption>
         <thead>
           <tr>
             <th>Site</th>
