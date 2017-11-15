@@ -31,7 +31,7 @@
         <!--<image size="thumb" type="jpg" url="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City thumbnail</image>-->
 		<image size="thumb" type="jpg" src="assets/images/forbiddingcity1.jpg">Forbidden City thumbnail</image>
         <image size="large" type="jpg" src="assets/images/forbiddingcity2.jpg">Forbidden City large</image>
-        <image size="full" type="tif" src="assets/images/forbiddingcity3.jpg">Forbidden City full</image>
+        <image size="full" type="jpg" src="assets/images/forbiddingcity3.jpg">Forbidden City full</image>
     </images>
 
 
@@ -72,7 +72,7 @@
       <images>
         <image size="thumb" type="jpg" src="assets/images/Stonehenge1.jpg">Stonehenge thumbnail</image>
         <image size="large" type="jpg"  src="assets/images/Stonehenge2.jpg">Stonehenge large</image>
-        <image size="full" type="tif" src="assets/images/Stonehenge3.jpg">Stonehenge full</image>
+        <image size="full" type="jpg" src="assets/images/Stonehenge3.jpg">Stonehenge full</image>
 
        <!-- <img width="500" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg">/ -->
     </images>
@@ -109,9 +109,9 @@
     </dimensions>
 
       <images>
-        <image size="thumb" type="jpg" src="https://en.wikipedia.org/wiki/Ziggurat_of_Ur#/media/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
-        <image size="large" type="jpg"  src="https://en.wikipedia.org/wiki/Ziggurat_of_Ur#/media/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
-        <image size="full" type="tif" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
+        <image size="thumb" type="jpg" src="assets/images/ziggurat1.jpg">Ziggurat of Ur</image>
+        <image size="large" type="jpg"  src="assets/images/ziggurat2.jpg">Ziggurat of Ur</image>
+        <image size="full" type="jpg" src="assets/images/ziggurat3.jpg">Ziggurat of Ur</image>
     </images>
 
     <links>
