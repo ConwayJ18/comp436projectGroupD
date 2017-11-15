@@ -25,11 +25,16 @@ table caption {
 }
 
 td, th{
+  text-align: center ;
   padding: 10px;
   border-right: 1px solid #555;
   border-bottom: 1px solid #555;
 }
 
+td{
+
+  background-color:#FFEFD5;
+}
 
 th{
    background-color: #CD853F;
