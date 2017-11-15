@@ -147,11 +147,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <td>
     <a>
       <xsl:attribute name="href">
-        <xsl:value-of select="image[@type='jpg'][position() = last()]/@url"/>
+        <xsl:value-of select="image[@type='jpg'][position() = last()]/@src"/>
       </xsl:attribute>
       <img>
         <xsl:attribute name="src">
-          <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
+          <xsl:value-of select="image[@type='jpg' and @size='thumb']/@src"/>
         </xsl:attribute>
       </img>
     </a>
