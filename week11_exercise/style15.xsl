@@ -148,7 +148,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <td>
     <img>
     <xsl:attribute name="src">
-      <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
+      <xsl:value-of select="image[@type='jpg' and @size='thumb']/@src"/>
     </xsl:attribute>
   </img>
   </td>
