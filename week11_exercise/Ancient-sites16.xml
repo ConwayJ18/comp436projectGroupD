@@ -28,9 +28,10 @@
 
     <architect>Kuai Xiang</architect>
     <images>
-        <image size="thumb" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City thumbnail</image>
-        <image size="large" type="jpg" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City large</image>
-        <image size="full" type="tif" src="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City full</image>
+        <image size="thumb" type="jpg" url="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City thumbnail</image>
+		<!--<image size="thumb" type="jpg" src=" assets/images/forbiddingcity1.jpg">Forbidden City thumbnail</image>-->
+        <image size="large" type="jpg" url="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City large</image>
+        <image size="full" type="tif" url="https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/2052/SITours/beijing-in-one-day-day-trip-from-shanghai-by-air-in-shanghai-107610.jpg">Forbidden City full</image>
     </images>
 
 

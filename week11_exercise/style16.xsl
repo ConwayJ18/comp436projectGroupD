@@ -143,18 +143,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="images">
-    <!-- <td><xsl:value-of select="count(./image)"/></td> -->
-    <td><xsl:value-of select="image[@type='jpg'][position() = last()]"/></td>
+  <td><xsl:value-of select="count(./image)"/></td>
   <td>
-    <img>
-    <xsl:attribute name="src">
-      <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
-    </xsl:attribute>
-  </img>
+    <a>
+      <xsl:attribute name="href">
+        <xsl:value-of select="image[@type='jpg'][position() = last()]/@url"/>
+      </xsl:attribute>
+      <img>
+        <xsl:attribute name="src">
+          <xsl:value-of select="image[@type='jpg' and @size='thumb']/@url"/>
+        </xsl:attribute>
+      </img>
+    </a>
   </td>
 </xsl:template>
-
-
 
 
 
