@@ -15,7 +15,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
        <h1>Ancient Lives</h1>
      </header>
       <table summary="a catalogue of ancient Chinese sites">
-        <caption>Ancient Chinese Sites</caption>
+        <caption>BC/AD</caption>
         <thead>
           <tr>
             <th>Site</th>
@@ -32,13 +32,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <tbody>
 
         <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" />
+          <xsl:sort select="location" order="ascending"/>
         </xsl:apply-templates>
       </tbody>
 
       </table>
       <table summary="Historical sites">
-        <caption>Historical Sites</caption>
+        <caption>ONLY AD</caption>
         <thead>
           <tr>
             <th>Site</th>

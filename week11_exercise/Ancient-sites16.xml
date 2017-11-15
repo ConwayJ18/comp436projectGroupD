@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="style15.xsl"?>
+<?xml-stylesheet type="text/xsl" href="style16.xsl"?>
 <ancient_sites>
   <site>
     <name language="english">The Forbidden City</name>
@@ -11,6 +11,7 @@
       Since 1925 the Forbidden City has been under the charge of the Palace Museum, whose extensive collection of artwork and artefacts were built upon the imperial collections of the Ming and Qing dynasties. Part of the museum's former collection is now in the National Palace Museum in Taipei. Both museums descend from the same institution, but were split after the Chinese Civil War. Since 2012, the Forbidden City has seen an average of 15 million visitors annually, and had 16 millions visitors in 2016.
     </description>
     <type>Imperial Palace, Art museum</type>
+    <time>historical site</time>
     <dimensions>
       <width type="original" unit="metre">961.00</width>
       <height type="original" unit="metre">754.00</height>
@@ -52,6 +53,7 @@
         Stonehenge is a prehistoric monument in Wiltshire, England, 2 miles (3 km) west of Amesbury and 8 miles (13 km) north of Salisbury. It consists of a ring of standing stones, with each standing stone around 13 ft (4.1 metres) high, 6 ft 11 in (2.1 metres) wide and weighing around 25 tons. The stones are set within earthworks in the middle of the most dense complex of Neolithic and Bronze Age monuments in England, including several hundred burial mounds.
     </description>
     <type>Monument</type>
+    <time>ancient site</time>
     <history>
       <dynasty>Old Kingdom</dynasty>
       <!-- <year era="BC">3000 to 2000</year> -->
@@ -81,6 +83,43 @@
     <notes>
        <note type="intro">
       One of the most famous landmarks in the UK, Stonehenge is regarded as a British cultural icon. It has been a legally protected Scheduled Ancient Monument since 1882 when legislation to protect historic monuments was first successfully introduced in Britain. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown and managed by English Heritage; the surrounding land is owned by the National Trust.
+      </note>
+    </notes>
+  </site>
+  <site>
+    <name language="english">Ziggurat of Ur</name>
+    <location>ancient Ur City of Mesopotamia</location>
+    <country>Iraq</country>
+    <description>
+        Ziggurat is a rectangular stepped tower and sometimes surmounted by a temple
+    </description>
+    <type>step pyramid</type>
+    <time>ancient site</time>
+    <history>
+      <dynasty>Third Dynasty of Ur, Neo-Sumerian Empire</dynasty>
+      <year range="start" era="BC">2112</year>
+      <year range="end" era="BC">2004</year>
+    </history>
+
+    <dimensions>
+      <width type="average" unit="metre">45</width>
+      <height type="original" unit="metre">30</height>
+      <height type="current" unit="metre">30</height>
+    </dimensions>
+
+      <images>
+        <image size="thumb" type="jpg" src="https://en.wikipedia.org/wiki/Ziggurat_of_Ur#/media/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
+        <image size="large" type="jpg"  src="https://en.wikipedia.org/wiki/Ziggurat_of_Ur#/media/File:Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
+        <image size="full" type="tif" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Ancient_ziggurat_at_Ali_Air_Base_Iraq_2005.jpg">Ziggurat of Ur</image>
+    </images>
+
+    <links>
+        <overview type="general" url="https://en.wikipedia.org/wiki/Ziggurat_of_Ur">wikipedia</overview>
+    </links>
+
+    <notes>
+       <note type="intro">
+      The ziggurat was built by King Ur-Nammu who dedicated the great ziggurat of Ur in honour of Nanna.
       </note>
     </notes>
   </site>
