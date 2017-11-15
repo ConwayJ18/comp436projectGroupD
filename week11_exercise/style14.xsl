@@ -106,7 +106,7 @@
   <xsl:when test="year[@era ='BC'][@range='end']">
     <xsl:value-of select="year[@range='start'] - year[@range='end']"/>
   </xsl:when>
-  <xsl:when test="year[@era ='CE'][@range='end']">
+  <xsl:when test="year[@era ='AD'][@range='end']">
     <xsl:value-of select="year[@range='end'] - year[@range='start']"/>
   </xsl:when>
   <xsl:otherwise>

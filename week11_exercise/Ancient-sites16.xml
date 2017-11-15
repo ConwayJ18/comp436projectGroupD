@@ -22,8 +22,8 @@
     <history>
       <dynasty>Ming to the end of the Qing</dynasty>
       <!-- <year>1420 to 1912</year> -->
-      <year range="start">1420</year>
-      <year range="end">1912</year>
+      <year range="start" era="AD">1420</year>
+      <year range="end" era="AD">1912</year>
     </history>
 
     <architect>Kuai Xiang</architect>
