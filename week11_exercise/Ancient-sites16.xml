@@ -109,15 +109,9 @@
     </dimensions>
 
       <images>
-<<<<<<< Updated upstream
         <image size="thumb" type="jpg" src="assets/images/ziggurat1.jpg">Ziggurat of Ur</image>
         <image size="large" type="jpg"  src="assets/images/ziggurat2.jpg">Ziggurat of Ur</image>
         <image size="full" type="tif" src="assets/images/ziggurat3.jpg">Ziggurat of Ur</image>
-=======
-        <image size="thumb" type="jpg" src="http://imagizer.imageshack.us/a/img922/9641/WNJ9J6.jpg">Ziggurat of Ur</image>
-        <image size="large" type="jpg"  src="http://imagizer.imageshack.us/a/img922/9641/WNJ9J6.jpg">Ziggurat of Ur</image>
-        <image size="full" type="tif" src="http://imagizer.imageshack.us/a/img922/9641/WNJ9J6.jpg">Ziggurat of Ur</image>
->>>>>>> Stashed changes
     </images>
 
     <links>
