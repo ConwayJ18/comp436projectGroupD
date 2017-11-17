@@ -11,10 +11,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <link rel="stylesheet" type="text/css" href="styles.css"></link>
     </head>
     <body>
-      <header>
-        <h1>Ancient</h1>
-        <p>A catalogue of Ancient Sites</p>
-      </header>
       <table summary="a catalogue of ancient Babylonian sites">
         <caption>Ancient Mesopotamia Sites</caption>
         <thead>
@@ -29,12 +25,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </thead>
         <tbody>
           <xsl:apply-templates select="ancient_sites/site">
-            <xsl:sort select="location" order="ascending" data-type="string" />
+            <xsl:sort select="location" />
           </xsl:apply-templates>
         </tbody>
       </table>
-      <table summary="Stonehenge">
-        <caption></caption>
+      <table summary="a catalogue of Stonehenge">
+        <caption>Stonehenge</caption>
         <thead>
           <tr>
             <th>Site</th>
@@ -47,7 +43,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         </thead>
         <tbody>
           <xsl:apply-templates select="ancient_sites/site[./history/year &lt; 200]">
-            <xsl:sort select="year" order="descending" data-type="number" />
+            <xsl:sort select="year"/>
           </xsl:apply-templates>
         </tbody>
       </table>

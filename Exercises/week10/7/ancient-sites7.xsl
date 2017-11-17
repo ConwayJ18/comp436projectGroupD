@@ -8,13 +8,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <h3>Ancient Sites</h3>
   <table>
   <xsl:apply-templates select="ancient_sites/site">
-          <xsl:sort select="location" order="ascending" data-type="string" />
+          <xsl:sort select="location"/><!--order="ascending" data-type="string" />-->
         </xsl:apply-templates>
   </table>
   <h4>New ones</h4>
   <table>
         <xsl:apply-templates select="ancient_sites/site[./history/year &lt; 1000]">
-          <xsl:sort select="year" order="descending" data-type="number" />
+          <xsl:sort select="year"/>
       </xsl:apply-templates>
       </table>
   </body>
