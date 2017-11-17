@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancient-sites14.xsl"?>
+<ancient_sites>
+	<site>
+		<name language="english">Hanging Gardens of Babylon</name>
+		<location>ancient city of Babylon</location>
+		<country>Iraq</country>
+		<description>the gardens were built by king Nebuchadnezzar II to make his wife happy</description>
+		<culture>ancient Mesopotamia</culture>
+		<history>
+            <year range="start" era="BC">605</year>
+            <year range="end" era="BC">500</year>
+			<period>Hellenic</period>
+			
+		</history>
+		<images>
+            <image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large</image>
+			<image size="full" type="tif">full</image>
+        </images>
+        <links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon">wikipedia</overview>
+		</links>
+		<notes>
+        	<note type="intro">
+				the gardens were built by king Nebuchadnezzar II to make his wife happy
+			</note>
+        </notes>
+	</site>
+	<site>
+		<name language="english">Stonehenge</name>
+		<location>Amesbury</location>
+		<country>England</country>
+		<description>is an ancient, spiritual landscape, the temple has been a place of pilgrimage across the millennia</description>
+		<culture>Bronze Age</culture>
+		<history>
+            <year range="start" era="BC">2500</year>
+			<period>Neolithic period</period>
+			
+		</history>
+		<dimensions>
+			<width type="average" unit="metre">1.4</width>
+			<height type="original" unit="metre">6.0</height>
+			<height type="current" unit="metre">9.0</height>
+		</dimensions>
+		<images>
+            <image size="thumb" type="jpg">thumbnail</image>
+			<image size="large" type="jpg">large</image>
+			<image size="full" type="tif">full</image>
+        </images>
+        <links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Stonehenge">wikipedia</overview>
+		</links>
+		<notes>
+        <note type="intro">
+				is an ancient, spiritual landscape, the temple has been a place of pilgrimage across the millennia
+			</note>
+        </notes>
+	</site>
+</ancient_sites>
