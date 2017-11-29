@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fashion Tag</title>   
+    <script type="text/javascript">
+        window.onload = function () {
+            //use XHR to load
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "catalog.xml", false);
+            xmlhttp.send(null);
+            var xmldom = xmlhttp.responseXML;
+            
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "interface.xsl", false);
+            xmlhttp.send(null);
+            var xsltdom = xmlhttp.responseXML;  
+            var processor = new XSLTProcessor();
+            processor.importStylesheet(xsltdom);
+            
+            var fragment = processor.transformToFragment(xmldom, document);
+            var div = document.getElementById("divResult");
+            
+            div.appendChild(fragment);            
+        }
+    </script>           
+</head>
+<body>
+    <p></p>
+    <div id="divResult"></div>
+</body>
+</html>
