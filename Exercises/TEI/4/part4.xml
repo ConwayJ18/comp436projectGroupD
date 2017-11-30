@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="part4"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title></title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher></publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <p></p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+    <front>
+        <titlePage>
+            <docTitle>
+                <titlePart>20,000 Leagues Under the Sea</titlePart>
+            </docTitle>
+            <byline>
+                <docAuthor>Jules Verne</docAuthor>
+                <docSummary type="brife">Captain Nemo in the Nautilus...</docSummary>
+            </byline>
+            <measure type="distance" unit="league">20,000</measure>
+            <measure type="distance" unit="mile">70,000</measure>
+        </titlePage>
+    </front>
+    <body>
+    </body>
+    <back>
+    </back>
+    </text>
+</TEI>

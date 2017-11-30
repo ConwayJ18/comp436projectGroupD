@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="--------------"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title></title>
+    <!--part 7-->
+    <respStmt>
+        <resp>editor</resp>
+        <name xml:id="WA">Waleed Alduraywish</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <publisher></publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <p></p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+    <front>
+        <addPage>
+            <addNames>
+                <name type="person">Alice</name>
+                <name type="place">Wonderland</name>
+            </addNames>
+            <addPlace>
+                <address type="fictional">x.mm Wonderland</address>
+            </addPlace>
+        </addPage>
+    </front>
+    <body>
+    <!--part 6-->
+    <p xml:lang="en" n="7">
+        <name type= "person">
+            <choice>
+                <abbr type="title">PhD.</abbr>
+                <expan>Doctor of Philosophy</expan>
+            </choice>
+            Waleed</name>
+            </p>
+    </body>
+    <back>
+    </back>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="--------"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title></title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher></publisher>
+   </publicationStmt>
+   <sourceDesc>
+    </p>
+   </sourceDesc>
+  </fileDesc>
+ </teiHeader>
+ <text>
+    <front>
+        <titlePage>
+            <docTitle>
+                <titlePart type="main">World Prehistory</titlePart>
+                <titlePart type="secondary">A Brief Introduction</titlePart>
+            </docTitle>
+            <byline>
+                <docAuthor>Brian M. Fagan</docAuthor>
+            </byline>
+            <figure>
+                <graphic url="Pearson.jpg"/>
+                <figDesc>Pearson Education &AMP; Inc</figDesc>
+            </figure>
+            <docImprint>
+                <publisher>Published By Taylor &AMP; Francis</publisher>
+                <!----also we could use name to be more specific for example --> 
+                <publisher>
+                    <name n="1">Taylor</name> 
+                    <name n="2"> Francis</name>
+                </publisher>
+                <!--------------------------------------------------->
+                <pubPlace>New York</pubPlace>
+                <!-- also here we could add the whole address-->
+                <pubPlace>
+                    <address>711 Third Avenue &AMP;New York &AMP; NY 10017 &AMP; USA</address>
+                </pubPlace>
+                <!-- WHEN THERE IS MORE THAN ONE DATE WE CAN DIVIDE THAT BY AN ATTRIBUTE-->
+                <docDate from="2001">
+                    <date n="1">2006</date>
+                    <date n="2">2011</date>
+                    <date n="3">2014</date>
+                    <!-- also here we would show diffrent calendar, ex .. islamic calender-->
+                </docDate>
+                <!-------------------------------------------->
+            </docImprint>
+        </titlePage>
+    </front>
+    <body>
+    <!-- we could also add the language in the header part of the TEI XML file-------->
+    <p xml:lang="en" n="7">"here gose the paragraph,
+        <name type= "person">
+            <choice>
+                <abbr type="title">Mrs.</abbr>
+                <expan>Mistress</expan>
+            </choice>
+            McNab</name>
+            ,"she would say.</p>
+    </body>
+    <back>
+    </back>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="week12.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <tieHeader>
+     <fileDesc>
+        <titleStmt>
+            <title>World Prehistory</title>
+            <author>Brian M. Fagan</author>
+        <respStmt>
+            <resp>editor</resp>
+            <name xml:id="WA"> Waleed Alduraywish</name>
+        </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher>Published By Taylor & Francis, 8th Edition on 2010, Person </publisher>
+            <pubPlace></pubPlace>
+            <pubDigitalTag>http://kinlane-productions.s3.amazonaws.com/publishing/pearson-publishing-logo.jpg</pubDigitalTag>
+            <edition>8th edition</edition>
+            <availability>
+            <p>Open source</p>
+            </availability>
+            <date when="2018">2018</date>
+        </publicationStmt>
+        <sourceDesc> 
+            <p>Born digital: no previous source exists, only a hard Copy</p>
+            <publisher type= "hard copy">Nancy Roberts</publisher>
+            <pubPlace>New Jersey</pubPlace>
+        </sourceDesc>
+     </fileDesc>
+    </tieHeader>
+    <text xml:lang="en">
+        <front>
+            <dir type="dedication">
+                <p>personal overview of Chapter 9</p>
+                <p>Mesopotamia and the Eastern Mediterranean World</p>
+            </dir>
+            <prologue>
+                <head>Prologue</head> 
+                <l>here goes the text of the Prologue</l>
+            </prologue>
+            <div chapter="9">
+            <chapteroutline>
+                <section number="9x1">Origins</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">5500</start>
+                        <ends era="BC">3000</ends>
+                    </timeline>
+                    <figures></figures>
+                 <section number="9x2">Sumerian Civilization</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">3100</start>
+                        <ends era="BC">2334</ends>
+                    </timeline>
+                    <figures></figures>                   
+                <section number="9x3">Akkadians and Babylonians</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">2334</start>
+                        <ends era="BC">1650</ends>
+                    </timeline>
+                    <figures></figures>
+                <section number="9x4">Hittites and Sea Traders</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">1650</start>
+                        <ends era="BC">1200</ends>
+                    </timeline>
+                    <figures></figures>
+                <section number="9x5">Minoans and Mycenaeans</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">1900</start>
+                        <ends era="BC">1200</ends>
+                    </timeline>
+                    <figures></figures>
+                <section number="9x6">Sea Peoples and Phoenicians</section>
+                    <descreption></descreption>
+                    <timeline>
+                        <start era="BC">1200</start>
+                        <ends era="BC">800</ends>
+
+        </div>
+        </front>
+        <body>
+            <div type="chapter" n="1"><p>I am trying to render infromation from here but I still cannot</p></div>
+                <div2 type="part" n="1">
+                    <p><l>Origins<l>, between 5500-3100</p>
+                </div2>
+                <div2 type="part" n="2">
+                    <p><l>Sumerian Civilization<l></p>
+                </div2>
+                <div2 type="part" n="3"></div2>
+                <div2 type="part" n="3"></div2>
+                <div2 type="part" n="4"></div2>
+                <div2 type="part" n="5"></div2>
+                <div2 type="part" n="6">
+                    <p>Sea Peoples and Phoenicians</p>
+                </div2>
+                <div2 type="part" n="7">
+                    <p>Assyrians and Babylonians it was between 900-539 BC</p>
+                </div2>
+            </div1>
+        </body>
+        <back>
+            <div type="colophon">
+                <p>Physical book conditions...</p>
+            </div>
+        </back>
+    </text>
+</TEI>
