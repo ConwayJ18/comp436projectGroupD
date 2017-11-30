@@ -517,7 +517,7 @@
             <color type="secondary">Black</color>
         </colors>
         <sizes>
-            S-XXL
+            M
         </sizes>
         <brand>Zara</brand>
         <price>9.90</price>
@@ -642,144 +642,7 @@
             <material></material>
         </materials>
     </item>
-
     <item id="027" category="Clothing">
-        <name>Diagonal Blazer</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6861/379/800/2/w/560/6861379800_6_1_1.jpg?ts=1510676326492"/></photo>
-        <type>Outerwear</type>
-        <colors>
-            <color type="primary">Black</color>
-            <color type="secondary"></color>
-        </colors>
-        <sizes>
-            S-XL
-        </sizes>
-        <brand>Zara</brand>
-        <price>149.00</price>
-        <sku>6861/379</sku>
-        <gender>Men</gender>
-        <pattern></pattern>
-        <occasion>Formal</occasion>
-        <materials>
-            <material>Cotton</material>
-            <material></material>
-        </materials>
-    </item>
-
-    <item id="028" category="shoes">
-        <name>Smart Embossed</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5049/202/040/5/w/560/5049202040_2_2_1.jpg?ts=1511539520014"/></photo>
-        <type>Shoe</type>
-        <colors>
-            <color type="primary">Black</color>
-            <color type="secondary"></color>
-        </colors>
-        <sizes>
-            6-11
-        </sizes>
-        <brand>Zara</brand>
-        <price>39.99</price>
-        <sku>5049/202</sku>
-        <gender>Men</gender>
-        <pattern></pattern>
-        <occasion>Formal</occasion>
-        <materials>
-            <material>Leather</material>
-            <material></material>
-        </materials>
-    </item>
-    <item id="029" category="Clothing">
-        <name>Double Faced Jacket</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8178/301/700/3/w/560/8178301700_6_1_1.jpg?ts=1510761332321"/></photo>
-        <type>Outerwear</type>
-        <colors>
-            <color type="primary">Brown</color>
-            <color type="secondary"></color>
-        </colors>
-        <sizes>
-            S-XL
-        </sizes>
-        <brand>Zara</brand>
-        <price>149.00</price>
-        <sku>8178/301</sku>
-        <gender>Men</gender>
-        <pattern></pattern>
-        <occasion>Casual</occasion>
-        <materials>
-            <material>Leather</material>
-            <material></material>
-        </materials>
-    </item>
-
-    <item id="030" category="Clothing">
-        <name>Jacquard Scarf</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0693/393/401/2/w/560/0693393401_1_1_1.jpg?ts=1510916043616"/></photo>
-        <type>Accessory</type>
-        <colors>
-            <color type="primary">Blue</color>
-            <color type="secondary"></color>
-        </colors>
-        <sizes>
-            M
-        </sizes>
-        <brand>Zara</brand>
-        <price>17.99</price>
-        <sku>0693/393</sku>
-        <gender>Men</gender>
-        <pattern>Dots</pattern>
-        <occasion>Casual</occasion>
-        <materials>
-            <material>Cotton</material>
-            <material></material>
-        </materials>
-    </item>
-
-    <item id="031" category="shoes">
-        <name>Brown Leather Brogues</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5055/202/100/2/w/560/5055202100_2_2_1.jpg?ts=1511514667006"/></photo>
-        <type>Shoe</type>
-        <colors>
-            <color type="primary">Brown</color>
-            <color type="secondary">Blue</color>
-        </colors>
-        <sizes>
-            6-12
-        </sizes>
-        <brand>Zara</brand>
-        <price>99.90</price>
-        <sku>5055/202</sku>
-        <gender>Men</gender>
-        <pattern></pattern>
-        <occasion>Formal</occasion>
-        <materials>
-            <material>Leather</material>
-            <material></material>
-        </materials>
-    </item>
-
-<item id="032" category="Clothing" >
-        <name>Hooded Jacket</name>
-        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
-        <type>Outerwear</type>
-        <colors>
-            <color type="primary">Black</color>
-            <color type="secondary">Brown</color>
-        </colors>
-        <sizes>
-            S-XXL
-        </sizes>
-        <brand>Zara</brand>
-        <price>109.00</price>
-        <sku>4341/388</sku>
-        <gender>Men</gender>
-        <pattern></pattern>
-        <occasion>Casual</occasion>
-        <materials>
-            <material></material>
-            <material></material>
-        </materials>
-    </item>
-    <item id="033" category="Clothing">
         <name>Melange Shirt With Elbow Patches</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/400/2/w/560/0975301400_6_1_1.jpg?ts=1511888289488"/></photo>
         <type>Shirt</type>
@@ -802,7 +665,7 @@
         </materials>
     </item>
 
-    <item id="034" category="shoes">
+    <item id="028" category="shoes">
         <name>Micro-Perforated Plimsolls</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5458/202/010/2/w/560/5458202010_2_4_1.jpg?ts=1507272144951"/></photo>
         <type>Shoe</type>
@@ -821,6 +684,188 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="029" category="Clothing">
+        <name>Patterned Socks</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/347/401/2/w/560/3334347401_1_1_1.jpg?ts=1510741847945"/></photo>
+        <type>Sock</type>
+        <colors>
+            <color type="primary">Red</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>9.90</price>
+        <sku>3334/347</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="030" category="Clothing">
+        <name>Jacquard Fringed Scarf</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5665/307/600/2/w/560/5665307600_1_1_1.jpg?ts=1511526070778"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Orange</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>35.90</price>
+        <sku>5665/307</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="031" category="Clothing">
+        <name>Diagonal Blazer</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6861/379/800/2/w/560/6861379800_6_1_1.jpg?ts=1510676326492"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>149.00</price>
+        <sku>6861/379</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="032" category="shoes">
+        <name>Smart Embossed</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5049/202/040/5/w/560/5049202040_2_2_1.jpg?ts=1511539520014"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            6-11
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.99</price>
+        <sku>5049/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="033" category="Clothing">
+        <name>Double Faced Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8178/301/700/3/w/560/8178301700_6_1_1.jpg?ts=1510761332321"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>149.00</price>
+        <sku>8178/301</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="034" category="Clothing">
+        <name>Jacquard Scarf</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0693/393/401/2/w/560/0693393401_1_1_1.jpg?ts=1510916043616"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>17.99</price>
+        <sku>0693/393</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="035" category="shoes">
+        <name>Brown Leather Brogues</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5055/202/100/2/w/560/5055202100_2_2_1.jpg?ts=1511514667006"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            6-12
+        </sizes>
+        <brand>Zara</brand>
+        <price>99.90</price>
+        <sku>5055/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="036" category="Clothing" >
+        <name>Hooded Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>109.00</price>
+        <sku>4341/388</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
             <material></material>
         </materials>
     </item>
