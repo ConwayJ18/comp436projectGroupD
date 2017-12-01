@@ -500,7 +500,7 @@
         <price>49.90</price>
         <sku>0975/301</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion></occasion>
         <materials>
             <material>Cotton</material>
@@ -545,7 +545,7 @@
         <price>89.90</price>
         <sku>5475/400</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Dots</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material></material>
@@ -590,7 +590,7 @@
         <price>79.90</price>
         <sku>3918/401</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Dots</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material></material>
@@ -635,7 +635,7 @@
         <price>109.00</price>
         <sku>0840/363</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Denim</material>
@@ -657,7 +657,7 @@
         <price>49.90</price>
         <sku>0975/301</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion></occasion>
         <materials>
             <material>Cotton</material>
@@ -680,7 +680,7 @@
         <price>35.90</price>
         <sku>5458/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Dots</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
@@ -726,7 +726,7 @@
         <price>35.90</price>
         <sku>5665/307</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Plaid</pattern>
         <occasion></occasion>
         <materials>
             <material>Cotton</material>
@@ -771,7 +771,7 @@
         <price>39.99</price>
         <sku>5049/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
@@ -793,7 +793,7 @@
         <price>149.00</price>
         <sku>8178/301</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
@@ -816,7 +816,7 @@
         <price>17.99</price>
         <sku>0693/393</sku>
         <gender>Men</gender>
-        <pattern>Dots</pattern>
+        <pattern>Stripe</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
@@ -869,4 +869,123 @@
             <material></material>
         </materials>
     </item>
+
+    <item id="037" category="Clothing" >
+        <name>Palm Tree Bermuda Shorts</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/2295/301/401/2/w/560/2295301401_6_1_1.jpg?ts=1507136900706"/></photo>
+        <type>Short</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.90</price>
+        <sku>2295/301</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="038" category="Clothing">
+        <name>Rib Knit Hat</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Grey</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>19.90</price>
+        <sku>9065/347</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="039" category="shoes">
+        <name>Contrasting Ultralight Sneakers</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5447/202/202/2/w/560/5447202202_2_6_1.jpg?ts=1503400757187"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Gray</color>
+        </colors>
+        <sizes>
+            6-12
+        </sizes>
+        <brand>Zara</brand>
+        <price>69.90</price>
+        <sku>5447/202</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="040" category="Clothing">
+        <name>Flannel Overshirt</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6103/303/401/2/w/560/6103303401_6_1_1.jpg?ts=1509645483169"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Green</color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>49.90</price>
+        <sku>6103/303</sku>
+        <gender>Men</gender>
+        <pattern>Strip</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
 </catalog>
+
+<!--
+
+ <item id="0XX" category="Clothing">
+        <name></name>
+        <photo><img width="150" height="150" src=""/></photo>
+        <type></type>
+        <colors>
+            <color type="primary"></color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+
+        </sizes>
+        <brand></brand>
+        <price></price>
+        <sku></sku>
+        <gender></gender>
+        <pattern></pattern>
+        <occasion></occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+-->
