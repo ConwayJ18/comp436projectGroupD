@@ -1,0 +1,29 @@
+/* Set  header */
+header{
+background-color: #66CDAA;
+padding: 5px;
+color: white;
+text-align: center;
+font-weight: bold;
+font-size: 45px;
+font-family: Georgia, "Times New Roman", Times, serif;
+letter-spacing: 2px;
+}
+
+
+h2{
+  font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+
+
+/* site footer */
+footer {
+  background-color: #9370DB;
+  color: white;
+  padding: 1px;
+  font-size: 11px;
+  letter-spacing: 1px;
+}

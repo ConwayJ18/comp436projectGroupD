@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fashion Tag</title>   
+              <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Fashion Tag</title>
     <script type="text/javascript">
         window.onload = function () {
             //use XHR to load
@@ -9,23 +10,33 @@
             xmlhttp.open("get", "catalog.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
-            
+
             xmlhttp = new XMLHttpRequest();
             xmlhttp.open("get", "interface.xsl", false);
             xmlhttp.send(null);
-            var xsltdom = xmlhttp.responseXML;  
+            var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();
             processor.importStylesheet(xsltdom);
-            
+
             var fragment = processor.transformToFragment(xmldom, document);
             var div = document.getElementById("divResult");
-            
-            div.appendChild(fragment);            
+
+            div.appendChild(fragment);
         }
-    </script>           
+    </script>
+    <header class="container-fluid">
+  Fashion Catalog
+  <h2>Search Millions of Fashion Products </h2>
+</header>
+
+
 </head>
 <body>
     <p></p>
     <div id="divResult"></div>
 </body>
+
+<footer>
+  <p>2017 Fashion Catalog. </p>
+</footer>
 </html>

@@ -5,7 +5,7 @@
 <html>
     <head></head>
     <body>
-        <h2>Fashion Catalog Search</h2>
+        <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
             <!-- <tr bgcolor="#9acd32"> -->
