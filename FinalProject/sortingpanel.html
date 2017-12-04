@@ -14,14 +14,15 @@
 <h1>Filter By:</h1>
 
 <h4>Gender</h4>
-<form action="">
+<form action="formaction.php" method="post" target="main">
   <input type="radio" name="gender" value="men"> Men<br>
   <input type="radio" name="gender" value="women"> Women<br>
-  <input type="radio" name="gender" value="unisex"> Unisex
+  <input type="radio" name="gender" value="unisex"> Unisex<br>
+  <input type="submit" name="submit" value="submit" />
 </form>
 
 <h4>Clothing Type:</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="type" value="shirt"> Shirts<br>
   <input type="radio" name="type" value="dress"> Dresses<br>
   <input type="radio" name="type" value="pants"> Pants<br>
@@ -34,7 +35,7 @@
 </form>
 
 <h4>Color</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="color" value="red"> Red<br>
   <input type="radio" name="color" value="orange"> Orange<br>
   <input type="radio" name="color" value="yellow"> Yellow<br>
@@ -48,7 +49,7 @@
 </form>
 
 <h4>Size</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="size" value="xs"> XS<br>
   <input type="radio" name="size" value="small"> Small<br>
   <input type="radio" name="size" value="medium"> Medium<br>
@@ -58,7 +59,7 @@
 </form>
 
 <h4>Price</h4>
-<form>
+<form action="" target="main">
  From:<br>
  <input type="text" name="minprice"><br>
  To:<br>
@@ -69,7 +70,7 @@
 
 
 <h4>Pattern</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="pattern" value="solid"> Solid<br>
   <input type="radio" name="pattern" value="stripe"> Stripe<br>
   <input type="radio" name="pattern" value="plaid"> Plaid<br>
@@ -78,14 +79,14 @@
 </form>
 
 <h4>Occasion</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="occasion" value="formal"> Formal<br>
   <input type="radio" name="occasion" value="casual"> Casual<br>
   <input type="radio" name="occasion" value="other"> Other
 </form>
 
 <h4>Material</h4>
-<form action="">
+<form action="" target="main">
   <input type="radio" name="material" value="cotton"> Cotton<br>
   <input type="radio" name="material" value="polyester"> Polyester<br>
   <input type="radio" name="material" value="wool"> Wool<br>
