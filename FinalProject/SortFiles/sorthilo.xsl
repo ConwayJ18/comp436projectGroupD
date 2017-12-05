@@ -5,6 +5,7 @@
 <html>
     <head></head>
     <body>
+      Products in grid: <xsl:value-of select="count(catalog/item)"/>
         <table border="1">
             <tr bgcolor="#eaeff7">
 
@@ -31,7 +32,7 @@
                         </xsl:attribute>
                         <xsl:copy-of select="photo/node()"/>
                         </a>
-                    </td>                
+                    </td>
 					<td align="Middle"><xsl:value-of select="name"/></td>
                     <td align="Middle"><xsl:value-of select="type"/></td>
 

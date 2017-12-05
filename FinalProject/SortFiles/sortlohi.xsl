@@ -5,6 +5,7 @@
 <html>
     <head></head>
     <body>
+      Products in grid: <xsl:value-of select="count(catalog/item)"/>
         <table border="1">
             <tr bgcolor="#eaeff7">
 

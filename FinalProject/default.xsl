@@ -5,8 +5,8 @@
 <html>
     <head></head>
     <body>
-       <h3>We have <xsl:value-of select="count(catalog/item)"/> items</h3>
         <!-- <h2>Fashion Catalog Search</h2> -->
+        Products in grid: <xsl:value-of select="count(catalog/item)"/>
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
             <!-- <tr bgcolor="#9acd32"> -->
