@@ -5,6 +5,7 @@
 <html>
     <head></head>
     <body>
+    <h3>Result: <xsl:value-of select="count(catalog/item[gender='Unisex'])"/> items</h3>
         <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
