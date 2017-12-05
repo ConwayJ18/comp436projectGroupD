@@ -56,7 +56,7 @@
     <item id="003" category="Shoes">
         <name>Converse Chuck Taylor All Star Slip Low Top</name>
         <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
-        <type>Comfort</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Gray</color>
             <color type="secondary">White</color>
@@ -277,7 +277,7 @@
 <item id="011" category="Shoes">
         <name>The Day Heel</name>
         <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
-        <type>heels</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Bright Red</color>
         </colors>
@@ -300,7 +300,7 @@
      <item id="012" category="Shoes">
             <name>Nike Air Vapormax Flyknit</name>
             <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/849557_006_A_PREM/air-vapormax-flyknit-womens-running-shoe.jpg"/></photo>
-            <type>Sneakers</type>
+            <type>Shoes</type>
             <colors>
                 <color type="primary">Black</color>
                 <color type="secondary">Dark Grey</color>
@@ -373,10 +373,10 @@
 </item>
 
 
-    <item id="015" category="Accessories">
+    <item id="015" category="Accessory">
         <name>Fedora Hat with ribbon</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
-        <type>Hat</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Ecru</color>
         </colors>
@@ -421,7 +421,7 @@
         <item id="0017" category="Shoes">
         <name>Bradstreet Leather Chukka Boot</name>
         <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary">Black</color>
@@ -443,7 +443,7 @@
     <item id="018" category="Shoes">
         <name>Black Leather Ankle Boot</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Black</color>
             <color type="secondary"></color>
@@ -552,10 +552,10 @@
             <material></material>
         </materials>
     </item>
-    <item id="023" category="shoes">
+    <item id="023" category="Shoes">
         <name>Dark Red Fabric Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5462/202/202/2/w/560/5462202202_2_5_1.jpg?ts=1506514016482"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Red</color>
             <color type="secondary"></color>
@@ -597,10 +597,10 @@
             <material></material>
         </materials>
     </item>
-    <item id="025" category="shoes">
+    <item id="025" category="Shoes">
         <name>Sock-Style Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5303/202/010/2/w/560/5303202010_2_2_1.jpg?ts=1504633209043"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Blue</color>
             <color type="secondary">Black</color>
@@ -665,10 +665,10 @@
         </materials>
     </item>
 
-    <item id="028" category="shoes">
+    <item id="028" category="Shoes">
         <name>Micro-Perforated Plimsolls</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5458/202/010/2/w/560/5458202010_2_4_1.jpg?ts=1507272144951"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Blue</color>
             <color type="secondary"></color>
@@ -756,10 +756,10 @@
         </materials>
     </item>
 
-    <item id="032" category="shoes">
+    <item id="032" category="Shoes">
         <name>Smart Embossed</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5049/202/040/5/w/560/5049202040_2_2_1.jpg?ts=1511539520014"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Black</color>
             <color type="secondary"></color>
@@ -824,10 +824,10 @@
         </materials>
     </item>
 
-    <item id="035" category="shoes">
+    <item id="035" category="Shoes">
         <name>Brown Leather Brogues</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5055/202/100/2/w/560/5055202100_2_2_1.jpg?ts=1511514667006"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary">Blue</color>
@@ -893,10 +893,10 @@
         </materials>
     </item>
 
-<item id="038" category="Accessories">
+<item id="038" category="Accessory">
         <name>Rib Knit Hat</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
-        <type>Hat</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Grey</color>
             <color type="secondary"></color>
@@ -916,10 +916,10 @@
         </materials>
     </item>
 
-    <item id="039" category="shoes">
+    <item id="039" category="Shoes">
         <name>Contrasting Ultralight Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5447/202/202/2/w/560/5447202202_2_6_1.jpg?ts=1503400757187"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Blue</color>
             <color type="secondary">Gray</color>
@@ -962,10 +962,10 @@
         </materials>
     </item>
 
-    <item id="041" category="Accessories">
+    <item id="041" category="Accessory">
         <name>Take A Shine Choker</name>
         <photo><img width="150" height="150" src="https://katespade.insnw.net/KateSpade/WBRUE810_921?$rr_large$"/></photo>
-        <type>Choker</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Gold</color>
             <color type="secondary">Clear</color>
@@ -1008,10 +1008,10 @@
     </item>
 
 
-    <item id="043" category="Handbag">
+    <item id="043" category="Bag">
         <name>Georgia Leather Crossbody</name>
         <photo><img width="150" height="150" src="https://images.bloomingdales.com/is/image/BLM/products/4/optimized/9558254_fpx.tif?"/></photo>
-        <type>Crossbody bag</type>
+        <type>Bag</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1072,7 +1072,7 @@
         </materials>
     </item>
 
-    <item id="046" category="shoes">
+    <item id="046" category="Shoes">
         <name>Corlina Ankle Strap Sandal</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101229915.jpg"/></photo>
         <type>Shoes</type>
@@ -1163,10 +1163,10 @@
     </item>
 
 
-    <item id="050" category="Accessories">
+    <item id="050" category="Accessory">
         <name>Canada narrow caramel brown</name>
         <photo><img width="150" height="150" src="https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/dw99230283/images/27/27N153-/750x/27N153-900_A.jpg"/></photo>
-        <type>Scarf</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1185,10 +1185,10 @@
     </item>
 
 
-    <item id="051" category="Handbag">
+    <item id="051" category="Bag">
         <name>Collins Leather Brief</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/933255D_main"/></photo>
-        <type>Brief Case</type>
+        <type>Bag</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1206,8 +1206,8 @@
         </materials>
     </item>
 
-    <item id="052" category="Handbags">
-        <name>Pheobe Backpack</name>
+    <item id="052" category="Bag">
+        <name>Bag</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
         <type>Backpack</type>
         <colors>
@@ -1230,7 +1230,7 @@
     <item id="053" category="Shoes">
         <name>Naiyah Lace-Back Genuine Shearling Boot</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
-        <type>Boot</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Brown</color>
         </colors>
@@ -1298,10 +1298,10 @@
     </item>
 
 
-    <item id="056" category="Accessories">
+    <item id="056" category="Accessory">
         <name>62mm Oversize Sunglasses</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
-        <type>Sunglasses</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary">Gold</color>
@@ -1321,10 +1321,10 @@
     </item>
 
 
-    <item id="057" category="Accessories">
+    <item id="057" category="Accessory">
         <name>Avel Wallet</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
-        <type>Wallet</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1366,10 +1366,10 @@
     </item>
 
 
-    <item id="059" category="Accessories">
+    <item id="059" category="Accessory">
         <name>'X Crossover' Ring</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
-        <type>Ring</type>
+        <type>Accessory</type>
         <colors>
             <color type="primary">Silver</color>
             <color type="secondary">Gold</color>
@@ -1393,7 +1393,7 @@
     <item id="060" category="Shoes">
         <name>Swift Run Sneaker</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
-        <type>Sneaker</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">White</color>
             <color type="secondary">Silver</color>
@@ -1488,10 +1488,10 @@
             </materials>
     </item>
 
-    <item id="064" category="Accessories">
+    <item id="064" category="Accessory">
             <name>'Lexington' Chronograph Bracelet Watch</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
-            <type>Watch</type>
+            <type>Accessory</type>
             <colors>
                 <color type="primary">Rose Gold</color>
             </colors>
@@ -1510,11 +1510,11 @@
             </materials>
     </item>
 
-    <item id="065" category="Accessories">
+    <item id="065" category="Accessory">
             <name>Sunglasses</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100323901.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_100323995.jpg"/></photo>
-            <type>Outwear</type>
+            <type>Accessory</type>
             <colors>
                 <color type="primary">Black</color>
             </colors>
@@ -1652,12 +1652,12 @@
             </materials>
     </item>
 
-    <item id="071" category="shoes">
+    <item id="071" category="Shoes">
             <name>Scarlett Over the Knee Boot</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_101057196.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_101057637.jpg"/></photo>
             <photo position = "bottom"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101057501.jpg"/></photo>
-            <type>Boot</type>
+            <type>Shoes</type>
             <colors>
                 <color type="primary">Grey Suede</color>
                 <color type="secondary">Black</color>
@@ -1677,7 +1677,7 @@
             </materials>
     </item>
 
-    <item id="072" category="shoes">
+    <item id="072" category="Shoes">
             <name>Fileana Split Shaft Bootie</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_100876763.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100877041.jpg"/></photo>
@@ -1702,12 +1702,12 @@
             </materials>
     </item>
 
-    <item id="073" category="Handbag">
-            <name>Julian Nylon Backpack</name>
+    <item id="073" category="Bag">
+            <name>Bag</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102242671.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102233657.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_102242368.jpg"/></photo>
-            <type>Backpack</type>
+            <type>Bag</type>
             <colors>
                 <color type="primary">Smoky Rosy</color>
                 <color type="secondary">Black</color>
@@ -1727,12 +1727,12 @@
             </materials>
     </item>
 
-    <item id="074" category="Handbag">
-            <name>Dafni Leather Crossbody</name>
+    <item id="074" category="Bag">
+            <name>Bag</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102215899.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102216725.jpg"/></photo>
-            <type>Crossbody bag</type>
+            <type>Bag</type>
             <colors>
                 <color type="primary">Cameo Rosy</color>
                 <color type="secondary">Whiskey</color>
@@ -1751,12 +1751,12 @@
             </materials>
     </item>
 
-    <item id="075" category="Handbag">
-            <name>Logo Leather Shopper</name>
+    <item id="075" category="Bag">
+            <name>Bag</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_102211387.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/0/_102211420.jpg"/></photo>
-            <type>Crossbody bag</type>
+            <type>Bag</type>
             <colors>
                 <color type="primary">Hydrangea Pink</color>
                 <color type="secondary">Black</color>
@@ -1821,12 +1821,12 @@
             </materials>
     </item>
 
-    <item id="078" category="shoes">
+    <item id="078" category="Shoes">
             <name>'Romy' Pointy Toe Pump</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_100770367.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_100770544.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_100770545.jpg"/></photo>
-            <type>Heels</type>
+            <type>Shoes</type>
             <colors>
                 <color type="primary">Peacock Green</color>
                 <color type="secondary">Nave</color>
@@ -1845,10 +1845,10 @@
             </materials>
     </item>
 
-    <item id="079" category="Accessories">
+    <item id="079" category="Accessory">
             <name>Heritage Giant Check Fringed Cashmere Muffler</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_101706265.jpg"/></photo>
-            <type>Scarf</type>
+            <type>Accessory</type>
             <colors>
                 <color type="primary">Classic</color>
                 <color type="secondary">Alizarin Pink</color>
@@ -1867,10 +1867,10 @@
             </materials>
     </item>
 
-    <item id="080" category="Accessories">
+    <item id="080" category="Accessory">
             <name>Fuzzy Earflap Beanie</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_102063261.jpg"/></photo>
-            <type>Hat</type>
+            <type>Accessory</type>
             <colors>
                 <color type="primary">Red</color>
             </colors>
