@@ -965,7 +965,7 @@
     <item id="041" category="Accessories">
         <name>Take A Shine Choker</name>
         <photo><img width="150" height="150" src="https://katespade.insnw.net/KateSpade/WBRUE810_921?$rr_large$"/></photo>
-        <type>Accessory</type>
+        <type>Choker</type>
         <colors>
             <color type="primary">Gold</color>
             <color type="secondary">Clear</color>
@@ -1188,7 +1188,7 @@
     <item id="051" category="Handbag">
         <name>Collins Leather Brief</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/933255D_main"/></photo>
-        <type>Tot</type>
+        <type>Brief Case</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
