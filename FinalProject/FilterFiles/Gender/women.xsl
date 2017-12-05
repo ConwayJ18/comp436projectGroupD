@@ -23,7 +23,7 @@
                 <th>Occasion</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item">
+            <xsl:for-each select="catalog/item[gender='Women']">
         <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>

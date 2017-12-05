@@ -1,32 +1,21 @@
+
 <!DOCTYPE html>
 <html>
-<head>
-              <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Fashion Tag</title>
-    <script type="text/javascript">
-        window.onload = function () {
-            //use XHR to load
-            var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "catalog.xml", false);
-            xmlhttp.send(null);
-            var xmldom = xmlhttp.responseXML;
 
-            xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "interface.xsl", false);
-            xmlhttp.send(null);
-            var xsltdom = xmlhttp.responseXML;
-            var processor = new XSLTProcessor();
-            processor.importStylesheet(xsltdom);
+   <head>
+      <title>HTML Frames</title>
+   </head>
 
-            var fragment = processor.transformToFragment(xmldom, document);
-            var div = document.getElementById("divResult");
+   <frameset rows = "15%,80%,5%" >
+     <frame name = "header" src = "header.html" scrolling = "no"/ noresize>
+     <frameset cols="15%,85%">
+       <frame name = "sorts" src = "sortingpanel.html" noresize/>
+       <frame name = "main" src = "catalog.xml" noresize/>
+    </frameset>
+    <frame name = "footer" src = "footer.html" scrolling = "no" noresize/>
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+   </frameset>
 
-            div.appendChild(fragment);
-        }
-    </script>
-</head>
-<body>
-    <p></p>
-    <div id="divResult"></div>
-</body>
 </html>

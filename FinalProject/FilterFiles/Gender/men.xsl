@@ -3,16 +3,15 @@
 
 <xsl:template match="/">
 <html>
-    <head>
-          <title>Fashion Tag</title>
-      </head>
+    <head></head>
     <body>
-        <h2>Sorting by price</h2>
+        <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
-            <tr bgcolor="#eaeff7">
+          <tr bgcolor="#eaeff7" height="55px">
+            <!-- <tr bgcolor="#9acd32"> -->
 
                 <th>Photo</th>
-				<th>Item Name</th>
+				        <th>Item Name</th>
                 <th>Clothing Type</th>
                 <th>Color</th>
                 <th>Sizes</th>
@@ -24,39 +23,40 @@
                 <th>Occasion</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item">
-			    <xsl:sort select="price" data-type ="number" order="ascending"/>
-                <tr>
+            <xsl:for-each select="catalog/item[gender='Men']">
+        <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>
 					<td align="Middle"><xsl:value-of select="name"/></td>
           <td align="Middle"><xsl:value-of select="type"/></td>
 
-					<td align="Middle"><xsl:for-each select="colors/color">
+					<td align="Middle">
+            <xsl:for-each select="colors/color">
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
-                   <!-- <td>
+            <!-- <td align="Middle">
 						<xsl:for-each select="sizes/size">
 						<xsl:value-of select="."/>/
 						</xsl:for-each>
-					</td>-->
-					<td align="Middle"><xsl:value-of select="sizes"/></td>
+					</td> -->
+
+                    <td align="Middle"><xsl:value-of select="sizes"/></td>
                     <td align="Middle"><xsl:value-of select="brand"/></td>
-                    <td align="Middle" bgcolor="#fa8c94"><xsl:value-of select="price"/></td>
+                    <td align="Middle"><xsl:value-of select="price"/></td>
                     <td align="Middle"><xsl:value-of select="sku"/></td>
                     <td align="Middle"><xsl:value-of select="gender"/></td>
                     <td align="Middle"><xsl:value-of select="pattern"/></td>
                     <td align="Middle"><xsl:value-of select="occasion"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
-					</xsl:for-each></td>
-  </tr>
+					</xsl:for-each>
+        </td>
+      </tr>
             </xsl:for-each>
+
         </table>
     </body>
-
 </html>
-
 </xsl:template>
 </xsl:stylesheet>
