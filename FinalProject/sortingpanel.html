@@ -3,11 +3,11 @@
 <body>
 
 <h1>Sort By:</h1>
-<select>
+<select onchange="if (this.value) window.open(this.value, 'main')">
   <option value="default">Default</option>
   <option value="nameasc">Name (A-Z)</option>
   <option value="namedes">Name (Z-A)</option>
-  <option value="priceasc">Price (Low-High)</option>
+  <option value="sortbyprice.xml" target="main">Price (Low-High)</option>
   <option value="pricedes">Price (High-Low)</option>
 </select>
 
@@ -17,7 +17,6 @@
   <input type="radio" name="gender" value="men"> Men<br>
   <input type="radio" name="gender" value="women"> Women<br>
   <input type="radio" name="gender" value="unisex"> Unisex<br>
-  <input type="submit" name="submit" value="submit" />
 
 <h4>Clothing Type:</h4>
   <input type="radio" name="type" value="shirt"> Shirts<br>
@@ -76,6 +75,8 @@
   <input type="radio" name="material" value="denim"> Denim<br>
   <input type="radio" name="material" value="leather"> Leather<br>
   <input type="radio" name="material" value="other"> Other
+  <input type="submit" name="submit" value="submit" />
+</form>
 
 </body>
 </html>
