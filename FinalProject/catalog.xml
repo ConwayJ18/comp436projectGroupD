@@ -1227,192 +1227,666 @@
         </materials>
     </item>
 
-        <item id="053" category="Shoes">
-            <name>Naiyah Lace-Back Genuine Shearling Boot</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
-            <type>Shoes</type>
+    <item id="053" category="Shoes">
+        <name>Naiyah Lace-Back Genuine Shearling Boot</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
+        <type>Shoes</type>
+        <colors>
+            <color type="primary">Brown</color>
+        </colors>
+        <sizes>
+            6-10
+        </sizes>
+        <brand>UGG</brand>
+        <price>179.95</price>
+        <sku>5228229</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather, </material>
+            <material>Shearling, </material>
+            <material>Wool</material>
+        </materials>
+    </item>
+
+    <item id="054" category="Clothing">
+        <name>Eva Removable Turtleneck Sweater</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
+        <type>Sweater</type>
+        <colors>
+            <color type="primary">Orange</color>
+        </colors>
+        <sizes>
+            XS-XL
+        </sizes>
+        <brand>Tory Burch</brand>
+        <price>348.00</price>
+        <sku>5495872</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Wool, </material>
+            <material>Polyamide </material>
+        </materials>
+    </item>
+
+
+    <item id="055" category="Clothing">
+        <name>Faux Shearling Lined Denim Trucker Jacket</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101441035.jpg"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Blue</color>
+        </colors>
+        <sizes>
+            XS-L
+        </sizes>
+        <brand>LEVI's</brand>
+        <price>128.00</price>
+        <sku>5433105</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Cotton, </material>
+            <material>acrylic, </material>
+            <material>Polyamide, </material>
+            <material>Viscose faux shearling lining </material>
+        </materials>
+    </item>
+
+
+    <item id="056" category="Accessory">
+        <name>62mm Oversize Sunglasses</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary">Gold</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>CHLOÉ</brand>
+        <price>396.00</price>
+        <sku>717429</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Metal </material>
+        </materials>
+    </item>
+
+
+    <item id="057" category="Accessory">
+        <name>Avel Wallet</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
+        <type>Accesory</type>
+        <colors>
+            <color type="primary">Black</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>Gucci</brand>
+        <price>320.00</price>
+        <sku>5393550</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+        </materials>
+    </item>
+
+    <item id="058" category="Clothing">
+        <name>Side Tie Stripe Slub Jersey Tee</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_101873171.jpg"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+            XS-XL
+        </sizes>
+        <brand>T BY ALEXANDER WANG</brand>
+        <price>175.00</price>
+        <sku>5492380</sku>
+        <gender>Women</gender>
+        <pattern>Stripe</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Viscose, </material>
+            <material>linen</material>
+        </materials>
+    </item>
+
+
+    <item id="059" category="Accessory">
+        <name>'X Crossover' Ring</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Silver</color>
+            <color type="secondary">Gold</color>
+        </colors>
+        <sizes>
+            6-9
+        </sizes>
+        <brand>David Yurman</brand>
+        <price>295.00</price>
+        <sku>5492380</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Sterling silver, </material>
+            <material>18-karat yellow gold</material>
+        </materials>
+    </item>
+
+
+    <item id="060" category="Shoes">
+        <name>Swift Run Sneaker</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
+        <type>Shoes</type>
+        <colors>
+            <color type="primary">White</color>
+            <color type="secondary">Silver</color>
+        </colors>
+        <sizes>
+            5-11
+        </sizes>
+        <brand>Adidas</brand>
+        <price>84.95</price>
+        <sku>5385947</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Textile, </material>
+            <material>Rubber sole</material>
+        </materials>
+    </item>
+
+    <item id="061" category="Clothing">
+            <name>Wool Blend Double Breasted Peacoat</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102105292.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102105291.jpg"/></photo>
+            <type>Outwears</type>
             <colors>
-                <color type="primary">Brown</color>
+                <color type="primary">Heather Grey</color>
+                <color type="secondary">Black></color>
             </colors>
             <sizes>
-                6-10
+                small - XXXLarge
             </sizes>
-            <brand>UGG</brand>
-            <price>179.95</price>
-            <sku>5228229</sku>
-            <gender>Women</gender>
+            <brand>MICHAEL KORS</brand>
+            <price>99.90</price>
+            <sku>#807813</sku>
+            <gender>Men</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Leather, </material>
-                <material>Shearling, </material>
-                <material>Wool</material>
+                <material>wool</material>
+                <material>polyester</material>
+                <material>rayon</material>
             </materials>
-        </item>
+    </item>
 
-        <item id="054" category="Clothing">
-            <name>Eva Removable Turtleneck Sweater</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
-            <type>Sweater</type>
+    <item id="062" category="Clothing">       
+            <name>Packable Stretch Down Jacket</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101366732.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_101367003.jpg"/></photo>
+            <type>Outwears</type>
             <colors>
-                <color type="primary">Orange</color>
+                <color type="primary">Mulberry red</color>
+                <color type="secondary">Black></color>
             </colors>
             <sizes>
-                XS-XL
+                small - XXXLarge
             </sizes>
-            <brand>Tory Burch</brand>
-            <price>348.00</price>
-            <sku>5495872</sku>
-            <gender>Women</gender>
-            <pattern>Solid</pattern>
+            <brand>MICHAEL KORS</brand>
+            <price>99.92</price>
+            <sku>#5435460</sku>
+            <gender>Men</gender>
+            <pattern>Quilted</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Wool, </material>
-                <material>Polyamide </material>
+                <material>down</material>
+                <material>feather </material>
+                <material>rayon</material>
+                <material>spandex</material>
             </materials>
-        </item>
+    </item>
 
-
-        <item id="055" category="Clothing">
-            <name>Faux Shearling Lined Denim Trucker Jacket</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101441035.jpg"/></photo>
-            <type>Outerwear</type>
+    <item id="063" category="Clothing">       
+            <name>Sheffield Classic Fit Wool and Cashmere Overcoat</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_11522132.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_11522128.jpg"/></photo>
+            <type>Outwears</type>
             <colors>
-                <color type="primary">Blue</color>
+                <color type="primary">Black</color>
+                <color type="secondary">NaveBlack></color>
             </colors>
             <sizes>
-                XS-L
+                38S, 38R, 42R, 44R, 44L, 46R
             </sizes>
-            <brand>LEVI's</brand>
-            <price>128.00</price>
-            <sku>5433105</sku>
-            <gender>Women</gender>
+            <brand>HART SCHAFFNER MARX</brand>
+            <price>356.98</price>
+            <sku>#5042052</sku>
+            <gender>Men</gender>
             <pattern>Solid</pattern>
-            <occasion>Casual</occasion>
+            <occasion>Formal</occasion>
             <materials>
-              <material>Cotton, </material>
-                <material>acrylic, </material>
-                <material>Polyamide, </material>
-                <material>Viscose faux shearling lining </material>
+                <material>wool</material>
+                <material>cashmere</material>
             </materials>
-        </item>
+    </item>
 
-
-        <item id="056" category="Accessory">
-            <name>62mm Oversize Sunglasses</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
-            <type>Outerwear</type>
+    <item id="064" category="Accessories">       
+            <name>'Lexington' Chronograph Bracelet Watch</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
+            <type>Outwears</type>
             <colors>
-                <color type="primary">Brown</color>
-                <color type="secondary">Gold</color>
+                <color type="primary">Rose Gold</color>
             </colors>
             <sizes>
-                One size
+                44mm
             </sizes>
-            <brand>CHLOÉ</brand>
-            <price>396.00</price>
-            <sku>717429</sku>
-            <gender>Women</gender>
-            <pattern>Solid</pattern>
-            <occasion>Casual</occasion>
+            <brand>MICHAEL KORS</brand>
+            <price>206.25</price>
+            <sku>#5000991</sku>
+            <gender>Men</gender>
+            <pattern></pattern>
+            <occasion>Formal, Casual</occasion>
             <materials>
-                <material>Metal </material>
+                <material>Stainless stee</material>
+                <material>silvertone</material>
             </materials>
-        </item>
+    </item>
 
-
-        <item id="057" category="Accessory">
-            <name>Avel Wallet</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
-            <type>Accesory</type>
+    <item id="065" category="Accessories">       
+            <name>Sunglasses</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100323901.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_100323995.jpg"/></photo>
+            <type>Outwears</type>
             <colors>
                 <color type="primary">Black</color>
             </colors>
             <sizes>
-                One size
+                58mm
             </sizes>
-            <brand>Gucci</brand>
-            <price>320.00</price>
-            <sku>5393550</sku>
+            <brand>GUCCI</brand>
+            <price>345.00</price>
+            <sku>#5453355</sku>
             <gender>Men</gender>
+            <pattern></pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Acetate</material>
+                <material>nylon</material>
+            </materials>
+    </item>
+
+    <item id="066" category="Clothing">       
+            <name>Flared Crepe Pants</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102011672.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_102012161.jpg"/></photo>
+            <type>Pants</type>
+            <colors>
+                <color type="primary">Red</color>
+            </colors>
+            <sizes>
+                0-10
+            </sizes>
+            <brand>LEWIT</brand>
+            <price>299.00</price>
+            <sku>#5407196</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>viscose</material>
+                <material>acetate</material>
+                <material>elastane</material>
+            </materials>
+    </item>
+
+    <item id="067" category="Clothing">       
+            <name>Crepe Wide Leg Trousers</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_101593564.jpg"/></photo>
+            <type>Pants</type>
+            <colors>
+                <color type="primary">Black</color>
+            </colors>
+            <sizes>
+                0-10
+            </sizes>
+            <brand>MISSGUIDED</brand>
+            <price>62.00</price>
+            <sku>#5407196</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>polyester</material>
+            </materials>
+    </item>
+
+    <item id="068" category="Clothing">       
+            <name>Dolman Sleeve Sweater</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101289535.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_101289967.jpg"/></photo>
+            <type>Outerwears</type>
+            <colors>
+                <color type="primary">Pink adobe</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                XXsmall-XLarge
+            </sizes>
+            <brand>BP.</brand>
+            <price>39.00</price>
+            <sku>#5317033</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>cotton</material>
+                <material>polyester</material>
+                <material>nylon</material>
+                <material>wool</material>
+                <material>spandex</material>
+            </materials>
+    </item>
+
+    <item id="069" category="Clothing">       
+            <name>J.Crew Tartan Mountain Puffer Vest</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102212219.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102203739.jpg"/></photo>
+            <type>Outerwears</type>
+            <colors>
+                <color type="primary">Green Red Multi</color>
+            </colors>
+            <sizes>
+                XXsmall-XLarge
+            </sizes>
+            <brand>J. CREW</brand>
+            <price>138.00</price>
+            <sku>#5524727</sku>
+            <gender>Women</gender>
+            <pattern>Checked</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>wool</material>
+                <material>polyester</material>
+            </materials>
+    </item>
+
+    <item id="070" category="Clothing">       
+            <name>T Tahari Wool Blend Belted Wrap Coat</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_101230846.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101231221.jpg"/></photo>
+            <type>Outerwears</type>
+            <colors>
+                <color type="primary">Browm Suger</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                Xsmall-XLarge
+            </sizes>
+            <brand>TAHARI</brand>
+            <price>229.90</price>
+            <sku>#5317033</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>cotton</material>
+                <material>polyester</material>
+            </materials>
+    </item>
+
+    <item id="071" category="shoes">       
+            <name>Scarlett Over the Knee Boot</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_101057196.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_101057637.jpg"/></photo>
+            <photo position = "bottom"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101057501.jpg"/></photo>
+            <type>Boot</type>
+            <colors>
+                <color type="primary">Grey Suede</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                5-7.5
+            </sizes>
+            <brand>HALOGEN</brand>
+            <price>119.90</price>
+            <sku>#5351742</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Leather</material>
+                <material>synthetic</material>
+            </materials>
+    </item>
+
+    <item id="072" category="shoes">       
+            <name>Fileana Split Shaft Bootie</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_100876763.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100877041.jpg"/></photo>
+            <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_100876733.jpg"/></photo>
+            <type>Bootie</type>
+            <colors>
+                <color type="primary">Greystone Suede</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                4-6.5
+            </sizes>
+            <brand>VINCE CAMUTO</brand>
+            <price>119.90</price>
+            <sku>#5365828</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Leather</material>
+                <material>synthetic</material>
+            </materials>
+    </item>
+
+    <item id="073" category="Handbag">       
+            <name>Julian Nylon Backpack</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102242671.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102233657.jpg"/></photo>
+            <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_102242368.jpg"/></photo>
+            <type>Backpack</type>
+            <colors>
+                <color type="primary">Smoky Rosy</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                one size
+            </sizes>
+            <brand>REBECCA MINKOFF</brand>
+            <price>145.00</price>
+            <sku>#5284692</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Nylon </material>
+                <material>polyurethane </material>
+            </materials>
+    </item>
+
+    <item id="074" category="Handbag">       
+            <name>Dafni Leather Crossbody</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102215899.jpg"/></photo>
+            <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102216725.jpg"/></photo>
+            <type>Crossbody bag</type>
+            <colors>
+                <color type="primary">Cameo Rosy</color>
+                <color type="secondary">Whiskey</color>
+            </colors>
+            <sizes>
+                one size
+            </sizes>
+            <brand>VINCE CAMUTO</brand>
+            <price>158.00</price>
+            <sku>#5293147</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Leather</material>
+            </materials>
+    </item>
+
+    <item id="075" category="Handbag">       
+            <name>Logo Leather Shopper</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_102211387.jpg"/></photo>
+            <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/0/_102211420.jpg"/></photo>
+            <type>Crossbody bag</type>
+            <colors>
+                <color type="primary">Hydrangea Pink</color>
+                <color type="secondary">Black</color>
+            </colors>
+            <sizes>
+                one size
+            </sizes>
+            <brand>MARC JACOBS</brand>
+            <price>295.00</price>
+            <sku>#5332073</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Leather</material>
+            </materials>
+    </item>
+
+    <item id="076" category="Clothing">       
+            <name>Ruffle Midi Dress</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_102100426.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_102100295.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_102101143.jpg"/></photo>
+            <type>Dress</type>
+            <colors>
+                <color type="primary">Red Jester</color>
+            </colors>
+            <sizes>
+            M-X
+            </sizes>
+            <brand>CHELSEA28</brand>
+            <price>129.00</price>
+            <sku>#5317033</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Formal</occasion>
+            <materials>
+                <material>polyester</material>
+            </materials>
+    </item>
+
+    <item id="077" category="Clothing">       
+            <name>Off the Shoulder Dress</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_101604478.jpg"/></photo>
+            <type>Dress</type>
+            <colors>
+                <color type="primary">Atlantics green</color>
+                <color type="primary">Tomato Red</color>
+            </colors>
+            <sizes>
+            XSmall-XLarge
+            </sizes>
+            <brand>CHARLES HENRY</brand>
+            <price>52.80</price>
+            <sku>#5200087</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Formal</occasion>
+            <materials>
+                <material>polyester</material>
+                <material>spandex</material>
+            </materials>
+    </item>
+
+    <item id="078" category="shoes">       
+            <name>'Romy' Pointy Toe Pump</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_100770367.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_100770544.jpg"/></photo>
+            <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_100770545.jpg"/></photo>
+            <type>Heels</type>
+            <colors>
+                <color type="primary">Peacock Green</color>
+                <color type="secondary">Nave</color>
+            </colors>
+            <sizes>
+                8-9.5
+            </sizes>
+            <brand>JIMMY CHOO</brand>
+            <price>404.98</price>
+            <sku>#5118088</sku>
+            <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
                 <material>Leather</material>
             </materials>
-        </item>
+    </item>
 
-        <item id="058" category="Clothing">
-            <name>Side Tie Stripe Slub Jersey Tee</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_101873171.jpg"/></photo>
-            <type>Shirt</type>
+    <item id="079" category="Accessories">       
+            <name>Heritage Giant Check Fringed Cashmere Muffler</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_101706265.jpg"/></photo>
+            <type>Scarf</type>
             <colors>
-                <color type="primary">Black</color>
-                <color type="secondary">White</color>
+                <color type="primary">Classic</color>
+                <color type="secondary">Alizarin Pink</color>
             </colors>
             <sizes>
-                XS-XL
+                one size
             </sizes>
-            <brand>T BY ALEXANDER WANG</brand>
-            <price>175.00</price>
-            <sku>5492380</sku>
+            <brand>BURBERRY</brand>
+            <price>435</price>
+            <sku>#192929</sku>
             <gender>Women</gender>
-            <pattern>Stripe</pattern>
+            <pattern>Checked</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Viscose, </material>
-                <material>linen</material>
+                <material>cashmere</material>
             </materials>
-        </item>
+    </item>
 
-
-        <item id="059" category="Accessory">
-            <name>'X Crossover' Ring</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
-            <type>Accessory</type>
+    <item id="080" category="Accessories">       
+            <name>Fuzzy Earflap Beanie</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_102063261.jpg"/></photo>
+            <type>Hat</type>
             <colors>
-                <color type="primary">Silver</color>
-                <color type="secondary">Gold</color>
+                <color type="primary">Red</color>
             </colors>
             <sizes>
-              6-9
+                one size
             </sizes>
-            <brand>David Yurman</brand>
-            <price>295.00</price>
-            <sku>5492380</sku>
+            <brand>THE NORTH FACE</brand>
+            <price>40.00</price>
+            <sku>#295434</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Sterling silver, </material>
-                <material>18-karat yellow gold</material>
+                <material>cashmere</material>
             </materials>
-        </item>
-
-
-        <item id="060" category="Shoes">
-            <name>Swift Run Sneaker</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
-            <type>Shoes</type>
-            <colors>
-                <color type="primary">White</color>
-                <color type="secondary">Silver</color>
-            </colors>
-            <sizes>
-              5-11
-            </sizes>
-            <brand>Adidas</brand>
-            <price>84.95</price>
-            <sku>5385947</sku>
-            <gender>Women</gender>
-            <pattern>Solid</pattern>
-            <occasion>Casual</occasion>
-            <materials>
-                <material>Textile, </material>
-                <material>Rubber sole</material>
-            </materials>
-        </item>
-
+    </item>
 
 </catalog>
 
