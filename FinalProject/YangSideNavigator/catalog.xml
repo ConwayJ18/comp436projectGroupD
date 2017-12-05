@@ -893,7 +893,7 @@
         </materials>
     </item>
 
-<item id="038" category="Clothing">
+<item id="038" category="Accessory">
         <name>Rib Knit Hat</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
         <type>Accessory</type>
@@ -955,16 +955,468 @@
         <sku>6103/303</sku>
         <gender>Men</gender>
         <pattern>Strip</pattern>
-        <occasion></occasion>
+        <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
             <material></material>
         </materials>
     </item>
+
+    <item id="041" category="Accessories">
+        <name>Take A Shine Choker</name>
+        <photo><img width="150" height="150" src="https://katespade.insnw.net/KateSpade/WBRUE810_921?$rr_large$"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Gold</color>
+            <color type="secondary">Clear</color>
+        </colors>
+        <sizes>
+            Onesize
+        </sizes>
+        <brand>Kate Spade New York</brand>
+        <price>168.00</price>
+        <sku>wbrue810</sku>
+        <gender>Women</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Plated metal</material>
+            <material>Glass stone</material>
+        </materials>
+    </item>
+
+    <item id="042" category="Clothing">
+        <name>Embroidered Hooded Sweatshirt</name>
+        <photo><img width="150" height="150" src="https://assets.burberry.com/is/image/Burberryltd/2d2bdfca150f86b50704be140939d19801371373.jpg"/></photo>
+        <type>shirt</type>
+        <colors>
+            <color type="primary">red</color>
+        </colors>
+        <sizes>
+            XS-XL
+        </sizes>
+        <brand>Burberry</brand>
+        <price>450.00</price>
+        <sku>40678361</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Cotton </material>
+            <material>Polyester</material>
+        </materials>
+    </item>
+
+
+    <item id="043" category="Accessory">
+        <name>Georgia Leather Crossbody</name>
+        <photo><img width="150" height="150" src="https://images.bloomingdales.com/is/image/BLM/products/4/optimized/9558254_fpx.tif?"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Black</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>Tory Burch</brand>
+        <price>428.00</price>
+        <sku>2670650</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+        </materials>
+    </item>
+
+    <item id="044" category="Clothing">
+        <name>Bryn High Rise Cutoff Denim Shorts</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_102077556.jpg"/></photo>
+        <type>Shorts</type>
+        <colors>
+            <color type="primary">White</color>
+        </colors>
+        <sizes>
+            24-32
+        </sizes>
+        <brand>AG</brand>
+        <price>168.00</price>
+        <sku>5495143</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Cotton</material>
+            <material>Polyurethane</material>
+        </materials>
+    </item>
+
+    <item id="045" category="Clothing">
+        <name>Lace Midi Dress</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101507752.jpg"/></photo>
+        <type>Dress</type>
+        <colors>
+            <color type="primary">Pink</color>
+        </colors>
+        <sizes>
+            XS-XL
+        </sizes>
+        <brand>ASTR THE LABEL</brand>
+        <price>89.00</price>
+        <sku>5495143</sku>
+        <gender>Women</gender>
+        <pattern>Lace</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester</material>
+        </materials>
+    </item>
+
+    <item id="046" category="shoes">
+        <name>Corlina Ankle Strap Sandal</name>
+        <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101229915.jpg"/></photo>
+        <type>Shoes</type>
+        <colors>
+            <color type="primary">Red</color>
+        </colors>
+        <sizes>
+            6-13
+        </sizes>
+        <brand>VINCE CAMUTO</brand>
+        <price>99.95</price>
+        <sku>5278487</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather </material>
+            <material>Textile</material>
+        </materials>
+    </item>
+
+    <item id="047" category="Clothing">
+        <name>Dionne Blazer</name>
+        <photo><img width="150" height="150" src="https://cdn.shopify.com/s/files/1/1094/6908/products/01_8904e9a8-b946-46f1-b89b-44a767a196ca.jpg?v=1505924972"/></photo>
+        <type>Outerwears</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+            XXS-S
+        </sizes>
+        <brand>Petite Studio</brand>
+        <price>219.00</price>
+        <sku>5278487</sku>
+        <gender>Women</gender>
+        <pattern>Plaid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester, </material>
+            <material>Wood</material>
+        </materials>
+    </item>
+
+    <item id="048" category="Clothing">
+        <name>Jane Shorts</name>
+        <photo><img width="150" height="150" src="https://cdn.shopify.com/s/files/1/1094/6908/products/Luo_N_TheWork_116_74aa5904-848d-4f8a-82f8-3df2fa344a55.jpg?v=1510271144"/></photo>
+        <type>Shorts</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+            XXS-S
+        </sizes>
+        <brand>Petite Studio</brand>
+        <price>119.00</price>
+        <sku>527848</sku>
+        <gender>Women</gender>
+        <pattern>Plaid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester, </material>
+            <material>Wood</material>
+        </materials>
+    </item>
+
+
+    <item id="049" category="Clothing">
+        <name>UO Oversized Chenille V-Neck Sweater</name>
+        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44185619_072_f"/></photo>
+        <type>Sweater</type>
+        <colors>
+            <color type="primary">Yellow</color>
+        </colors>
+        <sizes>
+            XS-XL
+        </sizes>
+        <brand>Urban Outfitters</brand>
+        <price>59.00</price>
+        <sku>44185619</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester </material>
+        </materials>
+    </item>
+
+
+    <item id="050" category="Accessory">
+        <name>Canada narrow caramel brown</name>
+        <photo><img width="150" height="150" src="https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/dw99230283/images/27/27N153-/750x/27N153-900_A.jpg"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Black</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>Acne Studios</brand>
+        <price>150.00</price>
+        <sku>00000</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Wool</material>
+        </materials>
+    </item>
+
+
+    <item id="051" category="Accessory">
+        <name>Collins Leather Brief</name>
+        <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/933255D_main"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Black</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>Tumi</brand>
+        <price>995.00</price>
+        <sku>933255D</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+        </materials>
+    </item>
+
+    <item id="052" category="Accessory">
+        <name>Pheobe Backpack</name>
+        <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Saddle</color>
+        </colors>
+        <sizes>
+            One size
+        </sizes>
+        <brand>Tumi</brand>
+        <price>795.00</price>
+        <sku>101656T564</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+        </materials>
+    </item>
+
+        <item id="053" category="Shoes">
+            <name>Naiyah Lace-Back Genuine Shearling Boot</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
+            <type>Shoes</type>
+            <colors>
+                <color type="primary">Brown</color>
+            </colors>
+            <sizes>
+                6-10
+            </sizes>
+            <brand>UGG</brand>
+            <price>179.95</price>
+            <sku>5228229</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Leather, </material>
+                <material>Shearling, </material>
+                <material>Wool</material>
+            </materials>
+        </item>
+
+        <item id="054" category="Clothing">
+            <name>Eva Removable Turtleneck Sweater</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
+            <type>Sweater</type>
+            <colors>
+                <color type="primary">Orange</color>
+            </colors>
+            <sizes>
+                XS-XL
+            </sizes>
+            <brand>Tory Burch</brand>
+            <price>348.00</price>
+            <sku>5495872</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Wool, </material>
+                <material>Polyamide </material>
+            </materials>
+        </item>
+
+
+        <item id="055" category="Clothing">
+            <name>Faux Shearling Lined Denim Trucker Jacket</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101441035.jpg"/></photo>
+            <type>Outerwear</type>
+            <colors>
+                <color type="primary">Blue</color>
+            </colors>
+            <sizes>
+                XS-L
+            </sizes>
+            <brand>LEVI's</brand>
+            <price>128.00</price>
+            <sku>5433105</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+              <material>Cotton, </material>
+                <material>acrylic, </material>
+                <material>Polyamide, </material>
+                <material>Viscose faux shearling lining </material>
+            </materials>
+        </item>
+
+
+        <item id="056" category="Accessory">
+            <name>62mm Oversize Sunglasses</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
+            <type>Outerwear</type>
+            <colors>
+                <color type="primary">Brown</color>
+                <color type="secondary">Gold</color>
+            </colors>
+            <sizes>
+                One size
+            </sizes>
+            <brand>CHLOÉ</brand>
+            <price>396.00</price>
+            <sku>717429</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Metal </material>
+            </materials>
+        </item>
+
+
+        <item id="057" category="Accessory">
+            <name>Avel Wallet</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
+            <type>Accesory</type>
+            <colors>
+                <color type="primary">Black</color>
+            </colors>
+            <sizes>
+                One size
+            </sizes>
+            <brand>Gucci</brand>
+            <price>320.00</price>
+            <sku>5393550</sku>
+            <gender>Men</gender>
+            <pattern>Solid</pattern>
+            <occasion>Formal</occasion>
+            <materials>
+                <material>Leather</material>
+            </materials>
+        </item>
+
+        <item id="058" category="Clothing">
+            <name>Side Tie Stripe Slub Jersey Tee</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_101873171.jpg"/></photo>
+            <type>Shirt</type>
+            <colors>
+                <color type="primary">Black</color>
+                <color type="secondary">White</color>
+            </colors>
+            <sizes>
+                XS-XL
+            </sizes>
+            <brand>T BY ALEXANDER WANG</brand>
+            <price>175.00</price>
+            <sku>5492380</sku>
+            <gender>Women</gender>
+            <pattern>Stripe</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Viscose, </material>
+                <material>linen</material>
+            </materials>
+        </item>
+
+
+        <item id="059" category="Accessory">
+            <name>'X Crossover' Ring</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
+            <type>Accessory</type>
+            <colors>
+                <color type="primary">Silver</color>
+                <color type="secondary">Gold</color>
+            </colors>
+            <sizes>
+              6-9
+            </sizes>
+            <brand>David Yurman</brand>
+            <price>295.00</price>
+            <sku>5492380</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Sterling silver, </material>
+                <material>18-karat yellow gold</material>
+            </materials>
+        </item>
+
+
+        <item id="060" category="Shoes">
+            <name>Swift Run Sneaker</name>
+            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
+            <type>Shoes</type>
+            <colors>
+                <color type="primary">White</color>
+                <color type="secondary">Silver</color>
+            </colors>
+            <sizes>
+              5-11
+            </sizes>
+            <brand>Adidas</brand>
+            <price>84.95</price>
+            <sku>5385947</sku>
+            <gender>Women</gender>
+            <pattern>Solid</pattern>
+            <occasion>Casual</occasion>
+            <materials>
+                <material>Textile, </material>
+                <material>Rubber sole</material>
+            </materials>
+        </item>
+
+
 </catalog>
 
 <!--
-
  <item id="0XX" category="Clothing">
         <name></name>
         <photo><img width="150" height="150" src=""/></photo>
@@ -974,7 +1426,6 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-
         </sizes>
         <brand></brand>
         <price></price>
@@ -987,5 +1438,4 @@
             <material></material>
         </materials>
     </item>
-
 -->
