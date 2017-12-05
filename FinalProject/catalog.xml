@@ -160,8 +160,8 @@
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
         <type>JACKETS</type>
         <colors>
-            <color type="primary">Black&amp;white</color>
-            <color type="secondary"></color>
+            <color type="primary">Black</color>
+            <color type="secondary">White</color>
         </colors>
         <sizes>
 

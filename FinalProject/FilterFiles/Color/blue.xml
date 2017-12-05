@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="blue.xsl"?>
+<catalog>
+    <item id="001" category="Clothing">
+        <name>Easy-Iron Slim-Fit Shirt</name>
+        <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">White</color>
+        </colors>
+        <sizes>
+             XS-XXL
+        </sizes>
+        <brand>Burton</brand>
+        <price>14.99</price>
+        <sku>53-5964</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+                Polyester,
+            </material>
+            <material>
+                Cotton
+            </material>
+        </materials>
+    </item>
+
+    <item id="002" category="Clothing">
+        <name>AEO Extreme Flex Classic Flat Front Short</name>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Short</type>
+        <colors>
+            <color type="primary">Red</color>
+        </colors>
+        <sizes>
+             26-48
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.99</price>
+        <sku>4133-6374-685</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton,
+            </material>
+            <material>
+              Spandex
+            </material>
+        </materials>
+    </item>
+
+    <item id="003" category="Shoes">
+        <name>Converse Chuck Taylor All Star Slip Low Top</name>
+        <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
+        <type>Comfort</type>
+        <colors>
+            <color type="primary">Gray</color>
+            <color type="secondary">White</color>
+        </colors>
+        <sizes>
+		     M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12
+        </sizes>
+        <brand>Converse</brand>
+        <price>44.97</price>
+        <sku>1X841-077</sku>
+        <gender>Unisex</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton,
+            </material>
+            <material>
+              Rubber
+            </material>
+        </materials>
+    </item>
+	<item id="004" category="Clothing">
+        <name>Afterparty Men's Crew Sock</name>
+        <photo><img width="150" height="150" src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
+        <type>Socks</type>
+        <colors>
+            <color type="primary">Purple</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+
+              One Size
+
+        </sizes>
+        <brand>Pair of Thieves</brand>
+        <price>10.00</price>
+        <sku>Afterparty</sku>
+        <gender>Men</gender>
+        <pattern>Stripe</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+	<item id="005" category="Clothing">
+        <name>AEO Plaid Oxford Shirt</name>
+        <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">White</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            XS-XXL
+
+        </sizes>
+        <brand>American Eagle</brand>
+        <price>29.96</price>
+        <sku>0153-9873-100</sku>
+        <gender>Men</gender>
+        <pattern>Plaid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+
+	<item id="006" category= "Clothing">
+        <name>Long-Sleeve Tie-Neck Top</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
+        <type>Blouse</type>
+        <colors>
+            <color type="primary">Soft Pink</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+
+			XS-XL
+
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>59.00</price>
+        <sku>#797639</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			Polyester
+            </material>
+        </materials>
+    </item>
+
+	 <item id="007" category="Clothing">
+        <name>Herringbone Bow-Neck Jacket</name>
+        <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
+        <type>JACKETS</type>
+        <colors>
+            <color type="primary">Black&amp;white</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+
+             0-16
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>117.99</price>
+        <sku>#874213</sku>
+        <gender>Women</gender>
+        <pattern>Herringbone</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Polyester,
+            </material>
+			<material>
+			Other
+            </material>
+        </materials>
+    </item>
+
+	<item id="008" category="Clothing">
+        <name>DONEGAL TWEED OPEN-FRONT COAT</name>
+        <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
+        <type>Coat</type>
+        <colors>
+            <color type="primary">BROWN</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+
+			0-12
+
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>798.00</price>
+        <sku>137173826</sku>
+        <gender>Women</gender>
+        <pattern>TWEED</pattern>
+        <occasion>Formal, Casual</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Leather
+            </material>
+        </materials>
+    </item>
+
+	<item id="009" category="Clothing">
+        <name>KEYHOLE FIT-AND-FLARE DRESS</name>
+        <photo><img width="150" height="150" src="https://cdna.lystit.com/photos/ralphlauren/136116906-sterling%20grey%20heather-3d189984-.jpeg"/></photo>
+        <type>Dress</type>
+        <colors>
+            <color type="primary">STERLING GREY HEATHER</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+			2-16
+        </sizes>
+        <brand>Ralph Lauren</brand>
+        <price>135.00</price>
+        <sku>136116906</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Polyester,
+            </material>
+			Viscose,
+            <material>
+			Elastane
+            </material>
+        </materials>
+    </item>
+
+    <item id="010" category="Clothing">
+        <name>Slim trouser with ruffle waist in wool flannel</name>
+        <photo><img width="150" height="150" src="https://www.jcrew.com/s7-img-facade/G8589_WQ2306"/></photo>
+        <type>Pants</type>
+        <colors>
+            <color type="primary">hthr grey</color>
+            <color type="secondary">hthr beet</color>
+        </colors>
+        <sizes>
+          0-16
+        </sizes>
+        <brand>J.crew</brand>
+        <price>128.00</price>
+        <sku>G8589</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+			Wool,
+            </material>
+            <material>
+			Poly,
+            </material>
+			<material>
+			Elastane
+            </material>
+        </materials>
+    </item>
+
+
+<item id="011" category="Shoes">
+        <name>The Day Heel</name>
+        <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
+        <type>heels</type>
+        <colors>
+            <color type="primary">Bright Red</color>
+        </colors>
+        <sizes>
+        5-11
+        </sizes>
+        <brand>Everlane</brand>
+        <price>145</price>
+        <sku>53-5964</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+                Italian leather
+            </material>
+        </materials>
+        </item>
+
+     <item id="012" category="Shoes">
+            <name>Nike Air Vapormax Flyknit</name>
+            <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/849557_006_A_PREM/air-vapormax-flyknit-womens-running-shoe.jpg"/></photo>
+            <type>Sneakers</type>
+            <colors>
+                <color type="primary">Black</color>
+                <color type="secondary">Dark Grey</color>
+            </colors>
+            <sizes>
+			    7.5,9.5
+
+            </sizes>
+            <brand>Nike</brand>
+            <price>190</price>
+            <sku>849557-006</sku>
+            <gender>Women</gender>
+            <pattern>Nets</pattern>
+            <occasion>Sports</occasion>
+            <materials>
+                <material>
+                  Fabric
+                </material>
+                <material>
+                  Rubber
+                </material>
+            </materials>
+        </item>
+
+    <item id="013" category="Clothing">
+        <name>Riot Society Embroidered 40 Tee</name>
+        <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
+        <type>T-shirt</type>
+        <colors>
+            <color type="primary">White</color>
+        </colors>
+        <sizes>
+           S, M, L
+         </sizes>
+        <brand>Riot Society</brand>
+        <price>34</price>
+        <sku>44395119</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>
+              Cotton
+            </material>
+        </materials>
+    </item>
+
+
+<item id="014" category="Clothing">
+    <name>Bow belted dress</name>
+    <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
+    <type>Dress</type>
+    <colors>
+        <color type="primary">Mustard</color>
+    </colors>
+    <sizes>
+      4-8
+    </sizes>
+    <brand>Mango</brand>
+    <price>49.99</price>
+    <sku>11047696</sku>
+    <gender>Women</gender>
+    <pattern>Solid</pattern>
+    <occasion>Casual</occasion>
+    <materials>
+        <material>
+          Fabric
+        </material>
+    </materials>
+</item>
+
+
+    <item id="015" category="Accessories">
+        <name>Fedora Hat with ribbon</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
+        <type>Hats</type>
+        <colors>
+            <color type="primary">Ecru</color>
+        </colors>
+        <sizes>
+          S, M
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.90</price>
+        <sku>0049/205</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>
+              Wool
+            </material>
+        </materials>
+    </item>
+	<item id="0016" category="Clothing">
+        <name>Lightweight Bomber</name>
+        <photo>
+        <img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/980/334/cn13980334.jpg"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Red</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            XS-XXL
+        </sizes>
+        <brand>Banana Republic</brand>
+        <price>148.00</price>
+        <sku>796212</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester</material>
+            <material></material>
+        </materials>
+    </item>
+        <item id="0017" category="Shoes">
+        <name>Bradstreet Leather Chukka Boot</name>
+        <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+          7.0-10.5
+        </sizes>
+        <brand>Timberland</brand>
+        <price>120.00</price>
+        <sku>A146Q001</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="018" category="Shoes">
+        <name>Black Leather Ankle Boot</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+          6-11
+        </sizes>
+        <brand>Zara</brand>
+        <price>69.90</price>
+        <sku>5602/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+  <item id="019" category="Clothing">
+        <name>Pique Puffer Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Grey</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>79.90</price>
+        <sku>1608/419</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="020" category="Clothing">
+        <name>Melange Shirt With Elbow Patches</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/605/2/w/560/0975301605_6_1_1.jpg?ts=1511888375893"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">Red</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>49.90</price>
+        <sku>0975/301</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+        <item id="021" category="Clothing">
+        <name>Shimmery Socks</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6209/305/500/2/w/560/6209305500_1_1_1.jpg?ts=1511526259488"/></photo>
+        <type>Sock</type>
+        <colors>
+            <color type="primary">Green</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>9.90</price>
+        <sku>6209/305</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="022" category="Clothing">
+        <name>Puffer Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5475/400/800/2/w/560/5475400800_6_1_1.jpg?ts=1511879446204"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>89.90</price>
+        <sku>5475/400</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="023" category="shoes">
+        <name>Dark Red Fabric Sneakers</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5462/202/202/2/w/560/5462202202_2_5_1.jpg?ts=1506514016482"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Red</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            6-14
+        </sizes>
+        <brand>Zara</brand>
+        <price>29.99</price>
+        <sku>5462/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="024" category="Clothing">
+        <name>Contrast Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3918/401/505/2/w/560/3918401505_6_1_1.jpg?ts=1511889058112"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Green</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>79.90</price>
+        <sku>3918/401</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="025" category="shoes">
+        <name>Sock-Style Sneakers</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5303/202/010/2/w/560/5303202010_2_2_1.jpg?ts=1504633209043"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Black</color>
+        </colors>
+        <sizes>
+            6-14
+        </sizes>
+        <brand>Zara</brand>
+        <price>49.99</price>
+        <sku>5303/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+      <item id="026" category="Clothing">
+        <name>Denim Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0840/363/427/3/w/560/0840363427_6_1_1.jpg?ts=1510938493945"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M-L
+        </sizes>
+        <brand>Zara</brand>
+        <price>109.00</price>
+        <sku>0840/363</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Denim</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="027" category="Clothing">
+        <name>Melange Shirt With Elbow Patches</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/400/2/w/560/0975301400_6_1_1.jpg?ts=1511888289488"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Red</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>49.90</price>
+        <sku>0975/301</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="028" category="shoes">
+        <name>Micro-Perforated Plimsolls</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5458/202/010/2/w/560/5458202010_2_4_1.jpg?ts=1507272144951"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            6-14
+        </sizes>
+        <brand>Zara</brand>
+        <price>35.90</price>
+        <sku>5458/202</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="029" category="Clothing">
+        <name>Patterned Socks</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/347/401/2/w/560/3334347401_1_1_1.jpg?ts=1510741847945"/></photo>
+        <type>Sock</type>
+        <colors>
+            <color type="primary">Red</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>9.90</price>
+        <sku>3334/347</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="030" category="Clothing">
+        <name>Jacquard Fringed Scarf</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5665/307/600/2/w/560/5665307600_1_1_1.jpg?ts=1511526070778"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Orange</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>35.90</price>
+        <sku>5665/307</sku>
+        <gender>Men</gender>
+        <pattern>Plaid</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="031" category="Clothing">
+        <name>Diagonal Blazer</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6861/379/800/2/w/560/6861379800_6_1_1.jpg?ts=1510676326492"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>149.00</price>
+        <sku>6861/379</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="032" category="shoes">
+        <name>Smart Embossed</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5049/202/040/5/w/560/5049202040_2_2_1.jpg?ts=1511539520014"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            6-11
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.99</price>
+        <sku>5049/202</sku>
+        <gender>Men</gender>
+        <pattern>solid</pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+    <item id="033" category="Clothing">
+        <name>Double Faced Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8178/301/700/3/w/560/8178301700_6_1_1.jpg?ts=1510761332321"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>149.00</price>
+        <sku>8178/301</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="034" category="Clothing">
+        <name>Jacquard Scarf</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0693/393/401/2/w/560/0693393401_1_1_1.jpg?ts=1510916043616"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>17.99</price>
+        <sku>0693/393</sku>
+        <gender>Men</gender>
+        <pattern>Stripe</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="035" category="shoes">
+        <name>Brown Leather Brogues</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5055/202/100/2/w/560/5055202100_2_2_1.jpg?ts=1511514667006"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Brown</color>
+            <color type="secondary">Blue</color>
+        </colors>
+        <sizes>
+            6-12
+        </sizes>
+        <brand>Zara</brand>
+        <price>99.90</price>
+        <sku>5055/202</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Formal</occasion>
+        <materials>
+            <material>Leather</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="036" category="Clothing" >
+        <name>Hooded Jacket</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
+        <type>Outerwear</type>
+        <colors>
+            <color type="primary">Black</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            S-XXL
+        </sizes>
+        <brand>Zara</brand>
+        <price>109.00</price>
+        <sku>4341/388</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="037" category="Clothing" >
+        <name>Palm Tree Bermuda Shorts</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/2295/301/401/2/w/560/2295301401_6_1_1.jpg?ts=1507136900706"/></photo>
+        <type>Short</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Brown</color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>39.90</price>
+        <sku>2295/301</sku>
+        <gender>Men</gender>
+        <pattern></pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Polyester</material>
+            <material></material>
+        </materials>
+    </item>
+
+<item id="038" category="Clothing">
+        <name>Rib Knit Hat</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
+        <type>Accessory</type>
+        <colors>
+            <color type="primary">Grey</color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+            M
+        </sizes>
+        <brand>Zara</brand>
+        <price>19.90</price>
+        <sku>9065/347</sku>
+        <gender>Men</gender>
+        <pattern>Solid</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="039" category="shoes">
+        <name>Contrasting Ultralight Sneakers</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5447/202/202/2/w/560/5447202202_2_6_1.jpg?ts=1503400757187"/></photo>
+        <type>Shoe</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Gray</color>
+        </colors>
+        <sizes>
+            6-12
+        </sizes>
+        <brand>Zara</brand>
+        <price>69.90</price>
+        <sku>5447/202</sku>
+        <gender>Men</gender>
+        <pattern>Dots</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+    <item id="040" category="Clothing">
+        <name>Flannel Overshirt</name>
+        <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6103/303/401/2/w/560/6103303401_6_1_1.jpg?ts=1509645483169"/></photo>
+        <type>Shirt</type>
+        <colors>
+            <color type="primary">Blue</color>
+            <color type="secondary">Green</color>
+        </colors>
+        <sizes>
+            S-XL
+        </sizes>
+        <brand>Zara</brand>
+        <price>49.90</price>
+        <sku>6103/303</sku>
+        <gender>Men</gender>
+        <pattern>Strip</pattern>
+        <occasion></occasion>
+        <materials>
+            <material>Cotton</material>
+            <material></material>
+        </materials>
+    </item>
+</catalog>
+
+<!--
+
+ <item id="0XX" category="Clothing">
+        <name></name>
+        <photo><img width="150" height="150" src=""/></photo>
+        <type></type>
+        <colors>
+            <color type="primary"></color>
+            <color type="secondary"></color>
+        </colors>
+        <sizes>
+
+        </sizes>
+        <brand></brand>
+        <price></price>
+        <sku></sku>
+        <gender></gender>
+        <pattern></pattern>
+        <occasion></occasion>
+        <materials>
+            <material></material>
+            <material></material>
+        </materials>
+    </item>
+
+-->
