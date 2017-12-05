@@ -376,7 +376,7 @@
     <item id="015" category="Accessories">
         <name>Fedora Hat with ribbon</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
-        <type>Hats</type>
+        <type>Hat</type>
         <colors>
             <color type="primary">Ecru</color>
         </colors>
@@ -691,7 +691,7 @@
     <item id="029" category="Clothing">
         <name>Patterned Socks</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/347/401/2/w/560/3334347401_1_1_1.jpg?ts=1510741847945"/></photo>
-        <type>Sock</type>
+        <type>Socks</type>
         <colors>
             <color type="primary">Red</color>
             <color type="secondary">Blue</color>
@@ -893,10 +893,10 @@
         </materials>
     </item>
 
-<item id="038" category="Accessory">
+<item id="038" category="Accessories">
         <name>Rib Knit Hat</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
-        <type>Accessory</type>
+        <type>Hat</type>
         <colors>
             <color type="primary">Grey</color>
             <color type="secondary"></color>
@@ -1008,10 +1008,10 @@
     </item>
 
 
-    <item id="043" category="Accessory">
+    <item id="043" category="Handbag">
         <name>Georgia Leather Crossbody</name>
         <photo><img width="150" height="150" src="https://images.bloomingdales.com/is/image/BLM/products/4/optimized/9558254_fpx.tif?"/></photo>
-        <type>Accessory</type>
+        <type>Crossbody bag</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1163,10 +1163,10 @@
     </item>
 
 
-    <item id="050" category="Accessory">
+    <item id="050" category="Accessories">
         <name>Canada narrow caramel brown</name>
         <photo><img width="150" height="150" src="https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/dw99230283/images/27/27N153-/750x/27N153-900_A.jpg"/></photo>
-        <type>Accessory</type>
+        <type>Scarf</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1185,10 +1185,10 @@
     </item>
 
 
-    <item id="051" category="Accessory">
+    <item id="051" category="Handbag">
         <name>Collins Leather Brief</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/933255D_main"/></photo>
-        <type>Accessory</type>
+        <type>Tot</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1206,10 +1206,10 @@
         </materials>
     </item>
 
-    <item id="052" category="Accessory">
+    <item id="052" category="Handbags">
         <name>Pheobe Backpack</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
-        <type>Accessory</type>
+        <type>Backpack</type>
         <colors>
             <color type="primary">Saddle</color>
         </colors>
@@ -1230,7 +1230,7 @@
     <item id="053" category="Shoes">
         <name>Naiyah Lace-Back Genuine Shearling Boot</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
-        <type>Shoes</type>
+        <type>Boot</type>
         <colors>
             <color type="primary">Brown</color>
         </colors>
@@ -1298,10 +1298,10 @@
     </item>
 
 
-    <item id="056" category="Accessory">
+    <item id="056" category="Accessories">
         <name>62mm Oversize Sunglasses</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
-        <type>Outerwear</type>
+        <type>Sunglasses</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary">Gold</color>
@@ -1321,10 +1321,10 @@
     </item>
 
 
-    <item id="057" category="Accessory">
+    <item id="057" category="Accessories">
         <name>Avel Wallet</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
-        <type>Accesory</type>
+        <type>Wallet</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
@@ -1366,10 +1366,10 @@
     </item>
 
 
-    <item id="059" category="Accessory">
+    <item id="059" category="Accessories">
         <name>'X Crossover' Ring</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
-        <type>Accessory</type>
+        <type>Ring</type>
         <colors>
             <color type="primary">Silver</color>
             <color type="secondary">Gold</color>
@@ -1393,7 +1393,7 @@
     <item id="060" category="Shoes">
         <name>Swift Run Sneaker</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
-        <type>Shoes</type>
+        <type>Sneaker</type>
         <colors>
             <color type="primary">White</color>
             <color type="secondary">Silver</color>
@@ -1411,13 +1411,13 @@
             <material>Textile, </material>
             <material>Rubber sole</material>
         </materials>
-    </item>
+     </item>
 
     <item id="061" category="Clothing">
             <name>Wool Blend Double Breasted Peacoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102105292.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102105291.jpg"/></photo>
-            <type>Outwears</type>
+            <type>Outwear</type>
             <colors>
                 <color type="primary">Heather Grey</color>
                 <color type="secondary">Black></color>
@@ -1442,7 +1442,7 @@
             <name>Packable Stretch Down Jacket</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101366732.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_101367003.jpg"/></photo>
-            <type>Outwears</type>
+            <type>Outwear</type>
             <colors>
                 <color type="primary">Mulberry red</color>
                 <color type="secondary">Black></color>
@@ -1468,7 +1468,7 @@
             <name>Sheffield Classic Fit Wool and Cashmere Overcoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_11522132.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_11522128.jpg"/></photo>
-            <type>Outwears</type>
+            <type>Outwear</type>
             <colors>
                 <color type="primary">Black</color>
                 <color type="secondary">NaveBlack></color>
@@ -1491,7 +1491,7 @@
     <item id="064" category="Accessories">
             <name>'Lexington' Chronograph Bracelet Watch</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
-            <type>Outwears</type>
+            <type>Watch</type>
             <colors>
                 <color type="primary">Rose Gold</color>
             </colors>
@@ -1514,7 +1514,7 @@
             <name>Sunglasses</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100323901.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_100323995.jpg"/></photo>
-            <type>Outwears</type>
+            <type>Outwear</type>
             <colors>
                 <color type="primary">Black</color>
             </colors>
@@ -1582,7 +1582,7 @@
             <name>Dolman Sleeve Sweater</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101289535.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_101289967.jpg"/></photo>
-            <type>Outerwears</type>
+            <type>Sweater</type>
             <colors>
                 <color type="primary">Pink adobe</color>
                 <color type="secondary">Black</color>
@@ -1609,7 +1609,7 @@
             <name>J.Crew Tartan Mountain Puffer Vest</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102212219.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102203739.jpg"/></photo>
-            <type>Outerwears</type>
+            <type>Outerwear</type>
             <colors>
                 <color type="primary">Green Red Multi</color>
             </colors>
@@ -1632,7 +1632,7 @@
             <name>T Tahari Wool Blend Belted Wrap Coat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_101230846.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101231221.jpg"/></photo>
-            <type>Outerwears</type>
+            <type>Outerwear</type>
             <colors>
                 <color type="primary">Browm Suger</color>
                 <color type="secondary">Black</color>
@@ -1682,7 +1682,7 @@
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_100876763.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100877041.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_100876733.jpg"/></photo>
-            <type>Bootie</type>
+            <type>Boot</type>
             <colors>
                 <color type="primary">Greystone Suede</color>
                 <color type="secondary">Black</color>
