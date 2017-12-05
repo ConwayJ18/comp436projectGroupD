@@ -1227,44 +1227,6 @@
         </materials>
     </item>
 
-<<<<<<< HEAD
-        <item id="053" category="Shoes">
-            <name>Naiyah Lace-Back Genuine Shearling Boot</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
-            <type>Shoes</type>
-            <colors>
-                <color type="primary">Brown</color>
-            </colors>
-            <sizes>
-                6-10
-            </sizes>
-            <brand>UGG</brand>
-            <price>179.95</price>
-            <sku>5228229</sku>
-            <gender>Women</gender>
-            <pattern>Solid</pattern>
-            <occasion>Casual</occasion>
-            <materials>
-                <material>Leather, </material>
-                <material>Shearling, </material>
-                <material>Wool</material>
-            </materials>
-        </item>
-
-        <item id="054" category="Clothing">
-            <name>Eva Removable Turtleneck Sweater</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
-            <type>Sweater</type>
-            <colors>
-                <color type="primary">Orange</color>
-            </colors>
-            <sizes>
-                XS-XL
-            </sizes>
-            <brand>Tory Burch</brand>
-            <price>348.00</price>
-            <sku>5495872</sku>
-=======
     <item id="053" category="Shoes">
         <name>Naiyah Lace-Back Genuine Shearling Boot</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
@@ -1585,32 +1547,10 @@
             <brand>LEWIT</brand>
             <price>299.00</price>
             <sku>#5407196</sku>
->>>>>>> 4469b22c512ea66380f1d19986786af7de60420f
             <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-<<<<<<< HEAD
-                <material>Wool, </material>
-                <material>Polyamide </material>
-            </materials>
-        </item>
-
-
-        <item id="055" category="Clothing">
-            <name>Faux Shearling Lined Denim Trucker Jacket</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101441035.jpg"/></photo>
-            <type>Outerwear</type>
-            <colors>
-                <color type="primary">Blue</color>
-            </colors>
-            <sizes>
-                XS-L
-            </sizes>
-            <brand>LEVI's</brand>
-            <price>128.00</price>
-            <sku>5433105</sku>
-=======
                 <material>viscose</material>
                 <material>acetate</material>
                 <material>elastane</material>
@@ -1653,35 +1593,10 @@
             <brand>BP.</brand>
             <price>39.00</price>
             <sku>#5317033</sku>
->>>>>>> 4469b22c512ea66380f1d19986786af7de60420f
             <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-<<<<<<< HEAD
-              <material>Cotton, </material>
-                <material>acrylic, </material>
-                <material>Polyamide, </material>
-                <material>Viscose faux shearling lining </material>
-            </materials>
-        </item>
-
-
-        <item id="056" category="Accessory">
-            <name>62mm Oversize Sunglasses</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
-            <type>Outerwear</type>
-            <colors>
-                <color type="primary">Brown</color>
-                <color type="secondary">Gold</color>
-            </colors>
-            <sizes>
-                One size
-            </sizes>
-            <brand>CHLOÉ</brand>
-            <price>396.00</price>
-            <sku>717429</sku>
-=======
                 <material>cotton</material>
                 <material>polyester</material>
                 <material>nylon</material>
@@ -1728,77 +1643,10 @@
             <brand>TAHARI</brand>
             <price>229.90</price>
             <sku>#5317033</sku>
->>>>>>> 4469b22c512ea66380f1d19986786af7de60420f
             <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-<<<<<<< HEAD
-                <material>Metal </material>
-            </materials>
-        </item>
-
-
-        <item id="057" category="Accessory">
-            <name>Avel Wallet</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
-            <type>Accesory</type>
-            <colors>
-                <color type="primary">Black</color>
-            </colors>
-            <sizes>
-                One size
-            </sizes>
-            <brand>Gucci</brand>
-            <price>320.00</price>
-            <sku>5393550</sku>
-            <gender>Men</gender>
-            <pattern>Solid</pattern>
-            <occasion>Formal</occasion>
-            <materials>
-                <material>Leather</material>
-            </materials>
-        </item>
-
-        <item id="058" category="Clothing">
-            <name>Side Tie Stripe Slub Jersey Tee</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_101873171.jpg"/></photo>
-            <type>Shirt</type>
-            <colors>
-                <color type="primary">Black</color>
-                <color type="secondary">White</color>
-            </colors>
-            <sizes>
-                XS-XL
-            </sizes>
-            <brand>T BY ALEXANDER WANG</brand>
-            <price>175.00</price>
-            <sku>5492380</sku>
-            <gender>Women</gender>
-            <pattern>Stripe</pattern>
-            <occasion>Casual</occasion>
-            <materials>
-                <material>Viscose, </material>
-                <material>linen</material>
-            </materials>
-        </item>
-
-
-        <item id="059" category="Accessory">
-            <name>'X Crossover' Ring</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
-            <type>Accessory</type>
-            <colors>
-                <color type="primary">Silver</color>
-                <color type="secondary">Gold</color>
-            </colors>
-            <sizes>
-              6-9
-            </sizes>
-            <brand>David Yurman</brand>
-            <price>295.00</price>
-            <sku>5492380</sku>
-=======
                 <material>cotton</material>
                 <material>polyester</material>
             </materials>
@@ -1919,42 +1767,10 @@
             <brand>MARC JACOBS</brand>
             <price>295.00</price>
             <sku>#5332073</sku>
->>>>>>> 4469b22c512ea66380f1d19986786af7de60420f
             <gender>Women</gender>
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-<<<<<<< HEAD
-                <material>Sterling silver, </material>
-                <material>18-karat yellow gold</material>
-            </materials>
-        </item>
-
-
-        <item id="060" category="Shoes">
-            <name>Swift Run Sneaker</name>
-            <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
-            <type>Shoes</type>
-            <colors>
-                <color type="primary">White</color>
-                <color type="secondary">Silver</color>
-            </colors>
-            <sizes>
-              5-11
-            </sizes>
-            <brand>Adidas</brand>
-            <price>84.95</price>
-            <sku>5385947</sku>
-            <gender>Women</gender>
-            <pattern>Solid</pattern>
-            <occasion>Casual</occasion>
-            <materials>
-                <material>Textile, </material>
-                <material>Rubber sole</material>
-            </materials>
-        </item>
-
-=======
                 <material>Leather</material>
             </materials>
     </item>
@@ -2071,7 +1887,6 @@
                 <material>cashmere</material>
             </materials>
     </item>
->>>>>>> 4469b22c512ea66380f1d19986786af7de60420f
 
 </catalog>
 
