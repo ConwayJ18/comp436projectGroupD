@@ -24,14 +24,18 @@
                 <th>Material</th>
             </tr>
             <xsl:for-each select="catalog/item">
-        <tr>
-
-                    <td><xsl:copy-of select="photo/node()"/></td>
+                <tr>
+                    <a>
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="photo/img/@src"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="photo/node()"/>
+                        </a>
 					<td align="Middle"><xsl:value-of select="name"/></td>
-          <td align="Middle"><xsl:value-of select="type"/></td>
+                    <td align="Middle"><xsl:value-of select="type"/></td>
 
 					<td align="Middle">
-            <xsl:for-each select="colors/color">
+                        <xsl:for-each select="colors/color">
 						<xsl:value-of select="."/><br/>
 						</xsl:for-each>
 					</td>
@@ -49,10 +53,10 @@
                     <td align="Middle"><xsl:value-of select="pattern"/></td>
                     <td align="Middle"><xsl:value-of select="occasion"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
-					<xsl:value-of select="."/>
-					</xsl:for-each>
-        </td>
-      </tr>
+					    <xsl:value-of select="."/>
+					    </xsl:for-each>
+                    </td>
+            </tr>
             </xsl:for-each>
 
         </table>

@@ -24,8 +24,14 @@
             <xsl:for-each select="catalog/item">
 			    <xsl:sort select="name" data-type ="text" order="descending"/>
                 <tr>
-
-                    <td><xsl:copy-of select="photo/node()"/></td>
+                   <td>
+                        <a>
+                        <xsl:attribute name="href">
+                            <xsl:value-of select="photo/img/@src"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="photo/node()"/>
+                        </a>
+                    </td>
 					<td align="Middle" bgcolor="#fa8c94"><xsl:value-of select="name"/></td>
           <td align="Middle"><xsl:value-of select="type"/></td>
 
