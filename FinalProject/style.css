@@ -17,7 +17,25 @@ h2{
   letter-spacing: 2px;
 }
 
+a{
+  background-color: #66CDAA;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 45px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  letter-spacing: 2px;
+  text-decoration: none;
 
+}
+
+a h2{
+  font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
 
 /* site footer */
 footer {
