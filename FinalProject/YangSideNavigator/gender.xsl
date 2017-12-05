@@ -5,12 +5,12 @@
 <html>
     <head></head>
     <body>
-        <h2>Fashion Catalog Search</h2>
+        <h2>Gender:</h2>
 		 <table border="1">
             <thead bgcolor="#eaeff7" height="55px">
 
                 <th>Photo</th>
-				<th>Item Name</th>
+				        <th>Item Name</th>
                 <th>Clothing Type</th>
                 <th>Color</th>
                 <th>Sizes</th>
