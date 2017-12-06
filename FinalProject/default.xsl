@@ -23,6 +23,7 @@
                 <th>Pattern</th>
                 <th>Occasion</th>
                 <th>Material</th>
+                <th>Season</th>
             </tr>
             <xsl:for-each select="catalog/item">
                 <tr>
