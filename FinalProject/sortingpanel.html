@@ -53,11 +53,12 @@
   <input type="radio" name="size" value="onesize" onclick="window.open('FilterFiles/Size/#.xml', 'main');"> One-Size
 
 <h4>Price</h4>
- <p>From:</p><br>
- <input type="text" name="minprice"><br>
- <p>To:</p><br>
- <input type="text" name="maxprice">
-</select>
+<input type="radio" name="price" value="tier1" onclick="window.open('FilterFiles/Price/tier1.xml', 'main');"> $0-$20<br>
+<input type="radio" name="price" value="tier2" onclick="window.open('FilterFiles/Price/tier2.xml', 'main');"> $20-$50<br>
+<input type="radio" name="price" value="tier3" onclick="window.open('FilterFiles/Price/tier3.xml', 'main');"> $50-$100<br>
+<input type="radio" name="price" value="tier4" onclick="window.open('FilterFiles/Price/tier4.xml', 'main');"> $100-$250<br>
+<input type="radio" name="price" value="tier5" onclick="window.open('FilterFiles/Price/tier5.xml', 'main');"> $250-$500<br>
+<input type="radio" name="price" value="tier6" onclick="window.open('FilterFiles/Price/tier6.xml', 'main');"> $500+<br>
 
 <h4>Pattern</h4>
   <input type="radio" name="pattern" value="solid" onclick="window.open('FilterFiles/Pattern/solid.xml', 'main');"> Solid<br>
