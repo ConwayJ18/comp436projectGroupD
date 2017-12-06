@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-
+<!--define a param message-->
+<xsl:param name="message" />
 <xsl:template match="/">
 <html>
     <head></head>
@@ -25,15 +26,23 @@
                 <th>Season</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item">
-                <tr>
-                    <a>
+             
+       
+           
+            
+           <xsl:for-each select="catalog/item">
+            <xsl:if test = "contains(.,$message)">
+             
+                <tr>                
+                    <td>
+                        <a>
                         <xsl:attribute name="href">
                             <xsl:value-of select="photo/img/@src"/>
                         </xsl:attribute>
                         <xsl:copy-of select="photo/node()"/>
                         </a>
-					<td align="Middle"><xsl:value-of select="name"/></td>
+                    </td>					
+                    <td align="Middle"><xsl:value-of select="name"/></td>
                     <td align="Middle"><xsl:value-of select="type"/></td>
 
 					<td align="Middle">
@@ -59,7 +68,8 @@
 					    <xsl:value-of select="."/>
 					    </xsl:for-each>
                     </td>
-            </tr>
+                </tr>
+                </xsl:if>
             </xsl:for-each>
 
         </table>
