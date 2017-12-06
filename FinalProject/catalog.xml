@@ -54,10 +54,7 @@
               Other
             </material>
             <season>
-              Spring
-            </season>
-            <season>
-              Summer
+              Spring, Summer
             </season>
         </materials>
     </item>
@@ -87,7 +84,7 @@
             Other
             </material>
             <season>
-              Srping,Summer,Fall
+              Spring,Summer,Fall
             </season>
         </materials>
     </item>
