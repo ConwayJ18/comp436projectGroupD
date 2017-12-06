@@ -10,7 +10,7 @@
         </colors>
         <sizes>XS-XXL</sizes>
         <brand>Burton</brand>
-        <price>14.99</price>
+        <price unit="usd">14.99</price>
         <sku>53-5964</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -31,7 +31,7 @@
         </colors>
         <sizes>26-48</sizes>
         <brand>American Eagle</brand>
-        <price>29.99</price>
+        <price unit="usd">29.99</price>
         <sku>4133-6374-685</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -53,7 +53,7 @@
         </colors>
         <sizes>M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12</sizes>
         <brand>Converse</brand>
-        <price>44.97</price>
+        <price unit="usd">44.97</price>
         <sku>1X841-077</sku>
         <gender>Unisex</gender>
         <pattern>Solid</pattern>
@@ -75,7 +75,7 @@
         </colors>
         <sizes>One Size</sizes>
         <brand>Pair of Thieves</brand>
-        <price>10.00</price>
+        <price unit="usd">10.00</price>
         <sku>Afterparty</sku>
         <gender>Men</gender>
         <pattern>Stripe</pattern>
@@ -96,7 +96,7 @@
         </colors>
         <sizes>XS-XXL</sizes>
         <brand>American Eagle</brand>
-        <price>29.96</price>
+        <price unit="usd">29.96</price>
         <sku>0153-9873-100</sku>
         <gender>Men</gender>
         <pattern>Plaid</pattern>
@@ -117,7 +117,7 @@
         <sizes>
 			       XS-XL</sizes>
         <brand>Banana Republic</brand>
-        <price>59.00</price>
+        <price unit="usd">59.00</price>
         <sku>#797639</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -138,7 +138,7 @@
         </colors>
         <sizes>0-16</sizes>
         <brand>Banana Republic</brand>
-        <price>117.99</price>
+        <price unit="usd">117.99</price>
         <sku>#874213</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -162,7 +162,7 @@
         <sizes>
 			0-12</sizes>
         <brand>Ralph Lauren</brand>
-        <price>798.00</price>
+        <price unit="usd">798.00</price>
         <sku>137173826</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -185,7 +185,7 @@
         <sizes>
 			2-16</sizes>
         <brand>Ralph Lauren</brand>
-        <price>135.00</price>
+        <price unit="usd">135.00</price>
         <sku>136116906</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -207,7 +207,7 @@
         </colors>
         <sizes>0-16</sizes>
         <brand>J.crew</brand>
-        <price>128.00</price>
+        <price unit="usd">128.00</price>
         <sku>G8589</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -230,7 +230,7 @@
         </colors>
         <sizes>5-11</sizes>
         <brand>Everlane</brand>
-        <price>145</price>
+        <price unit="usd">145</price>
         <sku>53-5964</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -251,7 +251,7 @@
             </colors>
             <sizes>7.5,9.5</sizes>
             <brand>Nike</brand>
-            <price>190</price>
+            <price unit="usd">190</price>
             <sku>849557-006</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -271,7 +271,7 @@
         </colors>
         <sizes>S, M, L</sizes>
         <brand>Riot Society</brand>
-        <price>34</price>
+        <price unit="usd">34</price>
         <sku>44395119</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -292,7 +292,7 @@
         </colors>
         <sizes>4-8</sizes>
         <brand>Mango</brand>
-        <price>49.99</price>
+        <price unit="usd">49.99</price>
         <sku>11047696</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -313,7 +313,7 @@
         </colors>
         <sizes>S, M</sizes>
         <brand>Zara</brand>
-        <price>39.90</price>
+        <price unit="usd">39.90</price>
         <sku>0049/205</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -335,7 +335,7 @@
         </colors>
         <sizes>XS-XXL</sizes>
         <brand>Banana Republic</brand>
-        <price>148.00</price>
+        <price unit="usd">148.00</price>
         <sku>796212</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -357,7 +357,7 @@
         </colors>
         <sizes>7.0-10.5</sizes>
         <brand>Timberland</brand>
-        <price>120.00</price>
+        <price unit="usd">120.00</price>
         <sku>A146Q001</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -379,7 +379,7 @@
         </colors>
         <sizes>6-11</sizes>
         <brand>Zara</brand>
-        <price>69.90</price>
+        <price unit="usd">69.90</price>
         <sku>5602/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -401,7 +401,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>79.90</price>
+        <price unit="usd">79.90</price>
         <sku>1608/419</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -423,7 +423,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -445,7 +445,7 @@
         </colors>
         <sizes>M</sizes>
         <brand>Zara</brand>
-        <price>9.90</price>
+        <price unit="usd">9.90</price>
         <sku>6209/305</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
@@ -466,7 +466,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>89.90</price>
+        <price unit="usd">89.90</price>
         <sku>5475/400</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -488,7 +488,7 @@
         </colors>
         <sizes>6-14</sizes>
         <brand>Zara</brand>
-        <price>29.99</price>
+        <price unit="usd">29.99</price>
         <sku>5462/202</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -510,7 +510,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>79.90</price>
+        <price unit="usd">79.90</price>
         <sku>3918/401</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -531,7 +531,7 @@
         </colors>
         <sizes>6-14</sizes>
         <brand>Zara</brand>
-        <price>49.99</price>
+        <price unit="usd">49.99</price>
         <sku>5303/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -552,7 +552,7 @@
         </colors>
         <sizes>M-L</sizes>
         <brand>Zara</brand>
-        <price>109.00</price>
+        <price unit="usd">109.00</price>
         <sku>0840/363</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -573,7 +573,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -594,7 +594,7 @@
         </colors>
         <sizes>6-14</sizes>
         <brand>Zara</brand>
-        <price>35.90</price>
+        <price unit="usd">35.90</price>
         <sku>5458/202</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
@@ -615,7 +615,7 @@
         </colors>
         <sizes>M</sizes>
         <brand>Zara</brand>
-        <price>9.90</price>
+        <price unit="usd">9.90</price>
         <sku>3334/347</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
@@ -636,7 +636,7 @@
         </colors>
         <sizes>M</sizes>
         <brand>Zara</brand>
-        <price>35.90</price>
+        <price unit="usd">35.90</price>
         <sku>5665/307</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -656,7 +656,7 @@
         </colors>
         <sizes>S-XL</sizes>
         <brand>Zara</brand>
-        <price>149.00</price>
+        <price unit="usd">149.00</price>
         <sku>6861/379</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -678,7 +678,7 @@
         </colors>
         <sizes>6-11</sizes>
         <brand>Zara</brand>
-        <price>39.99</price>
+        <price unit="usd">39.99</price>
         <sku>5049/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -700,7 +700,7 @@
         </colors>
         <sizes>S-XL</sizes>
         <brand>Zara</brand>
-        <price>149.00</price>
+        <price unit="usd">149.00</price>
         <sku>8178/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -721,7 +721,7 @@
         </colors>
         <sizes>M</sizes>
         <brand>Zara</brand>
-        <price>17.99</price>
+        <price unit="usd">17.99</price>
         <sku>0693/393</sku>
         <gender>Men</gender>
         <pattern>Stripe</pattern>
@@ -742,7 +742,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Zara</brand>
-        <price>99.90</price>
+        <price unit="usd">99.90</price>
         <sku>5055/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -764,7 +764,7 @@
         </colors>
         <sizes>S-XXL</sizes>
         <brand>Zara</brand>
-        <price>109.00</price>
+        <price unit="usd">109.00</price>
         <sku>4341/388</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -785,7 +785,7 @@
         </colors>
         <sizes>S-XL</sizes>
         <brand>Zara</brand>
-        <price>39.90</price>
+        <price unit="usd">39.90</price>
         <sku>2295/301</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -806,7 +806,7 @@
         </colors>
         <sizes>M</sizes>
         <brand>Zara</brand>
-        <price>19.90</price>
+        <price unit="usd">19.90</price>
         <sku>9065/347</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -827,7 +827,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Zara</brand>
-        <price>69.90</price>
+        <price unit="usd">69.90</price>
         <sku>5447/202</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -850,7 +850,7 @@
         </colors>
         <sizes>S-XL</sizes>
         <brand>Zara</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>6103/303</sku>
         <gender>Men</gender>
         <pattern>Plaid</pattern>
@@ -871,7 +871,7 @@
         </colors>
         <sizes>Onesize</sizes>
         <brand>Kate Spade New York</brand>
-        <price>168.00</price>
+        <price unit="usd">168.00</price>
         <sku>wbrue810</sku>
         <gender>Women</gender>
         <pattern>Other</pattern>
@@ -892,7 +892,7 @@
         </colors>
         <sizes>XS-XL</sizes>
         <brand>Burberry</brand>
-        <price>450.00</price>
+        <price unit="usd">450.00</price>
         <sku>40678361</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -914,7 +914,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>Tory Burch</brand>
-        <price>428.00</price>
+        <price unit="usd">428.00</price>
         <sku>2670650</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -934,7 +934,7 @@
         </colors>
         <sizes>24-32</sizes>
         <brand>AG</brand>
-        <price>168.00</price>
+        <price unit="usd">168.00</price>
         <sku>5495143</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -955,7 +955,7 @@
         </colors>
         <sizes>XS-XL</sizes>
         <brand>ASTR THE LABEL</brand>
-        <price>89.00</price>
+        <price unit="usd">89.00</price>
         <sku>5495143</sku>
         <gender>Women</gender>
         <pattern>Other</pattern>
@@ -975,7 +975,7 @@
         </colors>
         <sizes>6-13</sizes>
         <brand>VINCE CAMUTO</brand>
-        <price>99.95</price>
+        <price unit="usd">99.95</price>
         <sku>5278487</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -997,7 +997,7 @@
         </colors>
         <sizes>XXS-S</sizes>
         <brand>Petite Studio</brand>
-        <price>219.00</price>
+        <price unit="usd">219.00</price>
         <sku>5278487</sku>
         <gender>Women</gender>
         <pattern>Plaid</pattern>
@@ -1019,7 +1019,7 @@
         </colors>
         <sizes>XXS-S</sizes>
         <brand>Petite Studio</brand>
-        <price>119.00</price>
+        <price unit="usd">119.00</price>
         <sku>527848</sku>
         <gender>Women</gender>
         <pattern>Plaid</pattern>
@@ -1042,7 +1042,7 @@
         </colors>
         <sizes>XS-XL</sizes>
         <brand>Urban Outfitters</brand>
-        <price>59.00</price>
+        <price unit="usd">59.00</price>
         <sku>44185619</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1063,7 +1063,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>Acne Studios</brand>
-        <price>150.00</price>
+        <price unit="usd">150.00</price>
         <sku>00000</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1084,7 +1084,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>Tumi</brand>
-        <price>995.00</price>
+        <price unit="usd">995.00</price>
         <sku>933255D</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -1104,7 +1104,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>Tumi</brand>
-        <price>795.00</price>
+        <price unit="usd">795.00</price>
         <sku>101656T564</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1124,7 +1124,7 @@
         </colors>
         <sizes>6-10</sizes>
         <brand>UGG</brand>
-        <price>179.95</price>
+        <price unit="usd">179.95</price>
         <sku>5228229</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1146,7 +1146,7 @@
         </colors>
         <sizes>XS-XL</sizes>
         <brand>Tory Burch</brand>
-        <price>348.00</price>
+        <price unit="usd">348.00</price>
         <sku>5495872</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1168,7 +1168,7 @@
         </colors>
         <sizes>XS-L</sizes>
         <brand>LEVI's</brand>
-        <price>128.00</price>
+        <price unit="usd">128.00</price>
         <sku>5433105</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1192,7 +1192,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>CHLOÉ</brand>
-        <price>396.00</price>
+        <price unit="usd">396.00</price>
         <sku>717429</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1213,7 +1213,7 @@
         </colors>
         <sizes>One size</sizes>
         <brand>Gucci</brand>
-        <price>320.00</price>
+        <price unit="usd">320.00</price>
         <sku>5393550</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -1234,7 +1234,7 @@
         </colors>
         <sizes>XS-XL</sizes>
         <brand>T BY ALEXANDER WANG</brand>
-        <price>175.00</price>
+        <price unit="usd">175.00</price>
         <sku>5492380</sku>
         <gender>Women</gender>
         <pattern>Stripe</pattern>
@@ -1256,7 +1256,7 @@
         </colors>
         <sizes>6-9</sizes>
         <brand>David Yurman</brand>
-        <price>295.00</price>
+        <price unit="usd">295.00</price>
         <sku>5492380</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1279,7 +1279,7 @@
         </colors>
         <sizes>5-11</sizes>
         <brand>Adidas</brand>
-        <price>84.95</price>
+        <price unit="usd">84.95</price>
         <sku>5385947</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -1301,7 +1301,7 @@
             </colors>
             <sizes>small - XXXLarge</sizes>
             <brand>MICHAEL KORS</brand>
-            <price>99.90</price>
+            <price unit="usd">99.90</price>
             <sku>#807813</sku>
             <gender>Men</gender>
             <pattern>Solid</pattern>
@@ -1325,7 +1325,7 @@
             </colors>
             <sizes>small - XXXLarge</sizes>
             <brand>MICHAEL KORS</brand>
-            <price>99.92</price>
+            <price unit="usd">99.92</price>
             <sku>#5435460</sku>
             <gender>Men</gender>
             <pattern>Solid</pattern>
@@ -1348,7 +1348,7 @@
             </colors>
             <sizes>38S, 38R, 42R, 44R, 44L, 46R</sizes>
             <brand>HART SCHAFFNER MARX</brand>
-            <price>356.98</price>
+            <price unit="usd">356.98</price>
             <sku>#5042052</sku>
             <gender>Men</gender>
             <pattern>Solid</pattern>
@@ -1371,7 +1371,7 @@
             </colors>
             <sizes>45mm</sizes>
             <brand>MICHAEL KORS</brand>
-            <price>206.25</price>
+            <price unit="usd">206.25</price>
             <sku>#594954</sku>
             <gender>Men</gender>
             <pattern>Solid</pattern>
@@ -1393,7 +1393,7 @@
             </colors>
             <sizes>58mm</sizes>
             <brand>GUCCI</brand>
-            <price>345.00</price>
+            <price unit="usd">345.00</price>
             <sku>#5453355</sku>
             <gender>Men</gender>
             <pattern>Other</pattern>
@@ -1414,7 +1414,7 @@
             </colors>
             <sizes>0-10</sizes>
             <brand>LEWIT</brand>
-            <price>299.00</price>
+            <price unit="usd">299.00</price>
             <sku>#5407196</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1434,7 +1434,7 @@
             </colors>
             <sizes>0-10</sizes>
             <brand>MISSGUIDED</brand>
-            <price>62.00</price>
+            <price unit="usd">62.00</price>
             <sku>#5407196</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1456,7 +1456,7 @@
             </colors>
             <sizes>XXsmall-XLarge</sizes>
             <brand>BP.</brand>
-            <price>39.00</price>
+            <price unit="usd">39.00</price>
             <sku>#5317033</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1481,7 +1481,7 @@
             </colors>
             <sizes>XXsmall-XLarge</sizes>
             <brand>J. CREW</brand>
-            <price>138.00</price>
+            <price unit="usd">138.00</price>
             <sku>#5524727</sku>
             <gender>Women</gender>
             <pattern>Plaid</pattern>
@@ -1504,7 +1504,7 @@
             </colors>
             <sizes>Xsmall-XLarge</sizes>
             <brand>TAHARI</brand>
-            <price>229.90</price>
+            <price unit="usd">229.90</price>
             <sku>#5317033</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1528,7 +1528,7 @@
             </colors>
             <sizes>5-7.5</sizes>
             <brand>HALOGEN</brand>
-            <price>119.90</price>
+            <price unit="usd">119.90</price>
             <sku>#5351742</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1552,7 +1552,7 @@
             </colors>
             <sizes>4-6.5</sizes>
             <brand>VINCE CAMUTO</brand>
-            <price>119.90</price>
+            <price unit="usd">119.90</price>
             <sku>#5365828</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1576,7 +1576,7 @@
             </colors>
             <sizes>one size</sizes>
             <brand>REBECCA MINKOFF</brand>
-            <price>145.00</price>
+            <price unit="usd">145.00</price>
             <sku>#5284692</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1599,7 +1599,7 @@
             </colors>
             <sizes>one size</sizes>
             <brand>VINCE CAMUTO</brand>
-            <price>158.00</price>
+            <price unit="usd">158.00</price>
             <sku>#5293147</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1622,7 +1622,7 @@
             </colors>
             <sizes>one size</sizes>
             <brand>MARC JACOBS</brand>
-            <price>295.00</price>
+            <price unit="usd">295.00</price>
             <sku>#5332073</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1644,7 +1644,7 @@
             </colors>
             <sizes>M-X</sizes>
             <brand>CHELSEA28</brand>
-            <price>129.00</price>
+            <price unit="usd">129.00</price>
             <sku>#5317033</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1665,7 +1665,7 @@
             </colors>
             <sizes>XSmall-XLarge</sizes>
             <brand>CHARLES HENRY</brand>
-            <price>52.80</price>
+            <price unit="usd">52.80</price>
             <sku>#5200087</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1689,7 +1689,7 @@
             </colors>
             <sizes>8-9.5</sizes>
             <brand>JIMMY CHOO</brand>
-            <price>404.98</price>
+            <price unit="usd">404.98</price>
             <sku>#5118088</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1710,7 +1710,7 @@
             </colors>
             <sizes>one size</sizes>
             <brand>BURBERRY</brand>
-            <price>435</price>
+            <price unit="usd">435</price>
             <sku>#192929</sku>
             <gender>Women</gender>
             <pattern>Plaid</pattern>
@@ -1730,7 +1730,7 @@
             </colors>
             <sizes>one size</sizes>
             <brand>THE NORTH FACE</brand>
-            <price>40.00</price>
+            <price unit="usd">40.00</price>
             <sku>#295434</sku>
             <gender>Women</gender>
             <pattern>Solid</pattern>
@@ -1751,7 +1751,7 @@
             </colors>
             <sizes>Medium</sizes>
             <brand>Banana Republic</brand>
-            <price>109.00</price>
+            <price unit="usd">109.00</price>
             <sku>8349/400</sku>
             <gender>Men</gender>
             <pattern>Other</pattern>
@@ -1773,7 +1773,7 @@
         </colors>
         <sizes>Large</sizes>
         <brand>Timberland</brand>
-        <price>39.99</price>
+        <price unit="usd">39.99</price>
         <sku>6771/305</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
@@ -1796,7 +1796,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>29.99</price>
+        <price unit="usd">29.99</price>
         <sku>6247/329</sku>
         <gender>Men</gender>
         <pattern>Stripe</pattern>
@@ -1817,7 +1817,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Timberland</brand>
-        <price>119.99</price>
+        <price unit="usd">119.99</price>
         <sku>5605/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -1839,7 +1839,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>19.99</price>
+        <price unit="usd">19.99</price>
         <sku>5605/306</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -1861,7 +1861,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
-        <price>39.99</price>
+        <price unit="usd">39.99</price>
         <sku>6605/316</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
@@ -1883,7 +1883,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>29.90</price>
+        <price unit="usd">29.90</price>
         <sku>3605/357</sku>
         <gender>Men</gender>
         <pattern>Plaid</pattern>
@@ -1905,7 +1905,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>9.90</price>
+        <price unit="usd">9.90</price>
         <sku>3335/347</sku>
         <gender>Men</gender>
         <pattern>Plaid</pattern>
@@ -1927,7 +1927,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
-        <price>29.90</price>
+        <price unit="usd">29.90</price>
         <sku>6634/327</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -1949,7 +1949,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>89.90</price>
+        <price unit="usd">89.90</price>
         <sku>3634/450</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -1971,7 +1971,7 @@
         </colors>
         <sizes>Small</sizes>
         <brand>Banana Republic</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>6454/644</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -1993,7 +1993,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Timberland</brand>
-        <price>49.99</price>
+        <price unit="usd">49.99</price>
         <sku>5475/202</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -2015,7 +2015,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Zara</brand>
-        <price>96.99</price>
+        <price unit="usd">96.99</price>
         <sku>5019/202</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -2037,7 +2037,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>6554/744</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -2059,7 +2059,7 @@
         </colors>
         <sizes>Small</sizes>
         <brand>Zara</brand>
-        <price>19.99</price>
+        <price unit="usd">19.99</price>
         <sku>5605/306</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -2081,7 +2081,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Timberland</brand>
-        <price>35.99</price>
+        <price unit="usd">35.99</price>
         <sku>5905/313</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -2103,7 +2103,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>29.99</price>
+        <price unit="usd">29.99</price>
         <sku>7661/37</sku>
         <gender>Men</gender>
         <pattern>Other</pattern>
@@ -2125,7 +2125,7 @@
         </colors>
         <sizes>Large</sizes>
         <brand>Banana Republic</brand>
-        <price>49.90</price>
+        <price unit="usd">49.90</price>
         <sku>0954/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -2147,7 +2147,7 @@
         </colors>
         <sizes>Medium</sizes>
         <brand>Zara</brand>
-        <price>9.90</price>
+        <price unit="usd">9.90</price>
         <sku>3334/345</sku>
         <gender>Men</gender>
         <pattern>Plaid</pattern>
@@ -2168,7 +2168,7 @@
         </colors>
         <sizes>6-12</sizes>
         <brand>Zara</brand>
-        <price>99.99</price>
+        <price unit="usd">99.99</price>
         <sku>2019/302</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
@@ -2191,7 +2191,7 @@
         </colors>
         <sizes></sizes>
         <brand></brand>
-        <price></price>
+        <price unit="usd"></price>
         <sku></sku>
         <gender></gender>
         <pattern></pattern>
