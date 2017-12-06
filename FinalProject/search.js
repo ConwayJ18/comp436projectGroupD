@@ -27,11 +27,10 @@ console.log("run run run");
     $(window.parent.main.document).find('div').html("");  
     //get the main frame of the frameset 
     var main = $(window.parent.main.document).find('div');   
-
-  
     var searchword = $(".searchword").val();
 
     console.log("searchword is: ", searchword);
+    
     processor.setParameter(null, "message", searchword);
     var fragment = processor.transformToFragment(xmldom, document);     
     
