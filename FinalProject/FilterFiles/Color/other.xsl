@@ -25,7 +25,7 @@
                 <th>Season</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item[colors/color='Silver']">
+            <xsl:for-each select="catalog/item[colors/color='Other']">
                 <tr>
 
                     <td>

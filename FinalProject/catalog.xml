@@ -25,9 +25,7 @@
                 Cotton
             </material>
         </materials>
-        <season>
-        All-Season
-        </season>
+        <season>  All-Season</season>
     </item>
 
     <item id="002" category="Clothing">
@@ -54,9 +52,7 @@
               Other
             </material>
         </materials>
-        <season>
-          Spring, Summer
-        </season>
+        <season>Spring, Summer</season>
     </item>
 
     <item id="003" category="Shoes">
@@ -84,9 +80,7 @@
             Other
             </material>
         </materials>
-        <season>
-          Spring, Summer ,Fall
-        </season>
+        <season>Spring, Summer ,Fall</season>
     </item>
 	<item id="004" category="Clothing">
         <name>Afterparty Men's Crew Sock</name>
@@ -110,9 +104,7 @@
               Cotton
             </material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 	<item id="005" category="Clothing">
         <name>AEO Plaid Oxford Shirt</name>
@@ -136,9 +128,7 @@
               Cotton
             </material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 	<item id="006" category= "Clothing">
@@ -162,9 +152,7 @@
 			Polyester
             </material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 	 <item id="007" category="Clothing">
@@ -195,9 +183,7 @@
 			Other
             </material>
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
 
 	<item id="008" category="Clothing">
@@ -225,9 +211,7 @@
 			Leather
             </material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
 	<item id="009" category="Clothing">
@@ -256,9 +240,7 @@
 			Other
             </material>
         </materials>
-        <season>
-          Spring, Summer
-        </season>
+        <season>Spring, Summer</season>
     </item>
 
     <item id="010" category="Clothing">
@@ -289,9 +271,7 @@
 			Other
             </material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
 
@@ -316,9 +296,7 @@
                 Leather
             </material>
         </materials>
-        <season>
-          Spring, Summer, Fall
-        </season>
+        <season>Spring, Summer, Fall</season>
         </item>
 
      <item id="012" category="Shoes">
@@ -344,9 +322,7 @@
                   Other
                 </material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
         </item>
 
     <item id="013" category="Clothing">
@@ -370,9 +346,7 @@
               Cotton
             </material>
         </materials>
-        <season>
-          Summer
-        </season>
+        <season>Summer</season>
     </item>
 
 
@@ -397,9 +371,7 @@
           Other
         </material>
     </materials>
-    <season>
-      All-Season
-    </season>
+    <season>All-Season</season>
 </item>
 
 
@@ -424,9 +396,7 @@
               Wool
             </material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
 	<item id="0016" category="Clothing">
         <name>Lightweight Bomber</name>
@@ -450,9 +420,7 @@
             <material>Polyester</material>
             <material></material>
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
         <item id="0017" category="Shoes">
         <name>Bradstreet Leather Chukka Boot</name>
@@ -475,9 +443,7 @@
             <material>Leather</material>
             <material></material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
     <item id="018" category="Shoes">
         <name>Black Leather Ankle Boot</name>
@@ -500,9 +466,7 @@
             <material>Leather</material>
             <material></material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
   <item id="019" category="Clothing">
         <name>Pique Puffer Jacket</name>
@@ -525,9 +489,7 @@
             <material>Other</material>
             <material></material>
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
 
     <item id="020" category="Clothing">
@@ -551,9 +513,7 @@
             <material>Cotton</material>
             <material></material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
         <item id="021" category="Clothing">
@@ -577,9 +537,7 @@
             <material>Cotton</material>
             <material></material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
     <item id="022" category="Clothing">
         <name>Puffer Jacket</name>
@@ -601,9 +559,7 @@
             <material>Other</material>
 
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
     <item id="023" category="Shoes">
         <name>Dark Red Fabric Sneakers</name>
@@ -626,9 +582,7 @@
             <material>Polyester </material>
             <material>Other</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="024" category="Clothing">
@@ -651,9 +605,7 @@
         <materials>
             <material>other</material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
     <item id="025" category="Shoes">
         <name>Sock-Style Sneakers</name>
@@ -675,9 +627,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
       <item id="026" category="Clothing">
@@ -700,9 +650,7 @@
         <materials>
             <material>Denim</material>
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
     <item id="027" category="Clothing">
         <name>Melange Shirt With Elbow Patches</name>
@@ -724,9 +672,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="028" category="Shoes">
@@ -749,9 +695,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="029" category="Clothing">
@@ -774,9 +718,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 <item id="030" category="Accessory">
@@ -799,9 +741,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
     <item id="031" category="Clothing">
         <name>Diagonal Blazer</name>
@@ -823,9 +763,7 @@
             <material>Cotton</material>
 
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
 
     <item id="032" category="Shoes">
@@ -849,9 +787,7 @@
             <material>Leather</material>
             <material></material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
     <item id="033" category="Clothing">
         <name>Double Faced Jacket</name>
@@ -873,9 +809,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          Winter
-        </season>
+        <season>Winter</season>
     </item>
 
     <item id="034" category="Accessory">
@@ -898,9 +832,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
 
     <item id="035" category="Shoes">
@@ -924,9 +856,7 @@
             <material>Leather</material>
 
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 <item id="036" category="Clothing" >
@@ -949,9 +879,7 @@
         <materials>
             <material>Other</material>
         </materials>
-        <season>
-          Spring, Fall
-        </season>
+        <season>Spring, Fall</season>
     </item>
 
     <item id="037" category="Clothing" >
@@ -974,9 +902,7 @@
         <materials>
             <material>Polyester</material>
         </materials>
-        <season>
-          Summer
-        </season>
+        <season>Summer</season>
     </item>
 
 <item id="038" category="Accessory">
@@ -999,9 +925,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          Winter
-        </season>
+        <season>Winter</season>
     </item>
 
     <item id="039" category="Shoes">
@@ -1026,9 +950,7 @@
             <material>Leather </material>
             <material>Other</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="040" category="Clothing">
@@ -1051,9 +973,7 @@
         <materials>
             <material>Cotton</material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
     <item id="041" category="Accessory">
@@ -1061,8 +981,8 @@
         <photo><img width="150" height="150" src="https://katespade.insnw.net/KateSpade/WBRUE810_921?$rr_large$"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Gold</color>
-            <color type="secondary">Clear</color>
+            <color type="primary">Other</color>
+            <color type="secondary">Other</color>
         </colors>
         <sizes>
             Onesize
@@ -1077,9 +997,7 @@
             <material>Other </material>
 
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="042" category="Clothing">
@@ -1102,9 +1020,7 @@
             <material>Cotton  </material>
             <material>Polyester</material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
 
@@ -1127,9 +1043,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="044" category="Clothing">
@@ -1152,9 +1066,7 @@
             <material>Cotton </material>
             <material>Other</material>
         </materials>
-        <season>
-          Summer
-        </season>
+        <season>Summer</season>
     </item>
 
     <item id="045" category="Clothing">
@@ -1176,9 +1088,7 @@
         <materials>
             <material>Polyester</material>
         </materials>
-        <season>
-          Summer
-        </season>
+        <season>Summer</season>
     </item>
 
     <item id="046" category="Shoes">
@@ -1201,9 +1111,7 @@
             <material>Leather </material>
             <material>Other</material>
         </materials>
-        <season>
-          Spring, Summer
-        </season>
+        <season>Spring, Summer</season>
     </item>
 
     <item id="047" category="Clothing">
@@ -1227,9 +1135,7 @@
             <material>Polyester </material>
             <material>Wool</material>
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
     <item id="048" category="Clothing">
@@ -1253,9 +1159,7 @@
             <material>Polyester </material>
             <material>Wool</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
 
     </item>
 
@@ -1279,9 +1183,7 @@
         <materials>
             <material>Polyester </material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
 
 
@@ -1304,9 +1206,7 @@
         <materials>
             <material>Wool</material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
 
 
@@ -1329,9 +1229,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="052" category="Bag">
@@ -1353,9 +1251,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="053" category="Shoes">
@@ -1379,9 +1275,7 @@
             <material>Wool </material>
             <material>Other</material>
         </materials>
-        <season>
-          Winter
-        </season>
+        <season>Winter</season>
     </item>
 
     <item id="054" category="Clothing">
@@ -1404,9 +1298,7 @@
             <material>Wool </material>
             <material>Other </material>
         </materials>
-        <season>
-          Fall, Winter
-        </season>
+        <season>Fall, Winter</season>
     </item>
 
 
@@ -1431,9 +1323,7 @@
             <material>Other </material>
 
         </materials>
-        <season>
-          Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
 
@@ -1443,7 +1333,7 @@
         <type>Accessory</type>
         <colors>
             <color type="primary">Brown</color>
-            <color type="secondary">Gold</color>
+            <color type="secondary">Other</color>
         </colors>
         <sizes>
             One size
@@ -1457,9 +1347,7 @@
         <materials>
             <material>Other</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 
@@ -1482,9 +1370,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
     <item id="058" category="Clothing">
@@ -1507,9 +1393,7 @@
         <materials>
             <material>Other</material>
         </materials>
-        <season>
-        Spring, Fall, Winter
-        </season>
+        <season>Spring, Fall, Winter</season>
     </item>
 
 
@@ -1518,8 +1402,8 @@
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Silver</color>
-            <color type="secondary">Gold</color>
+            <color type="primary">Other</color>
+            <color type="secondary">Other</color>
         </colors>
         <sizes>
             6-9
@@ -1534,9 +1418,7 @@
             <material>Other</material>
 
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 
@@ -1546,7 +1428,7 @@
         <type>Shoes</type>
         <colors>
             <color type="primary">White</color>
-            <color type="secondary">Silver</color>
+            <color type="secondary">Other</color>
         </colors>
         <sizes>
             5-11
@@ -1560,9 +1442,7 @@
         <materials>
             <material>Other</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
      </item>
 
     <item id="061" category="Clothing">
@@ -1588,9 +1468,7 @@
                 <material>Polyester </material>
                 <material>Other</material>
             </materials>
-            <season>
-              Spring, Fall, Winter
-            </season>
+            <season>Spring, Fall, Winter</season>
     </item>
 
     <item id="062" category="Clothing">
@@ -1615,9 +1493,7 @@
                 <material>Other</material>
 
             </materials>
-            <season>
-              Winter
-            </season>
+            <season>Winter</season>
     </item>
 
     <item id="063" category="Clothing">
@@ -1642,9 +1518,7 @@
                 <material>Wool </material>
                 <material>Other</material>
             </materials>
-            <season>
-              Fall, Winter
-            </season>
+            <season>Fall, Winter</season>
     </item>
 
     <item id="064" category="Accessory">
@@ -1653,7 +1527,7 @@
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_8193573.jpg"/></photo>
             <type>Accessory</type>
             <colors>
-                <color type="primary">Gold</color>
+                <color type="primary">Other</color>
                 <color type="primary">Black</color>
             </colors>
             <sizes>
@@ -1669,9 +1543,7 @@
                 <material>Other</material>
 
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="065" category="Accessory">
@@ -1694,9 +1566,7 @@
             <materials>
                 <material>Other</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="066" category="Clothing">
@@ -1719,9 +1589,7 @@
             <materials>
                 <material>Other</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="067" category="Clothing">
@@ -1743,9 +1611,7 @@
             <materials>
                 <material>Polyester</material>
             </materials>
-            <season>
-              Spring, Fall
-            </season>
+            <season>Spring, Fall</season>
     </item>
 
     <item id="068" category="Clothing">
@@ -1772,9 +1638,7 @@
                 <material>Wool </material>
                 <material>Other</material>
             </materials>
-            <season>
-              Sping, Fall, Winter
-            </season>
+            <season>Sping, Fall, Winter</season>
     </item>
 
     <item id="069" category="Clothing">
@@ -1798,9 +1662,7 @@
                 <material>Wool </material>
                 <material>Polyester</material>
             </materials>
-            <season>
-              Spring, Fall, Winter
-            </season>
+            <season>Spring, Fall, Winter</season>
     </item>
 
     <item id="070" category="Clothing">
@@ -1825,9 +1687,7 @@
                 <material>Cotton </material>
                 <material>Polyester</material>
             </materials>
-            <season>
-              Spring, Fall, Winter
-            </season>
+            <season>Spring, Fall, Winter</season>
     </item>
 
     <item id="071" category="Shoes">
@@ -1853,9 +1713,7 @@
                 <material>Leather</material>
                 <material>Other</material>
             </materials>
-            <season>
-              Fall, Winter
-            </season>
+            <season>Fall, Winter</season>
     </item>
 
     <item id="072" category="Shoes">
@@ -1881,9 +1739,7 @@
                 <material>Leather </material>
                 <material>Other</material>
             </materials>
-            <season>
-              Spring, Fall
-            </season>
+            <season>Spring, Fall</season>
     </item>
 
     <item id="073" category="Bag">
@@ -1908,9 +1764,7 @@
             <materials>
                 <material>Other</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="074" category="Bag">
@@ -1935,9 +1789,7 @@
             <materials>
                 <material>Leather</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="075" category="Bag">
@@ -1962,9 +1814,7 @@
             <materials>
                 <material>Leather</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="076" category="Clothing">
@@ -1988,9 +1838,7 @@
             <materials>
                 <material>Polyester</material>
             </materials>
-            <season>
-              Spring, Summer
-            </season>
+            <season>Spring, Summer</season>
     </item>
 
     <item id="077" category="Clothing">
@@ -2014,9 +1862,7 @@
                 <material>Polyester </material>
                 <material>Other</material>
             </materials>
-            <season>
-              Spring, Summer
-            </season>
+            <season>Spring, Summer</season>
     </item>
 
     <item id="078" category="Shoes">
@@ -2041,9 +1887,7 @@
             <materials>
                 <material>Leather</material>
             </materials>
-            <season>
-              All-Season
-            </season>
+            <season>All-Season</season>
     </item>
 
     <item id="079" category="Accessory">
@@ -2066,9 +1910,7 @@
             <materials>
                 <material>Other</material>
             </materials>
-            <season>
-              Fall, Winter
-            </season>
+            <season>Fall, Winter</season>
     </item>
 
     <item id="080" category="Accessory">
@@ -2090,9 +1932,7 @@
             <materials>
                 <material>Other</material>
             </materials>
-            <season>
-              Winter
-            </season>
+            <season>Winter</season>
     </item>
 
     <item id="081" category="Clothing">
@@ -2211,9 +2051,7 @@
         <materials>
             <material>Leather</material>
         </materials>
-        <season>
-          All-Season
-        </season>
+        <season>All-Season</season>
     </item>
 
 <item id="086" category="Accessory">
@@ -2597,5 +2435,6 @@
             <material></material>
             <material></material>
         </materials>
+        <season></season>
     </item>
 -->

@@ -5,7 +5,7 @@
 <html>
     <head></head>
     <body>
-      Products in grid: <xsl:value-of select="count(catalog/item[material='Polyester'])"/>
+      Products in grid: <xsl:value-of select="count(catalog/item[materials/material='Polyester'])"/>
         <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
@@ -27,8 +27,12 @@
             </tr>
             <xsl:for-each select="catalog/item[materials/material='Polyester']">
         <tr>
-
-                    <td><xsl:copy-of select="photo/node()"/></td>
+          <a>
+              <xsl:attribute name="href">
+                  <xsl:value-of select="photo/img/@src"/>
+              </xsl:attribute>
+              <xsl:copy-of select="photo/node()"/>
+              </a>
 					<td align="Middle"><xsl:value-of select="name"/></td>
           <td align="Middle"><xsl:value-of select="type"/></td>
 
