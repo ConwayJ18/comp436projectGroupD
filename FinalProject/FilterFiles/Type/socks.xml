@@ -145,8 +145,8 @@
         <occasion>Formal</occasion>
         <materials>
             <material>Wool</material>
-            <material>			Polyester</material>
-			</material>			Other</material>
+            <material>Polyester</material>
+			      <material>Other</material>
         </materials>
         <season>Spring, Fall</season>
      </item>
@@ -168,8 +168,8 @@
         <pattern>Solid</pattern>
         <occasion>Formal, Casual</occasion>
         <materials>
-            <material>			Wool</material>
-            <material>			Leather</material>
+            <material>Wool</material>
+            <material>Leather</material>
         </materials>
         <season>Spring, Fall, Winter</season>
      </item>
@@ -191,7 +191,8 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>			Polyester</material></material>			Other</material>
+            <material>Polyester</material>
+            <material>Other</material>
         </materials>
         <season>Spring, Summer</season>
      </item>
@@ -212,9 +213,9 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>			Wool</material>
-            <material>			Polyester</material>
-			</material>			Other</material>
+            <material>Wool</material>
+            <material>Polyester</material>
+			      <material>Other</material>
         </materials>
         <season>Spring, Fall, Winter</season>
      </item>
