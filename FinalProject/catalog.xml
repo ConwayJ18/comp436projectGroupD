@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog.xsd">
-    <item id="001" category="Clothing">
+<catalog>
+     <item id="001" category="Clothing">
         <name>Easy-Iron Slim-Fit Shirt</name>
         <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
         <type>Shirt</type>
@@ -1095,15 +1095,10 @@
         <season>All-Season</season>
      </item>
 
-<<<<<<< HEAD
      <item id="052" category="Bag">
         <name>Tumi Backpack</name>
-=======
-    <item id="052" category="Bag">
-        <name>Pheobe Backpack</name>
->>>>>>> 48006d560b05384c6c43a03c1cf40f30aa8a572f
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
-        <type>Bag</type>
+        <type>Backpack</type>
         <colors>
             <color type="primary">Brown</color>
         </colors>
