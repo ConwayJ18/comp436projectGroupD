@@ -84,7 +84,7 @@
             Other
             </material>
             <season>
-              Spring,Summer,Fall
+              Spring, Summer ,Fall
             </season>
         </materials>
     </item>
@@ -219,7 +219,7 @@
         <occasion>Formal, Casual</occasion>
         <materials>
             <material>
-			Wool,
+			Wool
             </material>
             <material>
 			Leather
@@ -280,10 +280,10 @@
         <occasion>Formal</occasion>
         <materials>
             <material>
-			Wool,
+			Wool
             </material>
             <material>
-			Polyester,
+			Polyester
             </material>
 			<material>
 			Other
@@ -546,9 +546,10 @@
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
-        <occasion>Casual</occasion>
+        <occasion></occasion>
         <materials>
             <material>Cotton</material>
+            <material></material>
         </materials>
         <season>
           Spring, Fall, Winter
@@ -571,7 +572,7 @@
         <sku>6209/305</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
-        <occasion>Casual</occasion>
+        <occasion></occasion>
         <materials>
             <material>Cotton</material>
             <material></material>
@@ -719,7 +720,7 @@
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
-        <occasion>Casual</occasion>
+        <occasion>Casual, Formal</occasion>
         <materials>
             <material>Cotton</material>
         </materials>
@@ -1847,11 +1848,11 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Leather,</material>
+                <material>Leather</material>
                 <material>Other</material>
             </materials>
             <season>
-              Fal, Winter
+              Fall, Winter
             </season>
     </item>
 

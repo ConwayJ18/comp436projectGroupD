@@ -5,7 +5,7 @@
 <html>
     <head></head>
     <body>
-      Products in grid: <xsl:value-of select="count(catalog/item[season='Winter'])"/>
+      Products in grid: <xsl:value-of select="count(catalog/item[season='Winter'] | catalog/item[season='Fall, Winter'] | catalog/item[season='Spring, Fall, Winter'])"/>
         <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
@@ -24,7 +24,7 @@
                 <th>Occasion</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item[season='Winter']">
+            <xsl:for-each select="catalog/item[season='Winter'] | catalog/item[season='Fall, Winter'] | catalog/item[season='Spring, Fall, Winter']">
         <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>
