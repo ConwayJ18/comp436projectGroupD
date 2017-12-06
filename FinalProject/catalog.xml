@@ -1233,9 +1233,9 @@
     </item>
 
     <item id="052" category="Bag">
-        <name>Bag</name>
+        <name>Pheobe Backpack</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
-        <type>Backpack</type>
+        <type>Bag</type>
         <colors>
             <color type="primary">Saddle</color>
         </colors>
