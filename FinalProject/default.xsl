@@ -58,8 +58,11 @@
 					    <xsl:value-of select="."/>
 					    </xsl:for-each>
                     </td>
+
+                    <td align="Middle"><xsl:value-of select="season"/></td>
             </tr>
             </xsl:for-each>
+
 
         </table>
     </body>
