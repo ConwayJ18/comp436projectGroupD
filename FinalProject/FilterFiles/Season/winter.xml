@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="winter.xsl"?>
 <catalog>
-    <item id="001" category="Clothing">
+     <item id="001" category="Clothing">
         <name>Easy-Iron Slim-Fit Shirt</name>
         <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
         </colors>
-        <sizes>
-             XS-XXL
-        </sizes>
+        <sizes>XS-XXL</sizes>
         <brand>Burton</brand>
         <price>14.99</price>
         <sku>53-5964</sku>
@@ -18,26 +16,20 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>
-                Polyester
-            </material>
-            <material>
-                Cotton
-            </material>
+            <material>Polyester</material>
+            <material>Cotton</material>
         </materials>
-        <season>  All-Season</season>
-    </item>
+        <season>All-Season</season>
+     </item>
 
-    <item id="002" category="Clothing">
+     <item id="002" category="Clothing">
         <name>AEO Extreme Flex Classic Flat Front Short</name>
         <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/4133_6374_685_of?&#36;PDP_78_Main&#36;"/></photo>
         <type>Short</type>
         <colors>
             <color type="primary">Red</color>
         </colors>
-        <sizes>
-             26-48
-        </sizes>
+        <sizes>26-48</sizes>
         <brand>American Eagle</brand>
         <price>29.99</price>
         <sku>4133-6374-685</sku>
@@ -45,17 +37,13 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-              Cotton
-            </material>
-            <material>
-              Other
-            </material>
+            <material>Cotton</material>
+            <material>Other</material>
         </materials>
         <season>Spring, Summer</season>
-    </item>
+     </item>
 
-    <item id="003" category="Shoes">
+     <item id="003" category="Shoes">
         <name>Converse Chuck Taylor All Star Slip Low Top</name>
         <photo><img width="150" height="150" src="https://images.nike.com/is/image/DotCom/PDP_HERO/1X841_077_A_PREM/converse-chuck-taylor-all-star-slip-low-top-unisex-shoe.jpg"/></photo>
         <type>Shoes</type>
@@ -63,9 +51,7 @@
             <color type="primary">Gray</color>
             <color type="secondary">White</color>
         </colors>
-        <sizes>
-		     M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12
-        </sizes>
+        <sizes>M3/W5,M3/W5.5,M4/W6,M6/W8,M8.5/W10.5,M10/W12</sizes>
         <brand>Converse</brand>
         <price>44.97</price>
         <sku>1X841-077</sku>
@@ -73,16 +59,13 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-              Cotton
-            </material>
-            <material>
-            Other
-            </material>
+            <material>Cotton</material>
+            <material>Other</material>
         </materials>
         <season>Spring, Summer ,Fall</season>
-    </item>
-	<item id="004" category="Clothing">
+     </item>
+
+     <item id="004" category="Clothing">
         <name>Afterparty Men's Crew Sock</name>
         <photo><img width="150" height="150" src="https://2xngbq5nyp73ztllc2s0t4c1-wpengine.netdna-ssl.com/wp-content/uploads/2016/11/Mens-Crew-ALT-Socks_Afterparty-653x726.jpg"/></photo>
         <type>Socks</type>
@@ -90,9 +73,7 @@
             <color type="primary">Purple</color>
             <color type="secondary">Black</color>
         </colors>
-        <sizes>
-              One Size
-        </sizes>
+        <sizes>One Size</sizes>
         <brand>Pair of Thieves</brand>
         <price>10.00</price>
         <sku>Afterparty</sku>
@@ -100,13 +81,12 @@
         <pattern>Stripe</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-              Cotton
-            </material>
+            <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
-	<item id="005" category="Clothing">
+     </item>
+
+     <item id="005" category="Clothing">
         <name>AEO Plaid Oxford Shirt</name>
         <photo><img width="150" height="150" src="https://s7d2.scene7.com/is/image/aeo/0153_9873_100_of?&#36;PDP_78_Main&#36;"/></photo>
         <type>Shirt</type>
@@ -114,9 +94,7 @@
             <color type="primary">White</color>
             <color type="secondary">Blue</color>
         </colors>
-        <sizes>
-            XS-XXL
-        </sizes>
+        <sizes>XS-XXL</sizes>
         <brand>American Eagle</brand>
         <price>29.96</price>
         <sku>0153-9873-100</sku>
@@ -124,23 +102,20 @@
         <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-              Cotton
-            </material>
+            <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-	<item id="006" category= "Clothing">
+	     <item id="006" category= "Clothing">
         <name>Long-Sleeve Tie-Neck Top</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
         <type>Shirt</type>
         <colors>
-            <color type="primary">Soft Pink</color>
+            <color type="primary">Pink</color>
         </colors>
         <sizes>
-			       XS-XL
-        </sizes>
+			       XS-XL</sizes>
         <brand>Banana Republic</brand>
         <price>59.00</price>
         <sku>#797639</sku>
@@ -148,14 +123,12 @@
         <pattern>Solid</pattern>
         <occasion>Formal, Casual</occasion>
         <materials>
-            <material>
-			Polyester
-            </material>
+            <material>Polyester</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-	 <item id="007" category="Clothing">
+	     <item id="007" category="Clothing">
         <name>Herringbone Bow-Neck Jacket</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
         <type>Outerwear</type>
@@ -163,9 +136,7 @@
             <color type="primary">Black</color>
             <color type="secondary">White</color>
         </colors>
-        <sizes>
-             0-16
-        </sizes>
+        <sizes>0-16</sizes>
         <brand>Banana Republic</brand>
         <price>117.99</price>
         <sku>#874213</sku>
@@ -173,30 +144,23 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>
-			Wool
-            </material>
-            <material>
-			Polyester
-            </material>
-			<material>
-			Other
-            </material>
+            <material>Wool</material>
+            <material>Polyester</material>
+			      <material>Other</material>
         </materials>
         <season>Spring, Fall</season>
-    </item>
+     </item>
 
-	<item id="008" category="Clothing">
+	     <item id="008" category="Clothing">
         <name>DONEGAL TWEED OPEN-FRONT COAT</name>
         <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
         <type>Outerwear</type>
         <colors>
-            <color type="primary">BROWN</color>
+            <color type="primary">Brown</color>
             <color type="secondary"></color>
         </colors>
         <sizes>
-			0-12
-        </sizes>
+			0-12</sizes>
         <brand>Ralph Lauren</brand>
         <price>798.00</price>
         <sku>137173826</sku>
@@ -204,27 +168,22 @@
         <pattern>Solid</pattern>
         <occasion>Formal, Casual</occasion>
         <materials>
-            <material>
-			Wool
-            </material>
-            <material>
-			Leather
-            </material>
+            <material>Wool</material>
+            <material>Leather</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-	<item id="009" category="Clothing">
+	     <item id="009" category="Clothing">
         <name>KEYHOLE FIT-AND-FLARE DRESS</name>
         <photo><img width="150" height="150" src="https://cdna.lystit.com/photos/ralphlauren/136116906-sterling%20grey%20heather-3d189984-.jpeg"/></photo>
         <type>Dress</type>
         <colors>
-            <color type="primary">STERLING GREY HEATHER</color>
+            <color type="primary">Gray</color>
             <color type="secondary"></color>
         </colors>
         <sizes>
-			2-16
-        </sizes>
+			2-16</sizes>
         <brand>Ralph Lauren</brand>
         <price>135.00</price>
         <sku>136116906</sku>
@@ -232,28 +191,21 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>
-			Polyester
-            </material>
-
-            <material>
-			Other
-            </material>
+            <material>Polyester</material>
+            <material>Other</material>
         </materials>
         <season>Spring, Summer</season>
-    </item>
+     </item>
 
-    <item id="010" category="Clothing">
+     <item id="010" category="Clothing">
         <name>Slim trouser with ruffle waist in wool flannel</name>
         <photo><img width="150" height="150" src="https://www.jcrew.com/s7-img-facade/G8589_WQ2306"/></photo>
         <type>Pants</type>
         <colors>
-            <color type="primary">hthr grey</color>
-            <color type="secondary">hthr beet</color>
+            <color type="primary">Gray</color>
+            <color type="secondary"></color>
         </colors>
-        <sizes>
-          0-16
-        </sizes>
+        <sizes>0-16</sizes>
         <brand>J.crew</brand>
         <price>128.00</price>
         <sku>G8589</sku>
@@ -261,30 +213,22 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>
-			Wool
-            </material>
-            <material>
-			Polyester
-            </material>
-			<material>
-			Other
-            </material>
+            <material>Wool</material>
+            <material>Polyester</material>
+			      <material>Other</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
 
-<item id="011" category="Shoes">
+     <item id="011" category="Shoes">
         <name>The Day Heel</name>
         <photo><img width="150" height="150" src="https://everlane.imgix.net/i/3dc2bae7_6a99.jpg"/></photo>
         <type>Shoes</type>
         <colors>
-            <color type="primary">Bright Red</color>
+            <color type="primary">Red</color>
         </colors>
-        <sizes>
-        5-11
-        </sizes>
+        <sizes>5-11</sizes>
         <brand>Everlane</brand>
         <price>145</price>
         <sku>53-5964</sku>
@@ -292,12 +236,10 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-                Leather
-            </material>
+            <material>Leather</material>
         </materials>
         <season>Spring, Summer, Fall</season>
-        </item>
+     </item>
 
      <item id="012" category="Shoes">
             <name>Nike Air Vapormax Flyknit</name>
@@ -305,12 +247,9 @@
             <type>Shoes</type>
             <colors>
                 <color type="primary">Black</color>
-                <color type="secondary">Dark Grey</color>
+                <color type="secondary">Gray</color>
             </colors>
-            <sizes>
-			    7.5,9.5
-
-            </sizes>
+            <sizes>7.5,9.5</sizes>
             <brand>Nike</brand>
             <price>190</price>
             <sku>849557-006</sku>
@@ -318,23 +257,19 @@
             <pattern>Solid</pattern>
             <occasion>Sports</occasion>
             <materials>
-                <material>
-                  Other
-                </material>
+                <material>Other</material>
             </materials>
             <season>All-Season</season>
-        </item>
+     </item>
 
-    <item id="013" category="Clothing">
+     <item id="013" category="Clothing">
         <name>Riot Society Embroidered 40 Tee</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
         </colors>
-        <sizes>
-           S, M, L
-         </sizes>
+        <sizes>S, M, L</sizes>
         <brand>Riot Society</brand>
         <price>34</price>
         <sku>44395119</sku>
@@ -342,49 +277,41 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>
-              Cotton
-            </material>
+            <material>Cotton</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
 
-<item id="014" category="Clothing">
-    <name>Bow belted dress</name>
-    <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
-    <type>Dress</type>
-    <colors>
-        <color type="primary">Mustard</color>
-    </colors>
-    <sizes>
-      4-8
-    </sizes>
-    <brand>Mango</brand>
-    <price>49.99</price>
-    <sku>11047696</sku>
-    <gender>Women</gender>
-    <pattern>Solid</pattern>
-    <occasion>Casual</occasion>
-    <materials>
-        <material>
-          Other
-        </material>
-    </materials>
-    <season>All-Season</season>
-</item>
+     <item id="014" category="Clothing">
+        <name>Bow belted dress</name>
+        <photo><img width="150" height="150" src="https://st.mngbcn.com/rcs/pics/static/T1/fotos/S6/11047696_15.jpg?ts=1507566926856"/></photo>
+        <type>Dress</type>
+        <colors>
+            <color type="primary">Yellow</color>
+        </colors>
+        <sizes>4-8</sizes>
+        <brand>Mango</brand>
+        <price>49.99</price>
+        <sku>11047696</sku>
+        <gender>Women</gender>
+        <pattern>Solid</pattern>
+        <occasion>Casual</occasion>
+        <materials>
+            <material>Other</material>
+        </materials>
+        <season>All-Season</season>
+     </item>
 
 
-    <item id="015" category="Accessory">
+     <item id="015" category="Accessory">
         <name>Fedora Hat with ribbon</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/1/p/0049/205/712/2/w/560/0049205712_1_1_1.jpg?ts=1507749113344"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Ecru</color>
+            <color type="primary">Brown</color>
         </colors>
-        <sizes>
-          S, M
-        </sizes>
+        <sizes>S, M</sizes>
         <brand>Zara</brand>
         <price>39.90</price>
         <sku>0049/205</sku>
@@ -392,13 +319,12 @@
         <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>
-              Wool
-            </material>
+            <material>Wool</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
-	<item id="0016" category="Clothing">
+     </item>
+
+	   <item id="0016" category="Clothing">
         <name>Lightweight Bomber</name>
         <photo>
         <img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/980/334/cn13980334.jpg"/></photo>
@@ -407,9 +333,7 @@
             <color type="primary">Red</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            XS-XXL
-        </sizes>
+        <sizes>XS-XXL</sizes>
         <brand>Banana Republic</brand>
         <price>148.00</price>
         <sku>796212</sku>
@@ -421,8 +345,9 @@
             <material></material>
         </materials>
         <season>Spring, Fall</season>
-    </item>
-        <item id="0017" category="Shoes">
+     </item>
+
+     <item id="0017" category="Shoes">
         <name>Bradstreet Leather Chukka Boot</name>
         <photo><img width="150" height="150" src="http://static5.uttings.info/images/products/timberland/bradstreet-chuk_FF9823A1_large.jpg"/></photo>
         <type>Shoes</type>
@@ -430,9 +355,7 @@
             <color type="primary">Brown</color>
             <color type="secondary">Black</color>
         </colors>
-        <sizes>
-          7.0-10.5
-        </sizes>
+        <sizes>7.0-10.5</sizes>
         <brand>Timberland</brand>
         <price>120.00</price>
         <sku>A146Q001</sku>
@@ -444,8 +367,9 @@
             <material></material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
-    <item id="018" category="Shoes">
+     </item>
+
+     <item id="018" category="Shoes">
         <name>Black Leather Ankle Boot</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5602/202/040/2/w/1920/5602202040_2_2_1.jpg?ts=1501498584147"/></photo>
         <type>Shoes</type>
@@ -453,9 +377,7 @@
             <color type="primary">Black</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-          6-11
-        </sizes>
+        <sizes>6-11</sizes>
         <brand>Zara</brand>
         <price>69.90</price>
         <sku>5602/202</sku>
@@ -467,18 +389,17 @@
             <material></material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
-  <item id="019" category="Clothing">
+     </item>
+
+     <item id="019" category="Clothing">
         <name>Pique Puffer Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/1608/419/401/2/w/560/1608419401_6_1_1.jpg?ts=1506513020889"/></photo>
         <type>Outerwear</type>
         <colors>
             <color type="primary">Blue</color>
-            <color type="secondary">Grey</color>
+            <color type="secondary">Gray</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>79.90</price>
         <sku>1608/419</sku>
@@ -490,9 +411,9 @@
             <material></material>
         </materials>
         <season>Spring, Fall</season>
-    </item>
+     </item>
 
-    <item id="020" category="Clothing">
+     <item id="020" category="Clothing">
         <name>Melange Shirt With Elbow Patches</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/605/2/w/560/0975301605_6_1_1.jpg?ts=1511888375893"/></photo>
         <type>Shirt</type>
@@ -500,9 +421,7 @@
             <color type="primary">Red</color>
             <color type="secondary">Blue</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>49.90</price>
         <sku>0975/301</sku>
@@ -514,9 +433,9 @@
             <material></material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-        <item id="021" category="Clothing">
+     <item id="021" category="Clothing">
         <name>Shimmery Socks</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6209/305/500/2/w/560/6209305500_1_1_1.jpg?ts=1511526259488"/></photo>
         <type>Socks</type>
@@ -524,9 +443,7 @@
             <color type="primary">Green</color>
             <color type="secondary">Black</color>
         </colors>
-        <sizes>
-            M
-        </sizes>
+        <sizes>M</sizes>
         <brand>Zara</brand>
         <price>9.90</price>
         <sku>6209/305</sku>
@@ -538,17 +455,16 @@
             <material></material>
         </materials>
         <season>All-Season</season>
-    </item>
-    <item id="022" category="Clothing">
+     </item>
+
+     <item id="022" category="Clothing">
         <name>Puffer Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5475/400/800/2/w/560/5475400800_6_1_1.jpg?ts=1511879446204"/></photo>
         <type>Outerwear</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>89.90</price>
         <sku>5475/400</sku>
@@ -560,8 +476,9 @@
 
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
-    <item id="023" category="Shoes">
+     </item>
+
+     <item id="023" category="Shoes">
         <name>Dark Red Fabric Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5462/202/202/2/w/560/5462202202_2_5_1.jpg?ts=1506514016482"/></photo>
         <type>Shoes</type>
@@ -569,9 +486,7 @@
             <color type="primary">Red</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-14
-        </sizes>
+        <sizes>6-14</sizes>
         <brand>Zara</brand>
         <price>29.99</price>
         <sku>5462/202</sku>
@@ -579,13 +494,13 @@
         <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Polyester </material>
+            <material>Polyester</material>
             <material>Other</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="024" category="Clothing">
+     <item id="024" category="Clothing">
         <name>Contrast Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3918/401/505/2/w/560/3918401505_6_1_1.jpg?ts=1511889058112"/></photo>
         <type>Outerwear</type>
@@ -593,9 +508,7 @@
             <color type="primary">Green</color>
             <color type="secondary">Blue</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>79.90</price>
         <sku>3918/401</sku>
@@ -606,8 +519,9 @@
             <material>other</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
-    <item id="025" category="Shoes">
+     </item>
+
+     <item id="025" category="Shoes">
         <name>Sock-Style Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5303/202/010/2/w/560/5303202010_2_2_1.jpg?ts=1504633209043"/></photo>
         <type>Shoes</type>
@@ -615,9 +529,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Black</color>
         </colors>
-        <sizes>
-            6-14
-        </sizes>
+        <sizes>6-14</sizes>
         <brand>Zara</brand>
         <price>49.99</price>
         <sku>5303/202</sku>
@@ -628,9 +540,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-      <item id="026" category="Clothing">
+     <item id="026" category="Clothing">
         <name>Denim Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0840/363/427/3/w/560/0840363427_6_1_1.jpg?ts=1510938493945"/></photo>
         <type>Outerwear</type>
@@ -638,9 +550,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            M-L
-        </sizes>
+        <sizes>M-L</sizes>
         <brand>Zara</brand>
         <price>109.00</price>
         <sku>0840/363</sku>
@@ -651,8 +561,9 @@
             <material>Denim</material>
         </materials>
         <season>Spring, Fall</season>
-    </item>
-    <item id="027" category="Clothing">
+     </item>
+
+     <item id="027" category="Clothing">
         <name>Melange Shirt With Elbow Patches</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/400/2/w/560/0975301400_6_1_1.jpg?ts=1511888289488"/></photo>
         <type>Shirt</type>
@@ -660,9 +571,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Red</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>49.90</price>
         <sku>0975/301</sku>
@@ -673,9 +582,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="028" category="Shoes">
+     <item id="028" category="Shoes">
         <name>Micro-Perforated Plimsolls</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5458/202/010/2/w/560/5458202010_2_4_1.jpg?ts=1507272144951"/></photo>
         <type>Shoes</type>
@@ -683,9 +592,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-14
-        </sizes>
+        <sizes>6-14</sizes>
         <brand>Zara</brand>
         <price>35.90</price>
         <sku>5458/202</sku>
@@ -696,9 +603,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="029" category="Clothing">
+     <item id="029" category="Clothing">
         <name>Patterned Socks</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/347/401/2/w/560/3334347401_1_1_1.jpg?ts=1510741847945"/></photo>
         <type>Socks</type>
@@ -706,9 +613,7 @@
             <color type="primary">Red</color>
             <color type="secondary">Blue</color>
         </colors>
-        <sizes>
-            M
-        </sizes>
+        <sizes>M</sizes>
         <brand>Zara</brand>
         <price>9.90</price>
         <sku>3334/347</sku>
@@ -719,9 +624,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="030" category="Accessory">
+     <item id="030" category="Accessory">
         <name>Jacquard Fringed Scarf</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5665/307/600/2/w/560/5665307600_1_1_1.jpg?ts=1511526070778"/></photo>
         <type>Accessory</type>
@@ -729,9 +634,7 @@
             <color type="primary">Orange</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            M
-        </sizes>
+        <sizes>M</sizes>
         <brand>Zara</brand>
         <price>35.90</price>
         <sku>5665/307</sku>
@@ -742,17 +645,16 @@
             <material>Cotton</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
-    <item id="031" category="Clothing">
+     </item>
+
+     <item id="031" category="Clothing">
         <name>Diagonal Blazer</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6861/379/800/2/w/560/6861379800_6_1_1.jpg?ts=1510676326492"/></photo>
         <type>Outerwear</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            S-XL
-        </sizes>
+        <sizes>S-XL</sizes>
         <brand>Zara</brand>
         <price>149.00</price>
         <sku>6861/379</sku>
@@ -764,9 +666,9 @@
 
         </materials>
         <season>Spring, Fall</season>
-    </item>
+     </item>
 
-    <item id="032" category="Shoes">
+     <item id="032" category="Shoes">
         <name>Smart Embossed</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5049/202/040/5/w/560/5049202040_2_2_1.jpg?ts=1511539520014"/></photo>
         <type>Shoes</type>
@@ -774,9 +676,7 @@
             <color type="primary">Black</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-11
-        </sizes>
+        <sizes>6-11</sizes>
         <brand>Zara</brand>
         <price>39.99</price>
         <sku>5049/202</sku>
@@ -788,8 +688,9 @@
             <material></material>
         </materials>
         <season>All-Season</season>
-    </item>
-    <item id="033" category="Clothing">
+     </item>
+
+     <item id="033" category="Clothing">
         <name>Double Faced Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8178/301/700/3/w/560/8178301700_6_1_1.jpg?ts=1510761332321"/></photo>
         <type>Outerwear</type>
@@ -797,9 +698,7 @@
             <color type="primary">Brown</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            S-XL
-        </sizes>
+        <sizes>S-XL</sizes>
         <brand>Zara</brand>
         <price>149.00</price>
         <sku>8178/301</sku>
@@ -810,9 +709,9 @@
             <material>Leather</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-    <item id="034" category="Accessory">
+     <item id="034" category="Accessory">
         <name>Jacquard Scarf</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0693/393/401/2/w/560/0693393401_1_1_1.jpg?ts=1510916043616"/></photo>
         <type>Accessory</type>
@@ -820,9 +719,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            M
-        </sizes>
+        <sizes>M</sizes>
         <brand>Zara</brand>
         <price>17.99</price>
         <sku>0693/393</sku>
@@ -833,9 +730,9 @@
             <material>Cotton</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="035" category="Shoes">
+     <item id="035" category="Shoes">
         <name>Brown Leather Brogues</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5055/202/100/2/w/560/5055202100_2_2_1.jpg?ts=1511514667006"/></photo>
         <type>Shoes</type>
@@ -843,9 +740,7 @@
             <color type="primary">Brown</color>
             <color type="secondary">Blue</color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Zara</brand>
         <price>99.90</price>
         <sku>5055/202</sku>
@@ -857,9 +752,9 @@
 
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="036" category="Clothing" >
+     <item id="036" category="Clothing" >
         <name>Hooded Jacket</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/4341/388/800/2/w/560/4341388800_6_1_1.jpg?ts=1506085437672"/></photo>
         <type>Outerwear</type>
@@ -867,9 +762,7 @@
             <color type="primary">Black</color>
             <color type="secondary">Brown</color>
         </colors>
-        <sizes>
-            S-XXL
-        </sizes>
+        <sizes>S-XXL</sizes>
         <brand>Zara</brand>
         <price>109.00</price>
         <sku>4341/388</sku>
@@ -880,9 +773,9 @@
             <material>Other</material>
         </materials>
         <season>Spring, Fall</season>
-    </item>
+     </item>
 
-    <item id="037" category="Clothing" >
+     <item id="037" category="Clothing" >
         <name>Palm Tree Bermuda Shorts</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/2295/301/401/2/w/560/2295301401_6_1_1.jpg?ts=1507136900706"/></photo>
         <type>Short</type>
@@ -890,9 +783,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Brown</color>
         </colors>
-        <sizes>
-            S-XL
-        </sizes>
+        <sizes>S-XL</sizes>
         <brand>Zara</brand>
         <price>39.90</price>
         <sku>2295/301</sku>
@@ -903,19 +794,17 @@
             <material>Polyester</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-<item id="038" category="Accessory">
+     <item id="038" category="Accessory">
         <name>Rib Knit Hat</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/9065/347/804/2/w/560/9065347804_1_1_1.jpg?ts=1511783540210"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Grey</color>
+            <color type="primary">Gray</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            M
-        </sizes>
+        <sizes>M</sizes>
         <brand>Zara</brand>
         <price>19.90</price>
         <sku>9065/347</sku>
@@ -926,9 +815,9 @@
             <material>Cotton</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-    <item id="039" category="Shoes">
+     <item id="039" category="Shoes">
         <name>Contrasting Ultralight Sneakers</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5447/202/202/2/w/560/5447202202_2_6_1.jpg?ts=1503400757187"/></photo>
         <type>Shoes</type>
@@ -936,9 +825,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Gray</color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Zara</brand>
         <price>69.90</price>
         <sku>5447/202</sku>
@@ -946,14 +833,14 @@
         <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Polyester </material>
-            <material>Leather </material>
+            <material>Polyester</material>
+            <material>Leather</material>
             <material>Other</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="040" category="Clothing">
+     <item id="040" category="Clothing">
         <name>Flannel Overshirt</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6103/303/401/2/w/560/6103303401_6_1_1.jpg?ts=1509645483169"/></photo>
         <type>Shirt</type>
@@ -961,9 +848,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Green</color>
         </colors>
-        <sizes>
-            S-XL
-        </sizes>
+        <sizes>S-XL</sizes>
         <brand>Zara</brand>
         <price>49.90</price>
         <sku>6103/303</sku>
@@ -974,19 +859,17 @@
             <material>Cotton</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="041" category="Accessory">
+     <item id="041" category="Accessory">
         <name>Take A Shine Choker</name>
         <photo><img width="150" height="150" src="https://katespade.insnw.net/KateSpade/WBRUE810_921?$rr_large$"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Gold</color>
-            <color type="secondary">Clear</color>
+            <color type="primary">Other</color>
+            <color type="secondary">Other</color>
         </colors>
-        <sizes>
-            Onesize
-        </sizes>
+        <sizes>Onesize</sizes>
         <brand>Kate Spade New York</brand>
         <price>168.00</price>
         <sku>wbrue810</sku>
@@ -994,22 +877,20 @@
         <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>Other </material>
+            <material>Other</material>
 
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="042" category="Clothing">
+     <item id="042" category="Clothing">
         <name>Embroidered Hooded Sweatshirt</name>
         <photo><img width="150" height="150" src="https://assets.burberry.com/is/image/Burberryltd/2d2bdfca150f86b50704be140939d19801371373.jpg"/></photo>
         <type>Shirt</type>
         <colors>
-            <color type="primary">red</color>
+            <color type="primary">Red</color>
         </colors>
-        <sizes>
-            XS-XL
-        </sizes>
+        <sizes>XS-XL</sizes>
         <brand>Burberry</brand>
         <price>450.00</price>
         <sku>40678361</sku>
@@ -1017,23 +898,21 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Cotton  </material>
+            <material>Cotton</material>
             <material>Polyester</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="043" category="Bag">
+     <item id="043" category="Bag">
         <name>Georgia Leather Crossbody</name>
         <photo><img width="150" height="150" src="https://images.bloomingdales.com/is/image/BLM/products/4/optimized/9558254_fpx.tif?"/></photo>
         <type>Bag</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>Tory Burch</brand>
         <price>428.00</price>
         <sku>2670650</sku>
@@ -1044,18 +923,16 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="044" category="Clothing">
+     <item id="044" category="Clothing">
         <name>Bryn High Rise Cutoff Denim Shorts</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_102077556.jpg"/></photo>
         <type>Short</type>
         <colors>
             <color type="primary">White</color>
         </colors>
-        <sizes>
-            24-32
-        </sizes>
+        <sizes>24-32</sizes>
         <brand>AG</brand>
         <price>168.00</price>
         <sku>5495143</sku>
@@ -1063,22 +940,20 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Cotton </material>
+            <material>Cotton</material>
             <material>Other</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-    <item id="045" category="Clothing">
+     <item id="045" category="Clothing">
         <name>Lace Midi Dress</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101507752.jpg"/></photo>
         <type>Dress</type>
         <colors>
             <color type="primary">Pink</color>
         </colors>
-        <sizes>
-            XS-XL
-        </sizes>
+        <sizes>XS-XL</sizes>
         <brand>ASTR THE LABEL</brand>
         <price>89.00</price>
         <sku>5495143</sku>
@@ -1089,18 +964,16 @@
             <material>Polyester</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-    <item id="046" category="Shoes">
+     <item id="046" category="Shoes">
         <name>Corlina Ankle Strap Sandal</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101229915.jpg"/></photo>
         <type>Shoes</type>
         <colors>
             <color type="primary">Red</color>
         </colors>
-        <sizes>
-            6-13
-        </sizes>
+        <sizes>6-13</sizes>
         <brand>VINCE CAMUTO</brand>
         <price>99.95</price>
         <sku>5278487</sku>
@@ -1108,13 +981,13 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Leather </material>
+            <material>Leather</material>
             <material>Other</material>
         </materials>
         <season>Spring, Summer</season>
-    </item>
+     </item>
 
-    <item id="047" category="Clothing">
+     <item id="047" category="Clothing">
         <name>Dionne Blazer</name>
         <photo><img width="150" height="150" src="https://cdn.shopify.com/s/files/1/1094/6908/products/01_8904e9a8-b946-46f1-b89b-44a767a196ca.jpg?v=1505924972"/></photo>
         <type>Outerwears</type>
@@ -1122,9 +995,7 @@
             <color type="primary">Black</color>
             <color type="secondary">White</color>
         </colors>
-        <sizes>
-            XXS-S
-        </sizes>
+        <sizes>XXS-S</sizes>
         <brand>Petite Studio</brand>
         <price>219.00</price>
         <sku>5278487</sku>
@@ -1132,13 +1003,13 @@
         <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Polyester </material>
+            <material>Polyester</material>
             <material>Wool</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="048" category="Clothing">
+     <item id="048" category="Clothing">
         <name>Jane Shorts</name>
         <photo><img width="150" height="150" src="https://cdn.shopify.com/s/files/1/1094/6908/products/Luo_N_TheWork_116_74aa5904-848d-4f8a-82f8-3df2fa344a55.jpg?v=1510271144"/></photo>
         <type>Short</type>
@@ -1146,9 +1017,7 @@
             <color type="primary">Black</color>
             <color type="secondary">White</color>
         </colors>
-        <sizes>
-            XXS-S
-        </sizes>
+        <sizes>XXS-S</sizes>
         <brand>Petite Studio</brand>
         <price>119.00</price>
         <sku>527848</sku>
@@ -1156,24 +1025,22 @@
         <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Polyester </material>
+            <material>Polyester</material>
             <material>Wool</material>
         </materials>
         <season>All-Season</season>
 
-    </item>
+     </item>
 
 
-    <item id="049" category="Clothing">
+     <item id="049" category="Clothing">
         <name>UO Oversized Chenille V-Neck Sweater</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44185619_072_f"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">Yellow</color>
         </colors>
-        <sizes>
-            XS-XL
-        </sizes>
+        <sizes>XS-XL</sizes>
         <brand>Urban Outfitters</brand>
         <price>59.00</price>
         <sku>44185619</sku>
@@ -1181,22 +1048,20 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Polyester </material>
+            <material>Polyester</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="050" category="Accessory">
+     <item id="050" category="Accessory">
         <name>Canada narrow caramel brown</name>
         <photo><img width="150" height="150" src="https://www.acnestudios.com/on/demandware.static/-/Sites-acne-product-catalog/default/dw99230283/images/27/27N153-/750x/27N153-900_A.jpg"/></photo>
         <type>Accessory</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>Acne Studios</brand>
         <price>150.00</price>
         <sku>00000</sku>
@@ -1207,19 +1072,17 @@
             <material>Wool</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="051" category="Bag">
+     <item id="051" category="Bag">
         <name>Collins Leather Brief</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/933255D_main"/></photo>
         <type>Bag</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>Tumi</brand>
         <price>995.00</price>
         <sku>933255D</sku>
@@ -1230,18 +1093,16 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="052" category="Bag">
-        <name>Bag</name>
+     <item id="052" category="Bag">
+        <name>Tumi Backpack</name>
         <photo><img width="150" height="150" src="https://tumi.scene7.com/is/image/Tumi/101656T564_main"/></photo>
         <type>Backpack</type>
         <colors>
-            <color type="primary">Saddle</color>
+            <color type="primary">Brown</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>Tumi</brand>
         <price>795.00</price>
         <sku>101656T564</sku>
@@ -1252,18 +1113,16 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="053" category="Shoes">
+     <item id="053" category="Shoes">
         <name>Naiyah Lace-Back Genuine Shearling Boot</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_100927818.jpg"/></photo>
         <type>Shoes</type>
         <colors>
             <color type="primary">Brown</color>
         </colors>
-        <sizes>
-            6-10
-        </sizes>
+        <sizes>6-10</sizes>
         <brand>UGG</brand>
         <price>179.95</price>
         <sku>5228229</sku>
@@ -1271,23 +1130,21 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Leather </material>
-            <material>Wool </material>
+            <material>Leather</material>
+            <material>Wool</material>
             <material>Other</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-    <item id="054" category="Clothing">
+     <item id="054" category="Clothing">
         <name>Eva Removable Turtleneck Sweater</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
         <type>Shirt</type>
         <colors>
             <color type="primary">Orange</color>
         </colors>
-        <sizes>
-            XS-XL
-        </sizes>
+        <sizes>XS-XL</sizes>
         <brand>Tory Burch</brand>
         <price>348.00</price>
         <sku>5495872</sku>
@@ -1295,23 +1152,21 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Wool </material>
-            <material>Other </material>
+            <material>Wool</material>
+            <material>Other</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="055" category="Clothing">
+     <item id="055" category="Clothing">
         <name>Faux Shearling Lined Denim Trucker Jacket</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101441035.jpg"/></photo>
         <type>Outerwear</type>
         <colors>
             <color type="primary">Blue</color>
         </colors>
-        <sizes>
-            XS-L
-        </sizes>
+        <sizes>XS-L</sizes>
         <brand>LEVI's</brand>
         <price>128.00</price>
         <sku>5433105</sku>
@@ -1319,25 +1174,23 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Cotton </material>
-            <material>Other </material>
+            <material>Cotton</material>
+            <material>Other</material>
 
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="056" category="Accessory">
+     <item id="056" category="Accessory">
         <name>62mm Oversize Sunglasses</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_9180184.jpg"/></photo>
         <type>Accessory</type>
         <colors>
             <color type="primary">Brown</color>
-            <color type="secondary">Gold</color>
+            <color type="secondary">Other</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>CHLOÉ</brand>
         <price>396.00</price>
         <sku>717429</sku>
@@ -1348,19 +1201,17 @@
             <material>Other</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
 
-    <item id="057" category="Accessory">
+     <item id="057" category="Accessory">
         <name>Avel Wallet</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102035145.jpg"/></photo>
         <type>Accessory</type>
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            One size
-        </sizes>
+        <sizes>One size</sizes>
         <brand>Gucci</brand>
         <price>320.00</price>
         <sku>5393550</sku>
@@ -1371,9 +1222,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="058" category="Clothing">
+     <item id="058" category="Clothing">
         <name>Side Tie Stripe Slub Jersey Tee</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_101873171.jpg"/></photo>
         <type>Shirt</type>
@@ -1381,9 +1232,7 @@
             <color type="primary">Black</color>
             <color type="secondary">White</color>
         </colors>
-        <sizes>
-            XS-XL
-        </sizes>
+        <sizes>XS-XL</sizes>
         <brand>T BY ALEXANDER WANG</brand>
         <price>175.00</price>
         <sku>5492380</sku>
@@ -1394,20 +1243,18 @@
             <material>Other</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
 
-    <item id="059" category="Accessory">
+     <item id="059" category="Accessory">
         <name>X Crossover Ring</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
         <type>Accessory</type>
         <colors>
-            <color type="primary">Silver</color>
-            <color type="secondary">Gold</color>
+            <color type="primary">Other</color>
+            <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-9
-        </sizes>
+        <sizes>6-9</sizes>
         <brand>David Yurman</brand>
         <price>295.00</price>
         <sku>5492380</sku>
@@ -1419,20 +1266,18 @@
 
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
 
-    <item id="060" category="Shoes">
+     <item id="060" category="Shoes">
         <name>Swift Run Sneaker</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101958992.jpg"/></photo>
         <type>Shoes</type>
         <colors>
             <color type="primary">White</color>
-            <color type="secondary">Silver</color>
+            <color type="secondary">Other</color>
         </colors>
-        <sizes>
-            5-11
-        </sizes>
+        <sizes>5-11</sizes>
         <brand>Adidas</brand>
         <price>84.95</price>
         <sku>5385947</sku>
@@ -1445,18 +1290,16 @@
         <season>All-Season</season>
      </item>
 
-    <item id="061" category="Clothing">
+     <item id="061" category="Clothing">
             <name>Wool Blend Double Breasted Peacoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102105292.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102105291.jpg"/></photo>
             <type>Outerwear</type>
             <colors>
-                <color type="primary">Heather Grey</color>
+                <color type="primary">Gray</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                small - XXXLarge
-            </sizes>
+            <sizes>small - XXXLarge</sizes>
             <brand>MICHAEL KORS</brand>
             <price>99.90</price>
             <sku>#807813</sku>
@@ -1464,25 +1307,23 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Wool </material>
-                <material>Polyester </material>
+                <material>Wool</material>
+                <material>Polyester</material>
                 <material>Other</material>
             </materials>
             <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="062" category="Clothing">
+     <item id="062" category="Clothing">
             <name>Packable Stretch Down Jacket</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101366732.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_101367003.jpg"/></photo>
             <type>Outerwear</type>
             <colors>
-                <color type="primary">Mulberry red</color>
+                <color type="primary">Red</color>
                 <color type="secondary">Black></color>
             </colors>
-            <sizes>
-                small - XXXLarge
-            </sizes>
+            <sizes>small - XXXLarge</sizes>
             <brand>MICHAEL KORS</brand>
             <price>99.92</price>
             <sku>#5435460</sku>
@@ -1494,20 +1335,18 @@
 
             </materials>
             <season>Winter</season>
-    </item>
+     </item>
 
-    <item id="063" category="Clothing">
+     <item id="063" category="Clothing">
             <name>Sheffield Classic Fit Wool and Cashmere Overcoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_11522132.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_11522128.jpg"/></photo>
             <type>Outerwear</type>
             <colors>
                 <color type="primary">Black</color>
-                <color type="secondary">NaveBlack></color>
+                <color type="secondary"></color>
             </colors>
-            <sizes>
-                38S, 38R, 42R, 44R, 44L, 46R
-            </sizes>
+            <sizes>38S, 38R, 42R, 44R, 44L, 46R</sizes>
             <brand>HART SCHAFFNER MARX</brand>
             <price>356.98</price>
             <sku>#5042052</sku>
@@ -1515,24 +1354,22 @@
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
-                <material>Wool </material>
+                <material>Wool</material>
                 <material>Other</material>
             </materials>
             <season>Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="064" category="Accessory">
+     <item id="064" category="Accessory">
             <name>Lexington Chronograph Bracelet Watch</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_8055872.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_8193573.jpg"/></photo>
             <type>Accessory</type>
             <colors>
-                <color type="primary">Gold</color>
+                <color type="primary">Other</color>
                 <color type="primary">Black</color>
             </colors>
-            <sizes>
-                45mm
-            </sizes>
+            <sizes>45mm</sizes>
             <brand>MICHAEL KORS</brand>
             <price>206.25</price>
             <sku>#594954</sku>
@@ -1544,9 +1381,9 @@
 
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="065" category="Accessory">
+     <item id="065" category="Accessory">
             <name>Sunglasses</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_102075998.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
@@ -1554,9 +1391,7 @@
             <colors>
                 <color type="primary">Black</color>
             </colors>
-            <sizes>
-                58mm
-            </sizes>
+            <sizes>58mm</sizes>
             <brand>GUCCI</brand>
             <price>345.00</price>
             <sku>#5453355</sku>
@@ -1567,9 +1402,9 @@
                 <material>Other</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="066" category="Clothing">
+     <item id="066" category="Clothing">
             <name>Flared Crepe Pants</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102011672.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_102012161.jpg"/></photo>
@@ -1577,9 +1412,7 @@
             <colors>
                 <color type="primary">Red</color>
             </colors>
-            <sizes>
-                0-10
-            </sizes>
+            <sizes>0-10</sizes>
             <brand>LEWIT</brand>
             <price>299.00</price>
             <sku>#5407196</sku>
@@ -1590,18 +1423,16 @@
                 <material>Other</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="067" category="Clothing">
+     <item id="067" category="Clothing">
             <name>Crepe Wide Leg Trousers</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_101593564.jpg"/></photo>
             <type>Pants</type>
             <colors>
                 <color type="primary">Black</color>
             </colors>
-            <sizes>
-                0-10
-            </sizes>
+            <sizes>0-10</sizes>
             <brand>MISSGUIDED</brand>
             <price>62.00</price>
             <sku>#5407196</sku>
@@ -1612,20 +1443,18 @@
                 <material>Polyester</material>
             </materials>
             <season>Spring, Fall</season>
-    </item>
+     </item>
 
-    <item id="068" category="Clothing">
+     <item id="068" category="Clothing">
             <name>Dolman Sleeve Sweater</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101289535.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_101289967.jpg"/></photo>
             <type>Shirt</type>
             <colors>
-                <color type="primary">Pink adobe</color>
+                <color type="primary">Pink</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                XXsmall-XLarge
-            </sizes>
+            <sizes>XXsmall-XLarge</sizes>
             <brand>BP.</brand>
             <price>39.00</price>
             <sku>#5317033</sku>
@@ -1633,25 +1462,24 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Cotton </material>
-                <material>Polyester </material>
-                <material>Wool </material>
+                <material>Cotton</material>
+                <material>Polyester</material>
+                <material>Wool</material>
                 <material>Other</material>
             </materials>
             <season>Sping, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="069" category="Clothing">
+     <item id="069" category="Clothing">
             <name>J.Crew Tartan Mountain Puffer Vest</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102212219.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102203739.jpg"/></photo>
             <type>Outerwear</type>
             <colors>
-                <color type="primary">Green Red Multi</color>
+                <color type="primary">Green</color>
+                <color type="secondary">Red</color>
             </colors>
-            <sizes>
-                XXsmall-XLarge
-            </sizes>
+            <sizes>XXsmall-XLarge</sizes>
             <brand>J. CREW</brand>
             <price>138.00</price>
             <sku>#5524727</sku>
@@ -1659,24 +1487,22 @@
             <pattern>Plaid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Wool </material>
+                <material>Wool</material>
                 <material>Polyester</material>
             </materials>
             <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="070" category="Clothing">
+     <item id="070" category="Clothing">
             <name>T Tahari Wool Blend Belted Wrap Coat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_101230846.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101231221.jpg"/></photo>
             <type>Outerwear</type>
             <colors>
-                <color type="primary">Browm Suger</color>
+                <color type="primary">Brown</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                Xsmall-XLarge
-            </sizes>
+            <sizes>Xsmall-XLarge</sizes>
             <brand>TAHARI</brand>
             <price>229.90</price>
             <sku>#5317033</sku>
@@ -1684,25 +1510,23 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Cotton </material>
+                <material>Cotton</material>
                 <material>Polyester</material>
             </materials>
             <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="071" category="Shoes">
+     <item id="071" category="Shoes">
             <name>Scarlett Over the Knee Boot</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_101057196.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_101057637.jpg"/></photo>
             <photo position = "bottom"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_101057501.jpg"/></photo>
             <type>Shoes</type>
             <colors>
-                <color type="primary">Grey Suede</color>
+                <color type="primary">Gray</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                5-7.5
-            </sizes>
+            <sizes>5-7.5</sizes>
             <brand>HALOGEN</brand>
             <price>119.90</price>
             <sku>#5351742</sku>
@@ -1714,21 +1538,19 @@
                 <material>Other</material>
             </materials>
             <season>Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="072" category="Shoes">
+     <item id="072" category="Shoes">
             <name>Fileana Split Shaft Bootie</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_100876763.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100877041.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_100876733.jpg"/></photo>
             <type>Shoes</type>
             <colors>
-                <color type="primary">Greystone Suede</color>
+                <color type="primary">Gray</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                4-6.5
-            </sizes>
+            <sizes>4-6.5</sizes>
             <brand>VINCE CAMUTO</brand>
             <price>119.90</price>
             <sku>#5365828</sku>
@@ -1736,25 +1558,23 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Leather </material>
+                <material>Leather</material>
                 <material>Other</material>
             </materials>
             <season>Spring, Fall</season>
-    </item>
+     </item>
 
-    <item id="073" category="Bag">
+     <item id="073" category="Bag">
             <name>Julian Nylon Backpack</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102242671.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102233657.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_102242368.jpg"/></photo>
             <type>Bag</type>
             <colors>
-                <color type="primary">Smoky Rosy</color>
+                <color type="primary">Pink</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                one size
-            </sizes>
+            <sizes>one size</sizes>
             <brand>REBECCA MINKOFF</brand>
             <price>145.00</price>
             <sku>#5284692</sku>
@@ -1765,21 +1585,19 @@
                 <material>Other</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="074" category="Bag">
+     <item id="074" category="Bag">
             <name>Dafni Leather Crossbody</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102215899.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102216725.jpg"/></photo>
             <type>Bag</type>
             <colors>
-                <color type="primary">Cameo Rosy</color>
-                <color type="secondary">Whiskey</color>
+                <color type="primary">Pink</color>
+                <color type="secondary">Other</color>
             </colors>
-            <sizes>
-                one size
-            </sizes>
+            <sizes>one size</sizes>
             <brand>VINCE CAMUTO</brand>
             <price>158.00</price>
             <sku>#5293147</sku>
@@ -1790,21 +1608,19 @@
                 <material>Leather</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="075" category="Bag">
+     <item id="075" category="Bag">
             <name>Logo Leather Shopper</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_102211387.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/0/_102211420.jpg"/></photo>
             <type>Bag</type>
             <colors>
-                <color type="primary">Hydrangea Pink</color>
+                <color type="primary">Pink</color>
                 <color type="secondary">Black</color>
             </colors>
-            <sizes>
-                one size
-            </sizes>
+            <sizes>one size</sizes>
             <brand>MARC JACOBS</brand>
             <price>295.00</price>
             <sku>#5332073</sku>
@@ -1815,20 +1631,18 @@
                 <material>Leather</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="076" category="Clothing">
+     <item id="076" category="Clothing">
             <name>Ruffle Midi Dress</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/6/_102100426.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_102100295.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_102101143.jpg"/></photo>
             <type>Dress</type>
             <colors>
-                <color type="primary">Red Jester</color>
+                <color type="primary">Red</color>
             </colors>
-            <sizes>
-            M-X
-            </sizes>
+            <sizes>M-X</sizes>
             <brand>CHELSEA28</brand>
             <price>129.00</price>
             <sku>#5317033</sku>
@@ -1839,19 +1653,17 @@
                 <material>Polyester</material>
             </materials>
             <season>Spring, Summer</season>
-    </item>
+     </item>
 
-    <item id="077" category="Clothing">
+     <item id="077" category="Clothing">
             <name>Off the Shoulder Dress</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_101604478.jpg"/></photo>
             <type>Dress</type>
             <colors>
-                <color type="primary">Atlantics green</color>
-                <color type="primary">Tomato Red</color>
+                <color type="primary">Green</color>
+                <color type="primary">Red</color>
             </colors>
-            <sizes>
-            XSmall-XLarge
-            </sizes>
+            <sizes>XSmall-XLarge</sizes>
             <brand>CHARLES HENRY</brand>
             <price>52.80</price>
             <sku>#5200087</sku>
@@ -1859,25 +1671,23 @@
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
-                <material>Polyester </material>
+                <material>Polyester</material>
                 <material>Other</material>
             </materials>
             <season>Spring, Summer</season>
-    </item>
+     </item>
 
-    <item id="078" category="Shoes">
+     <item id="078" category="Shoes">
             <name>Romy Pointy Toe Pump</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_100770367.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_100770544.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_100770545.jpg"/></photo>
             <type>Shoes</type>
             <colors>
-                <color type="primary">Peacock Green</color>
-                <color type="secondary">Nave</color>
+                <color type="primary">Green</color>
+                <color type="secondary">Other</color>
             </colors>
-            <sizes>
-                8-9.5
-            </sizes>
+            <sizes>8-9.5</sizes>
             <brand>JIMMY CHOO</brand>
             <price>404.98</price>
             <sku>#5118088</sku>
@@ -1888,19 +1698,17 @@
                 <material>Leather</material>
             </materials>
             <season>All-Season</season>
-    </item>
+     </item>
 
-    <item id="079" category="Accessory">
+     <item id="079" category="Accessory">
             <name>Heritage Giant Check Fringed Cashmere Muffler</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_101706265.jpg"/></photo>
             <type>Accessory</type>
             <colors>
-                <color type="primary">Classic</color>
-                <color type="secondary">Alizarin Pink</color>
+                <color type="primary">Brown</color>
+                <color type="secondary">Other</color>
             </colors>
-            <sizes>
-                one size
-            </sizes>
+            <sizes>one size</sizes>
             <brand>BURBERRY</brand>
             <price>435</price>
             <sku>#192929</sku>
@@ -1911,18 +1719,16 @@
                 <material>Other</material>
             </materials>
             <season>Fall, Winter</season>
-    </item>
+     </item>
 
-    <item id="080" category="Accessory">
+     <item id="080" category="Accessory">
             <name>Fuzzy Earflap Beanie</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_102063261.jpg"/></photo>
             <type>Accessory</type>
             <colors>
                 <color type="primary">Red</color>
             </colors>
-            <sizes>
-                one size
-            </sizes>
+            <sizes>one size</sizes>
             <brand>THE NORTH FACE</brand>
             <price>40.00</price>
             <sku>#295434</sku>
@@ -1933,9 +1739,9 @@
                 <material>Other</material>
             </materials>
             <season>Winter</season>
-    </item>
+     </item>
 
-    <item id="081" category="Clothing">
+     <item id="081" category="Clothing">
             <name>Contrasting Jacket</name>
             <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8349/400/800/2/w/560/8349400800_2_1_1.jpg?ts=1512032089341"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/8349/400/800/2/w/560/8349400800_2_2_1.jpg?ts=1511960337411"/></photo>
@@ -1943,9 +1749,7 @@
             <colors>
                 <color type="primary">Green</color>
             </colors>
-            <sizes>
-                Medium
-            </sizes>
+            <sizes>Medium</sizes>
             <brand>Banana Republic</brand>
             <price>109.00</price>
             <sku>8349/400</sku>
@@ -1956,9 +1760,9 @@
                 <material>Cotton</material>
             </materials>
             <season>Fall, Winter</season>
-    </item>
+     </item>
 
-<item id="082" category="Clothing">
+     <item id="082" category="Clothing">
         <name>Twist Knit Scarf</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6771/305/600/2/w/560/6771305600_2_5_1.jpg?ts=1511948413507"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6771/305/600/2/w/560/6771305600_2_6_1.jpg?ts=1511948421038"/></photo>
@@ -1967,9 +1771,7 @@
             <color type="primary">Red</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Large
-        </sizes>
+        <sizes>Large</sizes>
         <brand>Timberland</brand>
         <price>39.99</price>
         <sku>6771/305</sku>
@@ -1981,9 +1783,9 @@
 
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-<item id="083" category="Accessory">
+     <item id="083" category="Accessory">
         <name>Twist Knit Scarf</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6247/329/401/2/w/560/6247329401_2_5_1.jpg?ts=1510741971441"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6247/329/401/2/w/560/6247329401_2_3_1.jpg?ts=1510741958427"/></photo>
@@ -1992,9 +1794,7 @@
             <color type="primary">Yellow</color>
 
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>29.99</price>
         <sku>6247/329</sku>
@@ -2005,9 +1805,9 @@
             <material>Cotton</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-<item id="084" category="Shoes">
+     <item id="084" category="Shoes">
         <name>Black Soft Boot</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5605/202/040/2/w/560/5605202040_2_2_1.jpg?ts=1512050892000"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5605/202/040/2/w/560/5605202040_2_25_1.jpg?ts=1512050892000"/></photo>
@@ -2015,9 +1815,7 @@
         <colors>
             <color type="primary">Black</color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Timberland</brand>
         <price>119.99</price>
         <sku>5605/202</sku>
@@ -2028,9 +1826,9 @@
             <material>Leather</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-<item id="085" category="Accessory">
+     <item id="085" category="Accessory">
         <name>Bracelet</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/0267/306/400/2/w/560/0267306400_1_1_1.jpg?ts=1512384835471"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/0267/306/400/2/w/560/0267306400_2_3_1.jpg?ts=1512384829939"/></photo>
@@ -2039,9 +1837,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>19.99</price>
         <sku>5605/306</sku>
@@ -2052,9 +1848,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="086" category="Accessory">
+     <item id="086" category="Accessory">
         <name>Leather Gloves</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6388/316/800/2/w/560/6388316800_1_1_1.jpg?ts=1506075205080"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6388/316/800/2/w/560/6388316800_2_1_1.jpg?ts=1506075198680"/></photo>
@@ -2063,9 +1859,7 @@
             <color type="primary">Black</color>
             <color type="secondary">Brown</color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
         <price>39.99</price>
         <sku>6605/316</sku>
@@ -2076,9 +1870,9 @@
             <material>Leather</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
-<item id="087" category="Accessory">
+     <item id="087" category="Accessory">
         <name>Hat With Faux Fur Interior</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3920/357/505/2/w/560/3920357505_1_1_1.jpg?ts=1511181334506"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3920/357/505/2/w/560/3920357505_2_4_1.jpg?ts=1510939867937"/></photo>
@@ -2087,9 +1881,7 @@
             <color type="primary">Green</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>29.90</price>
         <sku>3605/357</sku>
@@ -2100,9 +1892,9 @@
             <material>Leather</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-<item id="088" category="Accessory">
+     <item id="088" category="Accessory">
         <name>Intarsia Socks</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/409/2/w/560/3334345409_1_1_1.jpg?ts=1510741809042"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/409/2/w/560/3334345409_2_1_1.jpg?ts=1510741803229"/></photo>
@@ -2111,9 +1903,7 @@
             <color type="primary">Blue</color>
             <color type="secondary">Red</color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>9.90</price>
         <sku>3335/347</sku>
@@ -2124,9 +1914,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="089" category="Clothing">
+     <item id="089" category="Clothing">
         <name>Swimming Trunks</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6658/327/250/2/w/560/6658327250_1_1_1.jpg?ts=1502987127426"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6658/327/250/2/w/560/6658327250_2_1_1.jpg?ts=1502987120781"/></photo>
@@ -2135,9 +1925,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
         <price>29.90</price>
         <sku>6634/327</sku>
@@ -2148,9 +1936,9 @@
             <material>Polyester</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-<item id="090" category="Clothing">
+     <item id="090" category="Clothing">
         <name>Perforted Jacket</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/3548/450/800/2/w/560/3548450800_2_1_1.jpg?ts=1512128861562"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/3548/450/800/2/w/560/3548450800_2_5_1.jpg?ts=1512128898394"/></photo>
@@ -2159,9 +1947,7 @@
             <color type="primary">Black</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>89.90</price>
         <sku>3634/450</sku>
@@ -2172,9 +1958,9 @@
             <material>Leather</material>
         </materials>
         <season>Fall, Winter</season>
-    </item>
+     </item>
 
-<item id="091" category="Clothing">
+     <item id="091" category="Clothing">
         <name>Shirt With Contrasting Stripes</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6425/694/401/2/w/560/6425694401_2_3_1.jpg?ts=1511978248154"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6425/694/401/2/w/560/6425694401_2_2_1.jpg?ts=1511884570279"/></photo>
@@ -2183,9 +1969,7 @@
             <color type="primary">Black</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Small
-        </sizes>
+        <sizes>Small</sizes>
         <brand>Banana Republic</brand>
         <price>49.90</price>
         <sku>6454/644</sku>
@@ -2196,9 +1980,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="092" category="Shoes">
+     <item id="092" category="Shoes">
         <name>Blue Velvet Sneakers</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5472/202/010/2/w/560/5472202010_2_3_1.jpg?ts=1508864625046"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5472/202/010/2/w/560/5472202010_2_6_1.jpg?ts=1508864866225"/></photo>
@@ -2207,9 +1991,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Timberland</brand>
         <price>49.99</price>
         <sku>5475/202</sku>
@@ -2220,9 +2002,9 @@
             <material>Other</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-<item id="093" category="Shoes">
+     <item id="093" category="Shoes">
         <name>Leather Shoes</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5019/202/010/2/w/560/5019202010_2_2_1.jpg?ts=1508247930957"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5019/202/010/2/w/560/5019202010_2_4_1.jpg?ts=1508248053179"/></photo>
@@ -2231,9 +2013,7 @@
             <color type="primary">Gray</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Zara</brand>
         <price>96.99</price>
         <sku>5019/202</sku>
@@ -2244,9 +2024,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="094" category="Clothing">
+     <item id="094" category="Clothing">
         <name>Viscose Shirt</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6534/753/600/2/w/560/6534753600_2_1_1.jpg?ts=1511273739919"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6534/753/600/2/w/560/6534753600_2_2_1.jpg?ts=1511273748258"/></photo>
@@ -2255,9 +2035,7 @@
             <color type="primary">Yellow</color>
             <color type="secondary">Orange</color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Banana Republic</brand>
         <price>49.90</price>
         <sku>6554/744</sku>
@@ -2268,9 +2046,9 @@
             <material>Cotton</material>
         </materials>
         <season>Summer</season>
-    </item>
+     </item>
 
-<item id="095" category="Accessory">
+     <item id="095" category="Accessory">
         <name>Leather Bracelet</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/0267/300/700/2/w/560/0267300700_1_1_1.jpg?ts=1512384682449"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/0267/300/700/2/w/560/0267300700_2_3_1.jpg?ts=1512384676606"/></photo>
@@ -2279,9 +2057,7 @@
             <color type="primary">Brown</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Small
-        </sizes>
+        <sizes>Small</sizes>
         <brand>Zara</brand>
         <price>19.99</price>
         <sku>5605/306</sku>
@@ -2292,9 +2068,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="096" category="Accessory">
+     <item id="096" category="Accessory">
         <name>Leather Belt</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/5919/313/800/2/w/560/5919313800_1_1_1.jpg?ts=1512149752643"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/0/2/p/5919/313/800/2/w/560/5919313800_2_1_1.jpg?ts=1512149746581"/></photo>
@@ -2303,9 +2079,7 @@
             <color type="primary">Black</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Timberland</brand>
         <price>35.99</price>
         <sku>5905/313</sku>
@@ -2316,9 +2090,9 @@
             <material>Leather</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="097" category="Accessory">
+     <item id="097" category="Accessory">
         <name>Twist Knit Scarf</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6771/307/707/2/w/560/6771307707_2_6_1.jpg?ts=1511960632391"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6771/307/707/2/w/560/6771307707_2_1_1.jpg?ts=1511948453751"/></photo>
@@ -2327,9 +2101,7 @@
             <color type="primary">Brown</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>29.99</price>
         <sku>7661/37</sku>
@@ -2340,9 +2112,9 @@
             <material>Cotton</material>
         </materials>
         <season>Winter</season>
-    </item>
+     </item>
 
-<item id="098" category="Clothing">
+     <item id="098" category="Clothing">
         <name>Shirt With Elbow Patches</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/401/2/w/560/0975301401_2_1_1.jpg?ts=1511888309200"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0975/301/401/2/w/560/0975301401_2_2_1.jpg?ts=1511888315026"/></photo>
@@ -2351,9 +2123,7 @@
             <color type="primary">Blue</color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-            Large
-        </sizes>
+        <sizes>Large</sizes>
         <brand>Banana Republic</brand>
         <price>49.90</price>
         <sku>0954/301</sku>
@@ -2364,9 +2134,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="099" category="Clothing">
+     <item id="099" category="Clothing">
         <name>Argyle Socks</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/505/2/w/560/3334345505_1_1_1.jpg?ts=1510741828316"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/505/2/w/560/3334345505_2_1_1.jpg?ts=1510741822492"/></photo>
@@ -2375,9 +2145,7 @@
             <color type="primary">Brown</color>
             <color type="secondary">Yellow</color>
         </colors>
-        <sizes>
-            Medium
-        </sizes>
+        <sizes>Medium</sizes>
         <brand>Zara</brand>
         <price>9.90</price>
         <sku>3334/345</sku>
@@ -2388,9 +2156,9 @@
             <material>Cotton</material>
         </materials>
         <season>All-Season</season>
-    </item>
+     </item>
 
-<item id="0100" category="Shoes">
+     <item id="0100" category="Shoes">
         <name>Leather Sporty Ankle Boots</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_5_1.jpg?ts=1511375496101"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_1_1.jpg?ts=1511375204943"/></photo>
@@ -2398,9 +2166,7 @@
         <colors>
             <color type="primary">Brown</color>
         </colors>
-        <sizes>
-            6-12
-        </sizes>
+        <sizes>6-12</sizes>
         <brand>Zara</brand>
         <price>99.99</price>
         <sku>2019/302</sku>
@@ -2411,11 +2177,11 @@
             <material>Leather</material>
         </materials>
         <season>Spring, Fall, Winter</season>
-    </item>
+     </item>
 </catalog>
 
 <!--
- <item id="0XX" category="Clothing">
+     <item id="0XX" category="Clothing">
         <name></name>
         <photo><img width="150" height="150" src=""/></photo>
         <type></type>
@@ -2423,8 +2189,7 @@
             <color type="primary"></color>
             <color type="secondary"></color>
         </colors>
-        <sizes>
-        </sizes>
+        <sizes></sizes>
         <brand></brand>
         <price></price>
         <sku></sku>
@@ -2436,5 +2201,5 @@
             <material></material>
         </materials>
         <season></season>
-    </item>
+     </item>
 -->
