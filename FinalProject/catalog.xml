@@ -2361,7 +2361,7 @@
         <season>All-Season</season>
     </item>
 
-<item id="093" category="Shoes">
+<item id="0100" category="Shoes">
         <name>Leather Sporty Ankle Boots</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_5_1.jpg?ts=1511375496101"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_1_1.jpg?ts=1511375204943"/></photo>
