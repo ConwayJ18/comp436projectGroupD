@@ -1,7 +1,7 @@
 # comp436projectGroupD
 For Group D's final COMP 436 project. (Jess Conway, Ting Liu, Yang Li, Waleed Alduraywish)
 
-Progress by Week-----
+<h1>Progress by Week-----</h1>
 
 WEEK 1: Groups were assigned and ideas were pitched for the final project. Nothing was decided on but everyone had an idea for what we should do and that seemed like sufficient progress for the week. We then decided that we would vote in class the following week. We also created a Google Hangout for easier out-of-class communication
 
