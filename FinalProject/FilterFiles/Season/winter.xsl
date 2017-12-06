@@ -27,8 +27,12 @@
             </tr>
             <xsl:for-each select="catalog/item[season='Winter'] | catalog/item[season='Fall, Winter'] | catalog/item[season='Spring, Fall, Winter']">
         <tr>
-
-                    <td><xsl:copy-of select="photo/node()"/></td>
+          <a>
+              <xsl:attribute name="href">
+                  <xsl:value-of select="photo/img/@src"/>
+              </xsl:attribute>
+              <xsl:copy-of select="photo/node()"/>
+              </a>
 					<td align="Middle"><xsl:value-of select="name"/></td>
           <td align="Middle"><xsl:value-of select="type"/></td>
 
