@@ -1514,7 +1514,7 @@
 
 
     <item id="059" category="Accessory">
-        <name>'X Crossover' Ring</name>
+        <name>X Crossover Ring</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_8762104.jpg"/></photo>
         <type>Accessory</type>
         <colors>
@@ -1572,7 +1572,7 @@
             <type>Outerwear</type>
             <colors>
                 <color type="primary">Heather Grey</color>
-                <color type="secondary">Black></color>
+                <color type="secondary">Black</color>
             </colors>
             <sizes>
                 small - XXXLarge
@@ -1648,18 +1648,20 @@
     </item>
 
     <item id="064" category="Accessory">
-            <name>'Lexington' Chronograph Bracelet Watch</name>
-            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
+            <name>Lexington Chronograph Bracelet Watch</name>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_8055872.jpg"/></photo>
+            <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_8193573.jpg"/></photo>
             <type>Accessory</type>
             <colors>
-                <color type="primary">Rose Gold</color>
+                <color type="primary">Gold</color>
+                <color type="primary">Black</color>
             </colors>
             <sizes>
-                44mm
+                45mm
             </sizes>
             <brand>MICHAEL KORS</brand>
             <price>206.25</price>
-            <sku>#5000991</sku>
+            <sku>#594954</sku>
             <gender>Men</gender>
             <pattern>Other</pattern>
             <occasion>Formal, Casual</occasion>
@@ -1674,8 +1676,8 @@
 
     <item id="065" category="Accessory">
             <name>Sunglasses</name>
-            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100323901.jpg"/></photo>
-            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_100323995.jpg"/></photo>
+            <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/18/_102075998.jpg"/></photo>
+            <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102075997.jpg"/></photo>
             <type>Accessory</type>
             <colors>
                 <color type="primary">Black</color>
@@ -1885,7 +1887,7 @@
     </item>
 
     <item id="073" category="Bag">
-            <name>Bag</name>
+            <name>Julian Nylon Backpack</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102242671.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/17/_102233657.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_102242368.jpg"/></photo>
@@ -1905,7 +1907,6 @@
             <occasion>Casual</occasion>
             <materials>
                 <material>Other</material>
-
             </materials>
             <season>
               All-Season
@@ -1913,7 +1914,7 @@
     </item>
 
     <item id="074" category="Bag">
-            <name>Bag</name>
+            <name>Dafni Leather Crossbody</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102215899.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_102216725.jpg"/></photo>
@@ -1940,7 +1941,7 @@
     </item>
 
     <item id="075" category="Bag">
-            <name>Bag</name>
+            <name>Logo Leather Shopper</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/19/_102216059.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_102211387.jpg"/></photo>
             <photo position = "inside"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/0/_102211420.jpg"/></photo>
@@ -2019,7 +2020,7 @@
     </item>
 
     <item id="078" category="Shoes">
-            <name>'Romy' Pointy Toe Pump</name>
+            <name>Romy Pointy Toe Pump</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_100770367.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/4/_100770544.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/5/_100770545.jpg"/></photo>
