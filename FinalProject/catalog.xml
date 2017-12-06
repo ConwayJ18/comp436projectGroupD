@@ -546,7 +546,7 @@
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
-        <occasion></occasion>
+        <occasion>Formal</occasion>
         <materials>
             <material>Cotton</material>
             <material></material>
@@ -572,7 +572,7 @@
         <sku>6209/305</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
-        <occasion></occasion>
+        <occasion>Casual, Formal</occasion>
         <materials>
             <material>Cotton</material>
             <material></material>
@@ -770,7 +770,7 @@
         <sku>3334/347</sku>
         <gender>Men</gender>
         <pattern>Dots</pattern>
-        <occasion></occasion>
+        <occasion>Casual, Formal</occasion>
         <materials>
             <material>Cotton</material>
         </materials>
@@ -995,7 +995,7 @@
         <sku>9065/347</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
-        <occasion></occasion>
+        <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
         </materials>
