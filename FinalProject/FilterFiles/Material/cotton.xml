@@ -285,7 +285,7 @@
         5-11
         </sizes>
         <brand>Everlane</brand>
-        <price>145</price>
+        <price>145.00</price>
         <sku>53-5964</sku>
         <gender>Women</gender>
         <pattern>Solid</pattern>
@@ -303,14 +303,14 @@
             <type>Sneakers</type>
             <colors>
                 <color type="primary">Black</color>
-                <color type="secondary">Dark Grey</color>
+                <color type="secondary">Dark Gray</color>
             </colors>
             <sizes>
 			    7.5,9.5
 
             </sizes>
             <brand>Nike</brand>
-            <price>190</price>
+            <price>190.00</price>
             <sku>849557-006</sku>
             <gender>Women</gender>
             <pattern>Nets</pattern>
@@ -336,7 +336,7 @@
            S, M, L
          </sizes>
         <brand>Riot Society</brand>
-        <price>34</price>
+        <price>34.00</price>
         <sku>44395119</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
