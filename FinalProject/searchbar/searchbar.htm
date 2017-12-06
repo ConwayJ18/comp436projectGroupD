@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>XSLTProcessor Example</title>   
+
+    <input class ="searchword"/><button class = "search">Search</button>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+   
+    <script type="text/javascript">
+        //window.onload = function () {
+            //use XHR to load
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "catalog.xml", false);
+            xmlhttp.send(null);
+            var xmldom = xmlhttp.responseXML;
+            
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "default.xsl", false);
+            xmlhttp.send(null);
+            var xsltdom = xmlhttp.responseXML;  
+
+            var processor = new XSLTProcessor();
+            processor.importStylesheet(xsltdom);
+
+            $(".search").on("click", function(){
+            var div = document.getElementById("divResult");
+            $("#divResult").html("");
+            var searchword = $(".searchword").val();
+            console.log("searchword is: ", searchword);
+            processor.setParameter(null, "message", searchword);
+            var fragment = processor.transformToFragment(xmldom, document);        
+            div.append(fragment);
+            
+            });                       
+
+      //  }
+    </script>           
+</head>
+<body>
+    <div id="divResult"></div>
+</body>
+</html>
