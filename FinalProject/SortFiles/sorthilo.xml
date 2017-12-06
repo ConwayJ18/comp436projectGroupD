@@ -182,7 +182,7 @@
         <price>117.99</price>
         <sku>#874213</sku>
         <gender>Women</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>
@@ -215,7 +215,7 @@
         <price>798.00</price>
         <sku>137173826</sku>
         <gender>Women</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal, Casual</occasion>
         <materials>
             <material>
@@ -337,7 +337,7 @@
             <price>190</price>
             <sku>849557-006</sku>
             <gender>Women</gender>
-            <pattern>Other</pattern>
+            <pattern>Solid</pattern>
             <occasion>Sports</occasion>
             <materials>
                 <material>
@@ -494,15 +494,15 @@
         <price>69.90</price>
         <sku>5602/202</sku>
         <gender>Men</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
             <material></material>
-            <season>
-              Spring, Fall, Winter
-            </season>
         </materials>
+        <season>
+          Spring, Fall, Winter
+        </season>
     </item>
   <item id="019" category="Clothing">
         <name>Pique Puffer Jacket</name>
@@ -519,7 +519,7 @@
         <price>79.90</price>
         <sku>1608/419</sku>
         <gender>Men</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Other</material>
@@ -576,10 +576,10 @@
         <materials>
             <material>Cotton</material>
             <material></material>
-            <season>
-              All-Season
-            </season>
         </materials>
+        <season>
+          All-Season
+        </season>
     </item>
     <item id="022" category="Clothing">
         <name>Puffer Jacket</name>
@@ -595,7 +595,7 @@
         <price>89.90</price>
         <sku>5475/400</sku>
         <gender>Men</gender>
-        <pattern>Dots</pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Other</material>
@@ -646,7 +646,7 @@
         <price>79.90</price>
         <sku>3918/401</sku>
         <gender>Men</gender>
-        <pattern>Dots</pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>other</material>
@@ -670,7 +670,7 @@
         <price>49.99</price>
         <sku>5303/202</sku>
         <gender>Men</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
@@ -794,7 +794,7 @@
         <price>35.90</price>
         <sku>5665/307</sku>
         <gender>Men</gender>
-        <pattern>Plaid</pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
@@ -817,7 +817,7 @@
         <price>149.00</price>
         <sku>6861/379</sku>
         <gender>Men</gender>
-        <pattern>Other</pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Cotton</material>
@@ -1019,7 +1019,7 @@
         <price>69.90</price>
         <sku>5447/202</sku>
         <gender>Men</gender>
-        <pattern>Dots</pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Polyester </material>
@@ -1046,7 +1046,7 @@
         <price>49.90</price>
         <sku>6103/303</sku>
         <gender>Men</gender>
-        <pattern>Stripe</pattern>
+        <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
@@ -1609,7 +1609,7 @@
             <price>99.92</price>
             <sku>#5435460</sku>
             <gender>Men</gender>
-            <pattern>Other</pattern>
+            <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>Other</material>
@@ -1663,7 +1663,7 @@
             <price>206.25</price>
             <sku>#594954</sku>
             <gender>Men</gender>
-            <pattern>Other</pattern>
+            <pattern>Solid</pattern>
             <occasion>Formal, Casual</occasion>
             <materials>
                 <material>Other</material>
@@ -1792,7 +1792,7 @@
             <price>138.00</price>
             <sku>#5524727</sku>
             <gender>Women</gender>
-            <pattern>Other</pattern>
+            <pattern>Plaid</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>Wool </material>
@@ -2256,7 +2256,7 @@
         <price>29.90</price>
         <sku>3605/357</sku>
         <gender>Men</gender>
-        <pattern>Solid</pattern>
+        <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
@@ -2271,7 +2271,7 @@
         <type>Socks</type>
         <colors>
             <color type="primary">Blue</color>
-            <color type="secondary"></color>
+            <color type="secondary">Red</color>
         </colors>
         <sizes>
             Medium
@@ -2280,7 +2280,7 @@
         <price>9.90</price>
         <sku>3335/347</sku>
         <gender>Men</gender>
-        <pattern>Stripe</pattern>
+        <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
@@ -2535,7 +2535,7 @@
         <type>Socks</type>
         <colors>
             <color type="primary">Brown</color>
-            <color type="secondary"></color>
+            <color type="secondary">Yellow</color>
         </colors>
         <sizes>
             Medium
@@ -2544,7 +2544,7 @@
         <price>9.90</price>
         <sku>3334/345</sku>
         <gender>Men</gender>
-        <pattern>Stripe</pattern>
+        <pattern>Plaid</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>

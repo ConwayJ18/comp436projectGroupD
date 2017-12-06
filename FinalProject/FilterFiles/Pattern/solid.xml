@@ -499,10 +499,10 @@
         <materials>
             <material>Leather</material>
             <material></material>
-            <season>
-              Spring, Fall, Winter
-            </season>
         </materials>
+        <season>
+          Spring, Fall, Winter
+        </season>
     </item>
   <item id="019" category="Clothing">
         <name>Pique Puffer Jacket</name>
@@ -576,10 +576,10 @@
         <materials>
             <material>Cotton</material>
             <material></material>
-            <season>
-              All-Season
-            </season>
         </materials>
+        <season>
+          All-Season
+        </season>
     </item>
     <item id="022" category="Clothing">
         <name>Puffer Jacket</name>
