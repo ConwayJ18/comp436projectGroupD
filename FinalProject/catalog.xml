@@ -150,10 +150,9 @@
         <type>Shirt</type>
         <colors>
             <color type="primary">Soft Pink</color>
-            <color type="secondary"></color>
         </colors>
         <sizes>
-			XS-XL
+			       XS-XL
         </sizes>
         <brand>Banana Republic</brand>
         <price>59.00</price>
@@ -180,14 +179,13 @@
             <color type="secondary">White</color>
         </colors>
         <sizes>
-
              0-16
         </sizes>
         <brand>Banana Republic</brand>
         <price>117.99</price>
         <sku>#874213</sku>
         <gender>Women</gender>
-        <pattern>Herringbone</pattern>
+        <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>
@@ -214,15 +212,13 @@
             <color type="secondary"></color>
         </colors>
         <sizes>
-
 			0-12
-
         </sizes>
         <brand>Ralph Lauren</brand>
         <price>798.00</price>
         <sku>137173826</sku>
         <gender>Women</gender>
-        <pattern>TWEED</pattern>
+        <pattern>Other</pattern>
         <occasion>Formal, Casual</occasion>
         <materials>
             <material>
@@ -344,7 +340,7 @@
             <price>190</price>
             <sku>849557-006</sku>
             <gender>Women</gender>
-            <pattern>Nets</pattern>
+            <pattern>Other</pattern>
             <occasion>Sports</occasion>
             <materials>
                 <material>
@@ -504,7 +500,7 @@
         <price>69.90</price>
         <sku>5602/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
@@ -529,7 +525,7 @@
         <price>79.90</price>
         <sku>1608/419</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material></material>
@@ -631,7 +627,7 @@
         <price>29.99</price>
         <sku>5462/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material></material>
@@ -682,7 +678,7 @@
         <price>49.99</price>
         <sku>5303/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
@@ -827,7 +823,6 @@
         <type>Outerwear</type>
         <colors>
             <color type="primary">Black</color>
-            <color type="secondary"></color>
         </colors>
         <sizes>
             S-XL
@@ -836,7 +831,7 @@
         <price>149.00</price>
         <sku>6861/379</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Cotton</material>
@@ -862,7 +857,7 @@
         <price>39.99</price>
         <sku>5049/202</sku>
         <gender>Men</gender>
-        <pattern>solid</pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
@@ -939,7 +934,7 @@
         <price>99.90</price>
         <sku>5055/202</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
@@ -965,11 +960,10 @@
         <price>109.00</price>
         <sku>4341/388</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material></material>
-            <material></material>
+            <material>Other</material>
         </materials>
         <season>
           Spring, Fall
@@ -991,11 +985,10 @@
         <price>39.90</price>
         <sku>2295/301</sku>
         <gender>Men</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Polyester</material>
-            <material></material>
         </materials>
         <season>
           Summer
@@ -1021,7 +1014,6 @@
         <occasion></occasion>
         <materials>
             <material>Cotton</material>
-            <material></material>
         </materials>
         <season>
           Winter
@@ -1069,7 +1061,7 @@
         <price>49.90</price>
         <sku>6103/303</sku>
         <gender>Men</gender>
-        <pattern>Strip</pattern>
+        <pattern>Stripe</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
@@ -1095,7 +1087,7 @@
         <price>168.00</price>
         <sku>wbrue810</sku>
         <gender>Women</gender>
-        <pattern></pattern>
+        <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
             <material>Plated metal</material>
@@ -1195,7 +1187,7 @@
         <price>89.00</price>
         <sku>5495143</sku>
         <gender>Women</gender>
-        <pattern>Lace</pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Polyester</material>
@@ -1636,7 +1628,7 @@
             <price>99.92</price>
             <sku>#5435460</sku>
             <gender>Men</gender>
-            <pattern>Quilted</pattern>
+            <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>down</material>
@@ -1690,7 +1682,7 @@
             <price>206.25</price>
             <sku>#5000991</sku>
             <gender>Men</gender>
-            <pattern></pattern>
+            <pattern>Other</pattern>
             <occasion>Formal, Casual</occasion>
             <materials>
                 <material>Stainless stee</material>
@@ -1716,7 +1708,7 @@
             <price>345.00</price>
             <sku>#5453355</sku>
             <gender>Men</gender>
-            <pattern></pattern>
+            <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>Acetate</material>
@@ -1823,7 +1815,7 @@
             <price>138.00</price>
             <sku>#5524727</sku>
             <gender>Women</gender>
-            <pattern>Checked</pattern>
+            <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>wool</material>
@@ -2093,7 +2085,7 @@
             <price>435</price>
             <sku>#192929</sku>
             <gender>Women</gender>
-            <pattern>Checked</pattern>
+            <pattern>Plaid</pattern>
             <occasion>Casual</occasion>
             <materials>
                 <material>cashmere</material>
@@ -2543,7 +2535,7 @@
         <price>29.99</price>
         <sku>7661/37</sku>
         <gender>Men</gender>
-        <pattern>Others</pattern>
+        <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
