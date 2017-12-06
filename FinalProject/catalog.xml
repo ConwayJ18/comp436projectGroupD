@@ -147,7 +147,7 @@
 	<item id="006" category= "Clothing">
         <name>Long-Sleeve Tie-Neck Top</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0014/036/468/cn14036468.jpg;"/></photo>
-        <type>Blouse</type>
+        <type>Shirt</type>
         <colors>
             <color type="primary">Soft Pink</color>
             <color type="secondary"></color>
@@ -174,7 +174,7 @@
 	 <item id="007" category="Clothing">
         <name>Herringbone Bow-Neck Jacket</name>
         <photo><img width="150" height="150" src="http://bananarepublic.gap.com/webcontent/0013/965/419/cn13965419.jpg;"/></photo>
-        <type>JACKETS</type>
+        <type>Outerwear</type>
         <colors>
             <color type="primary">Black</color>
             <color type="secondary">White</color>
@@ -208,7 +208,7 @@
 	<item id="008" category="Clothing">
         <name>DONEGAL TWEED OPEN-FRONT COAT</name>
         <photo><img width="150" height="150" src="http://s7d2.scene7.com/is/image/PoloGSI/s7-1264314_standard"/></photo>
-        <type>Coat</type>
+        <type>Outerwear</type>
         <colors>
             <color type="primary">BROWN</color>
             <color type="secondary"></color>
@@ -362,7 +362,7 @@
     <item id="013" category="Clothing">
         <name>Riot Society Embroidered 40 Tee</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44395119_010_b"/></photo>
-        <type>T-shirt</type>
+        <type>Shirt</type>
         <colors>
             <color type="primary">White</color>
         </colors>
@@ -569,7 +569,7 @@
         <item id="021" category="Clothing">
         <name>Shimmery Socks</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6209/305/500/2/w/560/6209305500_1_1_1.jpg?ts=1511526259488"/></photo>
-        <type>Sock</type>
+        <type>Socks</type>
         <colors>
             <color type="primary">Green</color>
             <color type="secondary">Black</color>
@@ -796,7 +796,7 @@
         </season>
     </item>
 
-<item id="030" category="Clothing">
+<item id="030" category="Accessory">
         <name>Jacquard Fringed Scarf</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/5665/307/600/2/w/560/5665307600_1_1_1.jpg?ts=1511526070778"/></photo>
         <type>Accessory</type>
@@ -898,7 +898,7 @@
         </season>
     </item>
 
-    <item id="034" category="Clothing">
+    <item id="034" category="Accessory">
         <name>Jacquard Scarf</name>
         <photo><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/0693/393/401/2/w/560/0693393401_1_1_1.jpg?ts=1510916043616"/></photo>
         <type>Accessory</type>
@@ -1109,7 +1109,7 @@
     <item id="042" category="Clothing">
         <name>Embroidered Hooded Sweatshirt</name>
         <photo><img width="150" height="150" src="https://assets.burberry.com/is/image/Burberryltd/2d2bdfca150f86b50704be140939d19801371373.jpg"/></photo>
-        <type>shirt</type>
+        <type>Shirt</type>
         <colors>
             <color type="primary">red</color>
         </colors>
@@ -1159,7 +1159,7 @@
     <item id="044" category="Clothing">
         <name>Bryn High Rise Cutoff Denim Shorts</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/16/_102077556.jpg"/></photo>
-        <type>Shorts</type>
+        <type>Short</type>
         <colors>
             <color type="primary">White</color>
         </colors>
@@ -1259,7 +1259,7 @@
     <item id="048" category="Clothing">
         <name>Jane Shorts</name>
         <photo><img width="150" height="150" src="https://cdn.shopify.com/s/files/1/1094/6908/products/Luo_N_TheWork_116_74aa5904-848d-4f8a-82f8-3df2fa344a55.jpg?v=1510271144"/></photo>
-        <type>Shorts</type>
+        <type>Short</type>
         <colors>
             <color type="primary">Black</color>
             <color type="secondary">White</color>
@@ -1287,7 +1287,7 @@
     <item id="049" category="Clothing">
         <name>UO Oversized Chenille V-Neck Sweater</name>
         <photo><img width="150" height="150" src="https://images.urbanoutfitters.com/is/image/UrbanOutfitters/44185619_072_f"/></photo>
-        <type>Sweater</type>
+        <type>Shirt</type>
         <colors>
             <color type="primary">Yellow</color>
         </colors>
@@ -1411,7 +1411,7 @@
     <item id="054" category="Clothing">
         <name>Eva Removable Turtleneck Sweater</name>
         <photo><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/14/_101950054.jpg"/></photo>
-        <type></type>
+        <type>Shirt</type>
         <colors>
             <color type="primary">Orange</color>
         </colors>
@@ -1596,7 +1596,7 @@
             <name>Wool Blend Double Breasted Peacoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_102105292.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/11/_102105291.jpg"/></photo>
-            <type>Outwear</type>
+            <type>Outerwear</type>
             <colors>
                 <color type="primary">Heather Grey</color>
                 <color type="secondary">Black></color>
@@ -1624,7 +1624,7 @@
             <name>Packable Stretch Down Jacket</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_101366732.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_101367003.jpg"/></photo>
-            <type>Outwear</type>
+            <type>Outerwear</type>
             <colors>
                 <color type="primary">Mulberry red</color>
                 <color type="secondary">Black></color>
@@ -1653,7 +1653,7 @@
             <name>Sheffield Classic Fit Wool and Cashmere Overcoat</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/12/_11522132.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/8/_11522128.jpg"/></photo>
-            <type>Outwear</type>
+            <type>Outerwear</type>
             <colors>
                 <color type="primary">Black</color>
                 <color type="secondary">NaveBlack></color>
@@ -1782,7 +1782,7 @@
             <name>Dolman Sleeve Sweater</name>
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/15/_101289535.jpg"/></photo>
             <photo position = "back"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/7/_101289967.jpg"/></photo>
-            <type>Sweater</type>
+            <type>Shirt</type>
             <colors>
                 <color type="primary">Pink adobe</color>
                 <color type="secondary">Black</color>
@@ -1894,7 +1894,7 @@
             <photo position = "front"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/3/_100876763.jpg"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/1/_100877041.jpg"/></photo>
             <photo position = "top"><img width="150" height="150" src="https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/13/_100876733.jpg"/></photo>
-            <type>Boot</type>
+            <type>Shoes</type>
             <colors>
                 <color type="primary">Greystone Suede</color>
                 <color type="secondary">Black</color>
@@ -2175,7 +2175,7 @@
         <season>Winter</season>
     </item>
 
-<item id="083" category="Clothing">
+<item id="083" category="Accessory">
         <name>Twist Knit Scarf</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6247/329/401/2/w/560/6247329401_2_5_1.jpg?ts=1510741971441"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/6247/329/401/2/w/560/6247329401_2_3_1.jpg?ts=1510741958427"/></photo>
@@ -2204,7 +2204,7 @@
         <name>Black Soft Boot</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5605/202/040/2/w/560/5605202040_2_2_1.jpg?ts=1512050892000"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/5605/202/040/2/w/560/5605202040_2_25_1.jpg?ts=1512050892000"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Black</color>
             <color type="secondary"></color>
@@ -2306,7 +2306,7 @@
         <name>Intarsia Socks</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/409/2/w/560/3334345409_1_1_1.jpg?ts=1510741809042"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/409/2/w/560/3334345409_2_1_1.jpg?ts=1510741803229"/></photo>
-        <type>Sock</type>
+        <type>Socks</type>
         <colors>
             <color type="primary">Blue</color>
             <color type="secondary"></color>
@@ -2406,7 +2406,7 @@
         <name>Blue Velvet Sneakers</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5472/202/010/2/w/560/5472202010_2_3_1.jpg?ts=1508864625046"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5472/202/010/2/w/560/5472202010_2_6_1.jpg?ts=1508864866225"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Blue</color>
             <color type="secondary"></color>
@@ -2431,7 +2431,7 @@
         <name>Leather Shoes</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5019/202/010/2/w/560/5019202010_2_2_1.jpg?ts=1508247930957"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/1/2/p/5019/202/010/2/w/560/5019202010_2_4_1.jpg?ts=1508248053179"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Gray</color>
             <color type="secondary"></color>
@@ -2577,11 +2577,11 @@
         <season>All-Season</season>
     </item>
 
-<item id="099" category="Accessory">
+<item id="099" category="Clothing">
         <name>Argyle Socks</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/505/2/w/560/3334345505_1_1_1.jpg?ts=1510741828316"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2017/I/0/2/p/3334/345/505/2/w/560/3334345505_2_1_1.jpg?ts=1510741822492"/></photo>
-        <type>Sock</type>
+        <type>Socks</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary"></color>
@@ -2606,7 +2606,7 @@
         <name>Leather Sporty Ankle Boots</name>
         <photo position = "front"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_5_1.jpg?ts=1511375496101"/></photo>
             <photo position = "side"><img width="150" height="150" src="https://static.zara.net/photos///2018/V/1/2/p/2003/302/100/2/w/560/2003302100_2_1_1.jpg?ts=1511375204943"/></photo>
-        <type>Shoe</type>
+        <type>Shoes</type>
         <colors>
             <color type="primary">Brown</color>
             <color type="secondary"></color>
