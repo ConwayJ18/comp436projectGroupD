@@ -24,7 +24,7 @@
                 <th>Occasion</th>
                 <th>Material</th>
             </tr>
-            <xsl:for-each select="catalog/item[season='summer']">
+            <xsl:for-each select="catalog/item[season='Summer']">
         <tr>
 
                     <td><xsl:copy-of select="photo/node()"/></td>
