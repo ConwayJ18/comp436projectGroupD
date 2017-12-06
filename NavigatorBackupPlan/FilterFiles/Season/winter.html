@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Fashion Tag</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            //use XHR to load
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "winter.xml", false);
+            xmlhttp.send(null);
+            var xmldom = xmlhttp.responseXML;
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("get", "winter.xsl", false);
+            xmlhttp.send(null);
+            var xsltdom = xmlhttp.responseXML;
+            var processor = new XSLTProcessor();
+            processor.importStylesheet(xsltdom);
+            var fragment = processor.transformToFragment(xmldom, document);
+            var div = document.getElementById("divResult");
+            div.appendChild(fragment);
+        }
+    </script>
+    <header class="container-fluid">
+      Fashion <img src ="logo.png" alt="logo" style="width:60px;height:60px;">  Catalog
+      <h2>Search Millions of Fashion Products </h2>
+    </header>
+</head>
+
+<body>
+  <div class="row">
+             <!-- left side  -->
+    <div class="col-2 menu"style = "background-color: #f1f1f1;">
+    <img src="logo.png" alt="logo" ALIGN = "left"/style="width:60px;height:60px;">
+
+    <input class ="searchword"/><button class = "search">Search</button>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+      <link rel="stylesheet" type="text/css" href="style.css">
+     <script src="search.js"></script><br>
+
+  <!-- Side Nav -->
+  <div class="sidenav">
+  <div class="menu-item">
+  <h4> <a href="#">Price</a></h4>
+  <ul>
+   <li><a href="#">Low-High</a></li>
+   <li><a href="#">High-Low</a></li>
+  </ul>
+   </div>
+   <div class="menu-item">
+  <h4> <a href="#">Name</a></h4>
+  <ul>
+    <li><a href="#">A-Z</a></li>
+    <li><a href="#">Z-A</a></li>
+  </ul>
+    </div>
+
+  <div class="menu-item">
+  <h4> <a href="#">Gender</a></h4>
+  <ul>
+    <li><a href="men.html">Men</a></li>
+    <li><a href="women.html">Women</a></li>
+    <li><a href="unisex.html">Unisex</a></li>
+  </ul>
+  </div>
+  <div class="menu-item">
+  <h4> <a href="#">Type</a></h4>
+  <ul>
+    <li><a href="#">Shirts</a></li>
+    <li><a href="#">Outerwear</a></li>
+    <li><a href="#">Dresses/Skirts</a></li>
+    <li><a href="#">Pants</a></li>
+    <li><a href="#">Shorts</a></li>
+    <li><a href="#">Shoes</a></li>
+    <li><a href="#">Socks</a></li>
+    <li><a href="#">Underwear</a></li>
+    <li><a href="#">Bags</a></li>
+    <li><a href="#">Accessories</a></li>
+  </ul>
+  </div>
+  <div class="menu-item">
+  <h4> <a href="#">Color</a></h4>
+  <ul>
+    <li><a href="#">Red</a></li>
+    <li><a href="#">Orange</a></li>
+    <li><a href="#">Yellow</a></li>
+    <li><a href="#">Green</a></li>
+    <li><a href="#">Blue</a></li>
+    <li><a href="#">Purple</a></li>
+    <li><a href="#">Brown</a></li>
+    <li><a href="#">Black</a></li>
+    <li><a href="#">Pink</a></li>
+    <li><a href="#">Gray</a></li>
+     <li><a href="#">White</a></li>
+     <li><a href="#">Other</a></li>
+  </ul>
+  </div>
+  <div class="menu-item">
+  <h4> <a href="#">Pattern</a></h4>
+  <ul>
+  <li><a href="#">Solid</a></li>
+  <li><a href="#">Stripe</a></li>
+   <li><a href="#">Plaid</a></li>
+   <li><a href="#">Dots</a></li>
+     <li><a href="#">Other</a></li>
+   </ul>
+   </div>
+   <div class="menu-item">
+   <h4> <a href="#">Occasion</a></h4>
+   <ul>
+   <li><a href="#">Formal</a></li>
+   <li><a href="#">Casual</a></li>
+    <li><a href="#">Other</a></li>
+    </ul>
+    </div>
+
+  <div class="menu-item">
+   <h4> <a href="#">Season</a></h4>
+   <ul>
+   <li><a href="spring.html">Spring</a></li>
+   <li><a href="summer.html">Summer</a></li>
+    <li><a href="fall.html">Fall</a></li>
+    <li><a href="winter.html">Winter</a></li>
+   <li><a href="any.html">All-Season</a></li>
+    </ul>
+    </div>
+  </div>
+</div>
+
+  <!-- right side -->
+     <div class="col-10" style = "background-color: #dfc5f9 " >
+       <!-- <a href="index.html"></a> -->
+       <!-- Title -->
+         <!-- <h1 style="text-align:center;">Products</h1> -->
+        <div id="divResult"></div>
+      </div>
+  </div>
+</body>
+
+<footer>
+<p>2017 Fashion Catalog. </p>
+</footer>
+
+</html>
