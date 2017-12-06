@@ -5,7 +5,7 @@
 <html>
     <head></head>
     <body>
-      Products in grid: <xsl:value-of select="count(catalog/item[material='Cotton'])"/>
+      Products in grid: <xsl:value-of select="count(catalog/item[materials/material='Cotton'])"/>
         <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">

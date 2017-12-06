@@ -5,7 +5,7 @@
 <html>
     <head></head>
     <body>
-      Products in grid: <xsl:value-of select="count(catalog/season[type='All-Season'])"/>
+      Products in grid: <xsl:value-of select="count(catalog/item[season='All-Season'])"/>
         <!-- <h2>Fashion Catalog Search</h2> -->
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
