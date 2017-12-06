@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="default.xsl"?>
-<catalog>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog.xsd">
     <item id="001" category="Clothing">
         <name>Easy-Iron Slim-Fit Shirt</name>
         <photo><img width="150" height="150" src="https://media.burton.co.uk/wcsstore/Burton/images/catalog/BR19E10LWHT_Zoom_F_1.jpg"/></photo>
