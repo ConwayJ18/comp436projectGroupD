@@ -22,6 +22,7 @@
                 <th>Gender</th>
                 <th>Pattern</th>
                 <th>Occasion</th>
+                <th>Season</th>
                 <th>Material</th>
             </tr>
             <xsl:for-each select="catalog/item[type='Short']">
@@ -49,6 +50,7 @@
                     <td align="Middle"><xsl:value-of select="gender"/></td>
                     <td align="Middle"><xsl:value-of select="pattern"/></td>
                     <td align="Middle"><xsl:value-of select="occasion"/></td>
+                    <td align="Middle"><xsl:value-of select="season"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
 					</xsl:for-each>
