@@ -24,10 +24,10 @@
             <material>
                 Cotton
             </material>
-            <season>
-            All-Season
-            </season>
         </materials>
+        <season>
+        All-Season
+        </season>
     </item>
 
     <item id="002" category="Clothing">
@@ -53,10 +53,10 @@
             <material>
               Other
             </material>
-            <season>
-              Spring, Summer
-            </season>
         </materials>
+        <season>
+          Spring, Summer
+        </season>
     </item>
 
     <item id="003" category="Shoes">
@@ -83,10 +83,10 @@
             <material>
             Other
             </material>
-            <season>
-              Spring, Summer ,Fall
-            </season>
         </materials>
+        <season>
+          Spring, Summer ,Fall
+        </season>
     </item>
 	<item id="004" category="Clothing">
         <name>Afterparty Men's Crew Sock</name>
@@ -109,10 +109,10 @@
             <material>
               Cotton
             </material>
-            <season>
-              All-Season
-            </season>
         </materials>
+        <season>
+          All-Season
+        </season>
     </item>
 	<item id="005" category="Clothing">
         <name>AEO Plaid Oxford Shirt</name>
@@ -135,10 +135,10 @@
             <material>
               Cotton
             </material>
-            <season>
-              All-Season
-            </season>
         </materials>
+        <season>
+          All-Season
+        </season>
     </item>
 
 	<item id="006" category= "Clothing">
@@ -474,10 +474,10 @@
         <materials>
             <material>Leather</material>
             <material></material>
-            <season>
-              Spring, Fall, Winter
-            </season>
         </materials>
+        <season>
+          Spring, Fall, Winter
+        </season>
     </item>
     <item id="018" category="Shoes">
         <name>Black Leather Ankle Boot</name>
