@@ -51,7 +51,7 @@
               Cotton,
             </material>
             <material>
-              Spandex
+              Other
             </material>
             <season>
               Spring
@@ -84,7 +84,7 @@
               Cotton,
             </material>
             <material>
-              Rubber
+            Other
             </material>
             <season>
               Srping,Summer,Fall
@@ -254,9 +254,9 @@
             <material>
 			Polyester,
             </material>
-			Viscose,
+
             <material>
-			Elastane
+			Other
             </material>
         </materials>
         <season>
@@ -286,10 +286,10 @@
 			Wool,
             </material>
             <material>
-			Poly,
+			Polyester,
             </material>
 			<material>
-			Elastane
+			Other
             </material>
         </materials>
         <season>
@@ -316,7 +316,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>
-                Italian leather
+                Leather
             </material>
         </materials>
         <season>
@@ -344,10 +344,7 @@
             <occasion>Sports</occasion>
             <materials>
                 <material>
-                  Fabric
-                </material>
-                <material>
-                  Rubber
+                  Other
                 </material>
             </materials>
             <season>
@@ -400,7 +397,7 @@
     <occasion>Casual</occasion>
     <materials>
         <material>
-          Fabric
+          Other
         </material>
     </materials>
     <season>
@@ -528,7 +525,7 @@
         <pattern>Other</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material></material>
+            <material>Other</material>
             <material></material>
         </materials>
         <season>
@@ -604,8 +601,8 @@
         <pattern>Dots</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material></material>
-            <material></material>
+            <material>Other</material>
+
         </materials>
         <season>
           Spring, Fall, Winter
@@ -726,7 +723,7 @@
         <sku>0975/301</sku>
         <gender>Men</gender>
         <pattern>Solid</pattern>
-        <occasion></occasion>
+        <occasion>Casual, Formal</occasion>
         <materials>
             <material>Cotton</material>
         </materials>
@@ -878,7 +875,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
-            <material></material>
         </materials>
         <season>
           Winter
@@ -904,7 +900,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
-            <material></material>
         </materials>
         <season>
           Fall, Winter
@@ -930,7 +925,7 @@
         <occasion>Formal</occasion>
         <materials>
             <material>Leather</material>
-            <material></material>
+
         </materials>
         <season>
           All-Season
@@ -1030,8 +1025,9 @@
         <pattern>Dots</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material></material>
-            <material></material>
+            <material>Polyester, </material>
+            <material>Leather, </material>
+            <material>Other</material>
         </materials>
         <season>
           All-Season
@@ -1057,7 +1053,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
-            <material></material>
         </materials>
         <season>
           Spring, Fall, Winter
@@ -1082,8 +1077,8 @@
         <pattern>Other</pattern>
         <occasion>Formal</occasion>
         <materials>
-            <material>Plated metal, </material>
-            <material>Glass stone</material>
+            <material>Other </material>
+
         </materials>
         <season>
           All-Season
@@ -1158,7 +1153,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton, </material>
-            <material>Polyurethane</material>
+            <material>Other</material>
         </materials>
         <season>
           Summer
@@ -1207,7 +1202,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather, </material>
-            <material>Textile</material>
+            <material>Other</material>
         </materials>
         <season>
           Spring, Summer
@@ -1233,7 +1228,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Polyester, </material>
-            <material>Wood</material>
+            <material>Wool</material>
         </materials>
         <season>
           Spring, Fall, Winter
@@ -1259,7 +1254,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Polyester, </material>
-            <material>Wood</material>
+            <material>Wool</material>
         </materials>
         <season>
           All-Season
@@ -1384,8 +1379,8 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather, </material>
-            <material>Shearling, </material>
-            <material>Wool</material>
+            <material>Wool, </material>
+            <material>Other</material>
         </materials>
         <season>
           Winter
@@ -1410,7 +1405,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Wool, </material>
-            <material>Polyamide </material>
+            <material>Other </material>
         </materials>
         <season>
           Fall, Winter
@@ -1436,9 +1431,8 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton, </material>
-            <material>acrylic, </material>
-            <material>Polyamide, </material>
-            <material>Viscose faux shearling lining </material>
+            <material>Other </material>
+
         </materials>
         <season>
           Spring, Fall, Winter
@@ -1464,7 +1458,7 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Metal </material>
+            <material>Other</material>
         </materials>
         <season>
           All-Season
@@ -1514,8 +1508,7 @@
         <pattern>Stripe</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Viscose, </material>
-            <material>linen</material>
+            <material>Other</material>
         </materials>
         <season>
         Spring, Fall, Winter
@@ -1541,8 +1534,8 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Sterling silver, </material>
-            <material>18-karat yellow gold</material>
+            <material>Other</material>
+
         </materials>
         <season>
           All-Season
@@ -1568,8 +1561,7 @@
         <pattern>Solid</pattern>
         <occasion>Casual</occasion>
         <materials>
-            <material>Textile, </material>
-            <material>Rubber sole</material>
+            <material>Other</material>
         </materials>
         <season>
           All-Season
@@ -1595,9 +1587,9 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>wool, </material>
-                <material>polyester, </material>
-                <material>rayon</material>
+                <material>Wool, </material>
+                <material>Polyester, </material>
+                <material>Other</material>
             </materials>
             <season>
               Spring, Fall, Winter
@@ -1623,10 +1615,8 @@
             <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>down</material>
-                <material>feather </material>
-                <material>rayon</material>
-                <material>spandex</material>
+                <material>Other</material>
+
             </materials>
             <season>
               Winter
@@ -1652,8 +1642,8 @@
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
-                <material>wool</material>
-                <material>cashmere</material>
+                <material>Wool, </material>
+                <material>Other</material>
             </materials>
             <season>
               Fall, Winter
@@ -1677,8 +1667,8 @@
             <pattern>Other</pattern>
             <occasion>Formal, Casual</occasion>
             <materials>
-                <material>Stainless stee</material>
-                <material>silvertone</material>
+                <material>Other</material>
+
             </materials>
             <season>
               All-Season
@@ -1703,8 +1693,7 @@
             <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Acetate</material>
-                <material>nylon</material>
+                <material>Other</material>
             </materials>
             <season>
               All-Season
@@ -1729,9 +1718,7 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>viscose</material>
-                <material>acetate</material>
-                <material>elastane</material>
+                <material>Other</material>
             </materials>
             <season>
               All-Season
@@ -1755,7 +1742,7 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>polyester</material>
+                <material>Polyester</material>
             </materials>
             <season>
               Spring, Fall
@@ -1781,11 +1768,10 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>cotton</material>
-                <material>polyester</material>
-                <material>nylon</material>
-                <material>wool</material>
-                <material>spandex</material>
+                <material>Cotton, </material>
+                <material>Polyester, </material>
+                <material>Wool, </material>
+                <material>Other</material>
             </materials>
             <season>
               Sping, Fall, Winter
@@ -1810,8 +1796,8 @@
             <pattern>Other</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>wool</material>
-                <material>polyester</material>
+                <material>Wool, </material>
+                <material>Polyester</material>
             </materials>
             <season>
               Spring, Fall, Winter
@@ -1837,8 +1823,8 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>cotton</material>
-                <material>polyester</material>
+                <material>Cotton, </material>
+                <material>Polyester</material>
             </materials>
             <season>
               Spring, Fall, Winter
@@ -1865,8 +1851,8 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Leather</material>
-                <material>synthetic</material>
+                <material>Leather,</material>
+                <material>Other</material>
             </materials>
             <season>
               Fal, Winter
@@ -1893,8 +1879,8 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Leather</material>
-                <material>synthetic</material>
+                <material>Leather, </material>
+                <material>Other</material>
             </materials>
             <season>
               Spring, Fall
@@ -1921,8 +1907,8 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>Nylon </material>
-                <material>polyurethane </material>
+                <material>Other</material>
+
             </materials>
             <season>
               All-Season
@@ -2002,7 +1988,7 @@
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
-                <material>polyester</material>
+                <material>Polyester</material>
             </materials>
             <season>
               Spring, Summer
@@ -2027,8 +2013,8 @@
             <pattern>Solid</pattern>
             <occasion>Formal</occasion>
             <materials>
-                <material>polyester</material>
-                <material>spandex</material>
+                <material>Polyester, </material>
+                <material>Other</material>
             </materials>
             <season>
               Spring, Summer
@@ -2080,7 +2066,7 @@
             <pattern>Plaid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>cashmere</material>
+                <material>Other</material>
             </materials>
             <season>
               Fall, Winter
@@ -2104,7 +2090,7 @@
             <pattern>Solid</pattern>
             <occasion>Casual</occasion>
             <materials>
-                <material>cashmere</material>
+                <material>Other</material>
             </materials>
             <season>
               Winter
@@ -2154,7 +2140,7 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
-            <material></material>
+
         </materials>
         <season>Winter</season>
     </item>
@@ -2179,7 +2165,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Cotton</material>
-            <material></material>
         </materials>
         <season>Winter</season>
     </item>
@@ -2191,7 +2176,6 @@
         <type>Shoes</type>
         <colors>
             <color type="primary">Black</color>
-            <color type="secondary"></color>
         </colors>
         <sizes>
             6-12
@@ -2204,7 +2188,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
-            <material></material>
         </materials>
         <season>Winter</season>
     </item>
@@ -2229,7 +2212,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
-            <material></material>
         </materials>
         <season>
           All-Season
@@ -2256,7 +2238,6 @@
         <occasion>Casual</occasion>
         <materials>
             <material>Leather</material>
-            <material></material>
         </materials>
         <season>Fall, Winter</season>
     </item>
