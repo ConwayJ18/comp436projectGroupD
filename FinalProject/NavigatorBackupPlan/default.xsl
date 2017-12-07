@@ -7,7 +7,7 @@
     <head></head>
     <body>
         <!-- <h2>Fashion Catalog Search</h2> -->
-        Products in grid: <xsl:value-of select="count(catalog/item)"/>
+        <h4>All Items (<xsl:value-of select="count(catalog/item)"/>)</h4>
         <table border="1">
           <tr bgcolor="#eaeff7" height="55px">
             <!-- <tr bgcolor="#9acd32"> -->
@@ -26,14 +26,11 @@
                 <th>Season</th>
                 <th>Material</th>
             </tr>
-             
-       
-           
-            
+
            <xsl:for-each select="catalog/item">
             <xsl:if test = "contains(.,$message)">
-             
-                <tr>                
+
+                <tr>
                     <td>
                         <a>
                         <xsl:attribute name="href">
@@ -41,7 +38,7 @@
                         </xsl:attribute>
                         <xsl:copy-of select="photo/node()"/>
                         </a>
-                    </td>					
+                    </td>
                     <td align="Middle"><xsl:value-of select="name"/></td>
                     <td align="Middle"><xsl:value-of select="type"/></td>
 
