@@ -7,11 +7,11 @@
         window.onload = function () {
             //use XHR to load
             var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "plaid.xml", false);
+            xmlhttp.open("get", "orange.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
             xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "plaid.xsl", false);
+            xmlhttp.open("get", "orange.xsl", false);
             xmlhttp.send(null);
             var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();
@@ -38,22 +38,22 @@
       <link rel="stylesheet" type="text/css" href="style.css">
      <script src="search.js"></script><br>
 
-     <!-- Side Nav -->
-     <div class="sidenav">
+  <!-- Side Nav -->
+  <div class="sidenav">
+  <div class="menu-item">
+    <h4> <a href="#">Price</a></h4>
+    <ul>
+     <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
+     <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
+    </ul>
+     </div>
      <div class="menu-item">
-       <h4> <a href="#">Price</a></h4>
-       <ul>
-        <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
-        <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
-       </ul>
-        </div>
-        <div class="menu-item">
-       <h4> <a href="#">Name</a></h4>
-       <ul>
-         <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
-         <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
-       </ul>
-         </div>
+    <h4> <a href="#">Name</a></h4>
+    <ul>
+      <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
+      <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
+    </ul>
+      </div>
 
   <div class="menu-item">
   <h4> <a href="#">Gender</a></h4>
@@ -81,28 +81,28 @@
   <div class="menu-item">
   <h4> <a href="#">Color</a></h4>
   <ul>
-    <li><a href="../Color/red.html">Red</a></li>
-    <li><a href="../Color/orange.html">Orange</a></li>
-    <li><a href="../Color/yellow.html">Yellow</a></li>
-    <li><a href="../Color/green.html">Green</a></li>
-    <li><a href="../Color/blue.html">Blue</a></li>
-    <li><a href="../Color/purple.html">Purple</a></li>
-    <li><a href="../Color/brown.html">Brown</a></li>
-    <li><a href="../Color/black.html">Black</a></li>
-    <li><a href="../Color/pink.html">Pink</a></li>
-    <li><a href="../Color/gray.html">Gray</a></li>
-     <li><a href="../Color/white.html">White</a></li>
-     <li><a href="../Color/other.html">Other</a></li>
+    <li><a href="red.html">Red</a></li>
+    <li><a href="orange.html">Orange</a></li>
+    <li><a href="yellow.html">Yellow</a></li>
+    <li><a href="green.html">Green</a></li>
+    <li><a href="blue.html">Blue</a></li>
+    <li><a href="purple.html">Purple</a></li>
+    <li><a href="brown.html">Brown</a></li>
+    <li><a href="black.html">Black</a></li>
+    <li><a href="pink.html">Pink</a></li>
+    <li><a href="gray.html">Gray</a></li>
+     <li><a href="white.html">White</a></li>
+     <li><a href="other.html">Other</a></li>
   </ul>
   </div>
   <div class="menu-item">
   <h4> <a href="#">Pattern</a></h4>
   <ul>
-  <li><a href="solid.html">Solid</a></li>
-  <li><a href="stripe.html">Stripe</a></li>
-   <li><a href="plaid.html">Plaid</a></li>
-   <li><a href="dots.html">Dots</a></li>
-     <li><a href="other.html">Other</a></li>
+  <li><a href="../Pattern/solid.html">Solid</a></li>
+  <li><a href="../Pattern/stripe.html">Stripe</a></li>
+   <li><a href="../Pattern/plaid.html">Plaid</a></li>
+   <li><a href="../Pattern/dots.html">Dots</a></li>
+     <li><a href="../Pattern/other.html">Other</a></li>
    </ul>
    </div>
    <div class="menu-item">

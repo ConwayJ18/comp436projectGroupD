@@ -7,11 +7,11 @@
         window.onload = function () {
             //use XHR to load
             var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "plaid.xml", false);
+            xmlhttp.open("get", "wool.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
             xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "plaid.xsl", false);
+            xmlhttp.open("get", "wool.xsl", false);
             xmlhttp.send(null);
             var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();
@@ -38,31 +38,31 @@
       <link rel="stylesheet" type="text/css" href="style.css">
      <script src="search.js"></script><br>
 
-     <!-- Side Nav -->
-     <div class="sidenav">
-     <div class="menu-item">
-       <h4> <a href="#">Price</a></h4>
-       <ul>
-        <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
-        <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
-       </ul>
-        </div>
-        <div class="menu-item">
-       <h4> <a href="#">Name</a></h4>
-       <ul>
-         <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
-         <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
-       </ul>
-         </div>
-
+  <!-- Side Nav -->
+  <div class="sidenav">
   <div class="menu-item">
-  <h4> <a href="#">Gender</a></h4>
-  <ul>
-    <li><a href="../Gender/men.html">Men</a></li>
-    <li><a href="../Gender/women.html">Women</a></li>
-    <li><a href="../Gender/unisex.html">Unisex</a></li>
-  </ul>
-  </div>
+    <h4> <a href="#">Price</a></h4>
+    <ul>
+     <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
+     <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
+    </ul>
+     </div>
+     <div class="menu-item">
+    <h4> <a href="#">Name</a></h4>
+    <ul>
+      <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
+      <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
+    </ul>
+      </div>
+
+      <div class="menu-item">
+      <h4> <a href="#">Gender</a></h4>
+      <ul>
+        <li><a href="../Gender/men.html">Men</a></li>
+        <li><a href="../Gender/women.html">Women</a></li>
+        <li><a href="../Gender/unisex.html">Unisex</a></li>
+      </ul>
+      </div>
   <div class="menu-item">
   <h4> <a href="#">Type</a></h4>
   <ul>
@@ -98,11 +98,11 @@
   <div class="menu-item">
   <h4> <a href="#">Pattern</a></h4>
   <ul>
-  <li><a href="solid.html">Solid</a></li>
-  <li><a href="stripe.html">Stripe</a></li>
-   <li><a href="plaid.html">Plaid</a></li>
-   <li><a href="dots.html">Dots</a></li>
-     <li><a href="other.html">Other</a></li>
+  <li><a href="../Pattern/solid.html">Solid</a></li>
+  <li><a href="../Pattern/stripe.html">Stripe</a></li>
+   <li><a href="../Pattern/plaid.html">Plaid</a></li>
+   <li><a href="../Pattern/dots.html">Dots</a></li>
+     <li><a href="../Pattern/other.html">Other</a></li>
    </ul>
    </div>
    <div class="menu-item">
@@ -113,16 +113,18 @@
     <li><a href="../Occasion/other.html">Other</a></li>
     </ul>
     </div>
+
     <div class="menu-item">
        <h4> <a href="#">Materials</a></h4>
        <ul>
-       <li><a href="../Material/cotton.html">Cotton</a></li>
-       <li><a href="../Material/denim.html">Denim</a></li>
-        <li><a href="../Material/leather.html">Leather</a></li>
-        <li><a href="../Material/polyester.html"</a>Polyester</li>
-       <li><a href="../Material/other.html">Other</a></li>
+       <li><a href="cotton.html">Cotton</a></li>
+       <li><a href="denim.html">Denim</a></li>
+        <li><a href="leather.html">Leather</a></li>
+        <li><a href="polyester.html"</a>Polyester</li>
+       <li><a href="other.html">Other</a></li>
         </ul>
         </div>
+
   <div class="menu-item">
    <h4> <a href="#">Season</a></h4>
    <ul>
