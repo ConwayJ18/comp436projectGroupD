@@ -7,11 +7,11 @@
         window.onload = function () {
             //use XHR to load
             var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xml", false);
+            xmlhttp.open("get", "other.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
             xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xsl", false);
+            xmlhttp.open("get", "other.xsl", false);
             xmlhttp.send(null);
             var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();

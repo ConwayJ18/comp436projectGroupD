@@ -7,11 +7,11 @@
         window.onload = function () {
             //use XHR to load
             var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xml", false);
+            xmlhttp.open("get", "accessories.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
             xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xsl", false);
+            xmlhttp.open("get", "accessories.xsl", false);
             xmlhttp.send(null);
             var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();
@@ -38,23 +38,22 @@
       <link rel="stylesheet" type="text/css" href="style.css">
      <script src="search.js"></script><br>
 
-
-       <!-- Side Nav -->
-       <div class="sidenav">
-       <div class="menu-item">
-         <h4> <a href="#">Price</a></h4>
-         <ul>
-          <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
-          <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
-         </ul>
-          </div>
-          <div class="menu-item">
-         <h4> <a href="#">Name</a></h4>
-         <ul>
-           <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
-           <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
-         </ul>
-           </div>
+  <!-- Side Nav -->
+  <div class="sidenav">
+  <div class="menu-item">
+  <h4> <a href="#">Price</a></h4>
+  <ul>
+   <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
+   <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
+  </ul>
+   </div>
+   <div class="menu-item">
+  <h4> <a href="#">Name</a></h4>
+  <ul>
+    <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
+    <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
+  </ul>
+    </div>
 
   <div class="menu-item">
   <h4> <a href="#">Gender</a></h4>
@@ -67,16 +66,16 @@
   <div class="menu-item">
   <h4> <a href="#">Type</a></h4>
   <ul>
-    <li><a href="../Type/shirts.html">Shirts</a></li>
-    <li><a href="../Type/outerwear.html">Outerwear</a></li>
-    <li><a href="../Type/dress.html">Dresses/Skirts</a></li>
-    <li><a href="../Type/pants.html">Pants</a></li>
-    <li><a href="../Type/shorts.html">Shorts</a></li>
-    <li><a href="../Type/shoes.html">Shoes</a></li>
-    <li><a href="../Type/socks.html">Socks</a></li>
-    <li><a href="../Type/underwear.html">Underwear</a></li>
-    <li><a href="../Type/bag.html">Bags</a></li>
-    <li><a href="../Type/accessories.html">Accessories</a></li>
+    <li><a href="shirts.html">Shirts</a></li>
+    <li><a href="outerwear.html">Outerwear</a></li>
+    <li><a href="dress.html">Dresses/Skirts</a></li>
+    <li><a href="pants.html">Pants</a></li>
+    <li><a href="shorts.html">Shorts</a></li>
+    <li><a href="shoes.html">Shoes</a></li>
+    <li><a href="socks.html">Socks</a></li>
+    <li><a href="underwear.html">Underwear</a></li>
+    <li><a href="bag.html">Bags</a></li>
+    <li><a href="accessories.html">Accessories</a></li>
   </ul>
   </div>
   <div class="menu-item">
@@ -109,9 +108,9 @@
    <div class="menu-item">
    <h4> <a href="#">Occasion</a></h4>
    <ul>
-   <li><a href="formal.html">Formal</a></li>
-   <li><a href="casual.html">Casual</a></li>
-    <li><a href="other.html">Other</a></li>
+   <li><a href="../Occasion/formal.html">Formal</a></li>
+   <li><a href="../Occassion/casual.html">Casual</a></li>
+    <li><a href="../Occasion/other.html">Other</a></li>
     </ul>
     </div>
 

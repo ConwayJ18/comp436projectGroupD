@@ -7,11 +7,11 @@
         window.onload = function () {
             //use XHR to load
             var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xml", false);
+            xmlhttp.open("get", "solid.xml", false);
             xmlhttp.send(null);
             var xmldom = xmlhttp.responseXML;
             xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "casual.xsl", false);
+            xmlhttp.open("get", "solid.xsl", false);
             xmlhttp.send(null);
             var xsltdom = xmlhttp.responseXML;
             var processor = new XSLTProcessor();
@@ -37,24 +37,22 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
       <link rel="stylesheet" type="text/css" href="style.css">
      <script src="search.js"></script><br>
-
-
-       <!-- Side Nav -->
-       <div class="sidenav">
-       <div class="menu-item">
-         <h4> <a href="#">Price</a></h4>
-         <ul>
-          <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
-          <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
-         </ul>
-          </div>
-          <div class="menu-item">
-         <h4> <a href="#">Name</a></h4>
-         <ul>
-           <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
-           <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
-         </ul>
-           </div>
+     <!-- Side Nav -->
+     <div class="sidenav">
+     <div class="menu-item">
+       <h4> <a href="#">Price</a></h4>
+       <ul>
+        <li><a href="../../SortFiles/sortlohi.html">Low-High</a></li>
+        <li><a href="../../SortFiles/sorthilo.html">High-Low</a></li>
+       </ul>
+        </div>
+        <div class="menu-item">
+       <h4> <a href="#">Name</a></h4>
+       <ul>
+         <li><a href="../../SortFiles/sortaz.html">A-Z</a></li>
+         <li><a href="../../SortFiles/sortza.html">Z-A</a></li>
+       </ul>
+         </div>
 
   <div class="menu-item">
   <h4> <a href="#">Gender</a></h4>
@@ -99,19 +97,19 @@
   <div class="menu-item">
   <h4> <a href="#">Pattern</a></h4>
   <ul>
-  <li><a href="../Pattern/solid.html">Solid</a></li>
-  <li><a href="../Pattern/stripe.html">Stripe</a></li>
-   <li><a href="../Pattern/plaid.html">Plaid</a></li>
-   <li><a href="../Pattern/dots.html">Dots</a></li>
-     <li><a href="../Pattern/other.html">Other</a></li>
+  <li><a href="solid.html">Solid</a></li>
+  <li><a href="stripe.html">Stripe</a></li>
+   <li><a href="plaid.html">Plaid</a></li>
+   <li><a href="dots.html">Dots</a></li>
+     <li><a href="other.html">Other</a></li>
    </ul>
    </div>
    <div class="menu-item">
    <h4> <a href="#">Occasion</a></h4>
    <ul>
-   <li><a href="formal.html">Formal</a></li>
-   <li><a href="casual.html">Casual</a></li>
-    <li><a href="other.html">Other</a></li>
+   <li><a href="../Occasion/formal.html">Formal</a></li>
+   <li><a href="../Occassion/casual.html">Casual</a></li>
+    <li><a href="../Occasion/other.html">Other</a></li>
     </ul>
     </div>
 
