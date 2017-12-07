@@ -1,29 +1,21 @@
+
 <!DOCTYPE html>
 <html>
-<head>
-              <link rel="stylesheet" type="text/css" href="style.css">
-    <title>Fashion Tag</title>
-    <script type="text/javascript">
-        window.onload = function () {
-            //use XHR to load
-            var xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "catalog.xml", false);
-            xmlhttp.send(null);
-            var xmldom = xmlhttp.responseXML;
-            xmlhttp = new XMLHttpRequest();
-            xmlhttp.open("get", "default.xsl", false);
-            xmlhttp.send(null);
-            var xsltdom = xmlhttp.responseXML;
-            var processor = new XSLTProcessor();
-            processor.importStylesheet(xsltdom);
-            var fragment = processor.transformToFragment(xmldom, document);
-            var div = document.getElementById("divResult");
-            div.appendChild(fragment);
-        }
-    </script>
-</head>
-<body>
-    <p></p>
-    <div id="divResult"></div>
-</body>
+
+   <head>
+      <title>Fashion Catalog</title>
+   </head>
+
+   <frameset rows = "15%,80%,5%" >
+     <frame name = "header" src = "header.html" frameborder ="0" scrolling = "no"/ noresize>
+     <frameset cols="15%,85%">
+       <frame name = "sidebar" src = "sortingpanel.html"  frameborder ="0" noresize/>
+       <frame name = "main" src = "catalog.xml"  frameborder = "0" noresize/>
+    </frameset>
+    <frame name = "footer" src = "footer.html" frameborder ="0" scrolling = "no" noresize/>
+      <noframes>
+         <body>Your browser does not support frames.</body>
+      </noframes>
+   </frameset>
+
 </html>
