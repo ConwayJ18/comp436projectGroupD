@@ -1,4 +1,4 @@
-/* Site  header */
+/* Set  header */
 header{
 background-color: #66CDAA;
 padding: 5px;
@@ -35,4 +35,13 @@ a h2{
   font-size: 12px;
   letter-spacing: 2px;
   text-decoration: none;
+}
+
+/* site footer */
+footer {
+  background-color: #cd9166;
+  color: white;
+  padding: 1px;
+  font-size: 11px;
+  letter-spacing: 1px;
 }
