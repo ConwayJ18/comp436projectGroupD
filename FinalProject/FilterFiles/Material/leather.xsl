@@ -39,6 +39,7 @@
 					<td align="Middle">
             <xsl:for-each select="colors/color">
 						<xsl:value-of select="."/><br/>
+                          <xsl:text> </xsl:text>
 						</xsl:for-each>
 					</td>
             <!-- <td align="Middle">

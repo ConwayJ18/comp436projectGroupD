@@ -26,6 +26,7 @@
                 <th>Material</th>
             </tr>
             <xsl:for-each select="catalog/item[materials/material='Cotton']">
+
         <tr>
           <a>
               <xsl:attribute name="href">
@@ -57,6 +58,7 @@
                     <td align="Middle"><xsl:value-of select="season"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
 					<xsl:value-of select="."/>
+                        <xsl:text> </xsl:text>
 					</xsl:for-each>
         </td>
       </tr>

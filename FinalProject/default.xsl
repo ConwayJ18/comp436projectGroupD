@@ -26,14 +26,10 @@
                 <th>Season</th>
                 <th>Material</th>
             </tr>
-             
-       
-           
-            
            <xsl:for-each select="catalog/item">
             <xsl:if test = "contains(.,$message)">
-             
-                <tr>                
+
+                <tr>
                     <td>
                         <a>
                         <xsl:attribute name="href">
@@ -41,7 +37,7 @@
                         </xsl:attribute>
                         <xsl:copy-of select="photo/node()"/>
                         </a>
-                    </td>					
+                    </td>
                     <td align="Middle"><xsl:value-of select="name"/></td>
                     <td align="Middle"><xsl:value-of select="type"/></td>
 
@@ -66,6 +62,7 @@
                     <td align="Middle"><xsl:value-of select="season"/></td>
                     <td align="Middle"><xsl:for-each select="materials/material">
 					    <xsl:value-of select="."/>
+              <xsl:text> </xsl:text>
 					    </xsl:for-each>
                     </td>
                 </tr>
